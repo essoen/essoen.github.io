@@ -1,0 +1,5 @@
+baseURL = "http://svorstol.com/"
+languageCode = "no-NB"
+theme = "hugo-bearblog"
+title = "Stein-Otto Svorstøl"
+author = "Stein-Otto Svorstøl"
