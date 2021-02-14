@@ -3,5 +3,5 @@ organizations. In particular product oriented organizations, working on digital 
 
 Find me on
 [Linkedin](https://www.linkedin.com/in/essoen/) |
-[Goodreads](https://www.goodreads.com/user/show/10288905-esso) | [Medium](https://medium.com/@Esso)
+[Goodreads](https://www.goodreads.com/essoen) | [Medium](https://medium.com/@Esso)
 | [Twitter](https://twitter.com/EssoNet) | [Github](https://github.com/essoen)
