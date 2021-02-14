@@ -4,4 +4,5 @@ organizations. In particular product oriented organizations, working on digital 
 You can reach me by email on steinotto@svorstol.com
 
 Find me on ..
+
 [Linkedin](https://www.linkedin.com/in/essoen/) | [Goodreads](https://www.goodreads.com/essoen) | [Medium](https://medium.com/@Esso) | [Twitter](https://twitter.com/EssoNet) | [Github](https://github.com/essoen)
