@@ -1,4 +1,4 @@
-baseURL = "http://svorstol.com/"
+baseURL = "https://essoen.github.io/"
 languageCode = "no-NB"
 theme = "hugo-bearblog"
 title = "Stein-Otto Svorstøl"
