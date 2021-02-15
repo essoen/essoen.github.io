@@ -3,4 +3,4 @@ organizations. In particular I enjoy working on digital products, in product ori
 
 Outside work I enjoy hiking and other outdoorsy activites, reading books, gin, and spending unproportional amounts of time researching novelty devices.
 
-Sometimes I write stuff, and sometimes I publish it here.
+Sometimes I write stuff, and sometimes I publish on my [blog](/blog).
