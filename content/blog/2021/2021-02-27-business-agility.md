@@ -47,4 +47,4 @@ We need to stop placing "a representative for the business" as a Product Owner i
 [^1]: As defined in the [Cynefin Framework](https://en.wikipedia.org/wiki/Cynefin_framework)
 [^2]: This gang over at Agile Business https://www.agilebusiness.org/page/WhatisBusinessAgility
 [^3]: Reserach tells us that it is really hard to build cross-functionl teams. Or it tells us that doing it in just a part of the business is hard. https://hbr.org/2015/06/75-of-cross-functional-teams-are-dysfunctional
-[^4] A nickname for an organization based on [feature teams](https://svpg.com/product-vs-feature-teams/)
+[^4]: A nickname for an organization based on [feature teams](https://svpg.com/product-vs-feature-teams/)
