@@ -1,12 +1,7 @@
 +++
 title = "Using Team Topologies to reorganize a consultant company"
 date = "2021-02-14T18:03:29+01:00"
-
-#
-# description is optional
-#
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
-
+description = "Implementing Team Topologies in a consultant company"
 tags = []
 +++
 
