@@ -1,13 +1,13 @@
 ---
 title: "How I Work"
-date: 2022-01-12T00:10:34+01:00
+date: 2022-01-20T00:10:34+01:00
 description: "A informational overview of how "
 menu: "main"
 tags: ["management"]
 draft: false
 ---
 # How I work, an informational manual
-_Version 1.0_
+_Version 1.0_, (January 20, 2022)
 
 Over the last couple of years, I've seen people share "instruction manuals" for
 themselves, shared through their personal websites. I recognize I'd value this
@@ -21,6 +21,14 @@ Delimarsky](https://den.dev/how-i-work/).
 Please note, this is a continuous work in progress, as I learn and improve. If
 it doesn’t make sense, or doesn’t fit with your experience of me, please reach
 out.
+
+## Principles
+
+A couple of things I value and believe in:
+
+* Making everyone heard and trusted - people are quite knowledgeable, and will give great input. With trust, we great even better results. 
+* Taking action - stop discussing, let's try something out, get data or just go ahead and do it
+* Building multi-disciplinary teams - most problems are not one sided, i.e. cannot in full be solved by an area of expertise. Neither is one person alone the best way to handle problems or workloads.
 
 ## Work Schedule
 
@@ -67,6 +75,6 @@ differently.
 
 ## Other notes
 * Don't hesitate to reach out if you're blocked, or something's bothering you
-* I enjoy to read, and discuss it. Maybe post some book notes and share. It's nice to get inspired by others experiences, and see if one can use something from them. To get the time for reading, and trying things out, [I book time in my calendar](https://todoist.com/productivity-methods/time-blocking). The same goes for setting aside time to work on specific tasks.
+* I enjoy to read, and discuss it. It's nice to get inspired by others experiences, and see if one can use something from them. To get the time for reading, and trying things out, [I book time in my calendar](https://todoist.com/productivity-methods/time-blocking). The same goes for setting aside time to work on specific tasks.
 * During vacations I am usually literally offline, i.e. I'm in the mountains with no coverage
 * I find the [The Eisenhower matrix](https://todoist.com/productivity-methods/eisenhower-matrix), and the [Impact/Effort-matrix ](https://miro.com/templates/impact-effort-matrix/) useful, and might refer to them a few times.
