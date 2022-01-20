@@ -43,5 +43,33 @@ It’s been useful to me; it might be useful to you too.
 
 ![Model](/2022/okr-metric-model.jpg)
 
-OKR, like agile, is not a silver bullet. We'll always need tailoring for our
-context.
+To add some explanation: The idea is that there are several levels of metrics,
+and needs for metrics. The levels would be something like:
+
+1.  The old school Key Performance Indicators shows what the business area or
+    whole organization values as important in terms of business performance.
+    What would be acceptable levels for each of them?
+
+2.  Then you define one or more Objectives, that is meant to change performance
+    in the KPI. You define several Key Results that might tell you if you’re on
+    the right track.
+
+3.  The OKRs might be broken down by other units/teams, so that they are more
+    meaningful to them
+
+4.  Finally, we define some initiatives, that is the actual work or output that
+    can contribute to desired outcomes.
+
+5.  In addition, teams with well-established responsibilities might also need to
+    track indicators that shows if the “heartbeat” work is on track. If your app
+    rating falls to the ground, that new feature might not matter. You’ll need
+    to refocus.
+
+Based on this, some teams might only work directly with OKRs, not even needing
+any task management as the team is so small, and things are moving fast. Other
+teams will have a few working directly to test hypotheses to move the needle on
+an OKR, while others work on an initiative that was promised to another
+department. I’ve found it help to build understanding, and make the OKRs useful,
+by being aware of the differences and track them appropriately. OKR, like agile,
+is not a silver bullet. We'll always need tailoring for our context.
+
