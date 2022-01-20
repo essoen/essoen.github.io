@@ -3,7 +3,7 @@ title: "How I Work"
 date: 2022-01-12T00:10:34+01:00
 description: "A informational overview of how "
 menu: "main"
-tags: ["work", "management"]
+tags: ["management"]
 draft: false
 ---
 # How I work, an informational manual

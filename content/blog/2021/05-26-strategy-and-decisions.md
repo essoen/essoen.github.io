@@ -1,7 +1,7 @@
 ---
 title:  "Making decisions often for increased flow everywhere in your organization"
 date: "2021-05-26T10:39:47+02:00"
-description: "strategy-and-decisions"
+description: "Increase flow by making it easier to understand your strategy, and make decisions based on it."
 tags: ["talks"]
 draft: false
 ---
@@ -15,7 +15,7 @@ In short, I have four suggestions to make smaller and faster decisions:
 3. Build platforms that teams and individuals can build on: Both technical platforms but also business platforms. Enable your people to make decisons that align, not just expect them to! This might include an updated company strategy, or simply the the general requirements for a vendor.
 4. Be transparent! Make sure that everyone knows what each team is working on, and why. Why and how they make their decisions. And if a bigger decision really is needed, make sure the process for it well defined and transparent.
 
-The talk is in Norwegian, and can be seen below.  Slides may be read [here](/CC21.pdf)
+The talk is in Norwegian, and can be seen below.  Slides may be read [here](/2021/CC21.pdf)
 
 Enjoy
 

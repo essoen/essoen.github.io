@@ -1,17 +1,18 @@
 ---
 title:  "Solving complex problems as fast as possible"
 date: "2021-02-27T21:43:16+01:00"
-description: "An argument for how most problems in business are complex, and how teams with different backgrounds will be better suited to solve these problems than 'silos' or 'deliery machines'"
+description: "An argument for how most problems in business are complex, and how teams with different backgrounds will be better suited to solve these problems than 'silos' or 'delivery machines'"
+tags: ["agile", "organization design"]
 ---
 
-As agile methods for software development has been quite widely adopted, the fact that hitting the specification on software is hard, also has been generally accepted. It has been hard, but it is now quite widely accepted that smaller iterations and getting user feedback fast, is crucial to building software that covers actual needs. This means better software, and better products. This trend means that we are starting to recognize that both product and software development are in of itself are complex problems [^1], where the solution will be emerging over time. It cannot be defined up fornt. It will also be improved over time, through discovery. This means that it actually not a about the product, nor the software. It is not about business, or earning money. It is about solving complex problems, and doing it faster than anyone else. How?
+As agile methods for software development has been quite widely adopted, the fact that hitting the specification on software is hard, also has been generally accepted. It has been hard, but it is now quite widely accepted that smaller iterations and getting user feedback fast, is crucial to building software that covers actual needs. This means better software, and better products. This trend means that we are starting to recognize that both product and software development are in of itself are complex problems [^1], where the solution will be emerging over time. It cannot be defined up front. It will also be improved over time, through discovery. This means that it actually not a about the product, nor the software. It is not about business, or earning money. It is about solving complex problems, and doing it faster than anyone else. How?
 
  ### What enables us to solve complex problems?
  To build "business agility", I argue that one must build an organizations capability to solve problems, more importantly complex ones. Most problems will be:
 
- > Most situations and decisions in organizations are complex because some major change—a bad quarter, a shift in management, a merger or acquisition—introduces unpredictability and flux. In this domain, we can understand why things happen only in retrospect. (Snowden and Boone, [here](https://hbr.org/2007/11/a-leaders-framework-for-decision-making))
+ > Most situations and decisions in organizations are complex because some major change — a bad quarter, a shift in management, a merger or acquisition—introduces unpredictability and flux. In this domain, we can understand why things happen only in retrospect. (Snowden and Boone, [here](https://hbr.org/2007/11/a-leaders-framework-for-decision-making))
  
- Snowden and Boone writes about this type of problems to adress how a leader might apporach them. As autonomy increases, more decisions are done everywhere in the organization. I.e. more problems are solved further "down" in the hierarchy. How does not one approach such problems, and make the solution as good as it can? An example approach can be found [here](https://txm.com/making-sense-problems-cynefin-framework/). It reads:
+ Snowden and Boone writes about this type of problems to address how a leader might approach them. As autonomy increases, more decisions are done everywhere in the organization. I.e. more problems are solved further "down" in the hierarchy. How does not one approach such problems, and make the solution as good as it can? An example approach can be found [here](https://txm.com/making-sense-problems-cynefin-framework/). It reads:
 
 1. Explore to learn about the problem, as they require more creativity and innovative thinking skills
 2. Develop a theory and experiment to gather more knowledge

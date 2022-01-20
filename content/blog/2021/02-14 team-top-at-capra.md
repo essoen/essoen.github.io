@@ -2,7 +2,7 @@
 title: "Using Team Topologies to reorganize a consultant company"
 date: "2021-02-14T18:03:29+01:00"
 description: "Implementing Team Topologies in a consultant company"
-tags: []
+tags: ["organization design"]
 ---
 
 In the last year or so I have been involved in reorganizing the company where I work, Capra Consutling, based on the same prinicples as one would want to organize software development. In short, we had an organizations based on roles and hierarchies which made sense when we were no more than 50 employees. When we arrived at 100 employees, it was natural to do some changes, but we did not want to add an extra layer of hierarchy. Therefore, our goal instead was to build a team based organization. We want to create highly autonomous teams, while still maintaining alignment across teams.
