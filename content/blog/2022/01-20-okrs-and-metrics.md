@@ -1,6 +1,6 @@
 ---
 title:  "OKRs are not a silver bullet for tracking work"
-date: "2022-01-20T11:19:02+01:00"
+date: "2022-01-20T20:19:02+01:00"
 description: "In my experience, OKRs are not suitable for everyone and everything. Being clear on when and how you use them, is far more important than being able to say that one uses them in marketing."
 draft: false
 tags: ["okr", "management"]
