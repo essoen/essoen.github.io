@@ -20,7 +20,7 @@ fields:
   config:
     use_select: true
     source:
-      type: pages
+      type: simple
       section: blog
     options:
     - management
@@ -29,7 +29,3 @@ fields:
     - okr
     - agile
     - books
-- name: draft
-  type: boolean
-  label: draft
-  default: true
