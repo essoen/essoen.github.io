@@ -29,3 +29,5 @@ fields:
     - okr
     - agile
     - books
+pages:
+- content/blog/2022/using-a-roadmap-in-an-agile-team.md
