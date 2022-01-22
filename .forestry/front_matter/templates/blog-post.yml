@@ -28,6 +28,7 @@ fields:
     - organizational design
     - okr
     - agile
+    - books
 - name: draft
   type: boolean
   label: draft
