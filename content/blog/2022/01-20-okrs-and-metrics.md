@@ -1,11 +1,14 @@
 ---
-title:  "OKRs are not a silver bullet for tracking work"
-date: "2022-01-20T20:19:02+01:00"
-description: "In my experience, OKRs are not suitable for everyone and everything. Being clear on when and how you use them, is far more important than being able to say that one uses them in marketing."
-draft: false
-tags: ["okr", "management"]
----
+title: OKRs are not a silver bullet for tracking work
+date: 2022-01-20T20:19:02+01:00
+description: In my experience, OKRs are not suitable for everyone and everything.
+  Being clear on when and how you use them, is far more important than being able
+  to say that one uses them in marketing.
+tags:
+- okr
+- management
 
+---
 OKRs are becoming increasingly popular. Most business want to use them for
 creating focus, tracking if initiatives to decide if they hit on desired
 outcomes, as well as creating alignment in the organisation. Not only for new
@@ -20,10 +23,10 @@ year before, will of course struggle with defining the
 Key Results. To them, the result is delivering the feature, a binary goal. The
 desired outcome is not clear to them, and it’s not even clear if that initiative
 is the only or the best one to deliver the outcome *someone* desires. The teams
-I’ve worked in this context, feel that they’re trying to fit a model to our
-context, solving problems that does not really exist.
+I’ve worked in this context, feel that they’re trying to retrofit a model to thier
+context, solving problems that they might not agree exsist.
 
-Thankfully, others have the same take. Christina Wodtke who wrote the fantastic
+Thankfully, I'm not alone in seeintg this. Christina Wodtke who wrote the fantastic
 book [Radical
 Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028),
 recently wrote this
@@ -72,4 +75,3 @@ an OKR, while others work on an initiative that was promised to another
 department. I’ve found it help to build understanding, and make the OKRs useful,
 by being aware of the differences and track them appropriately. OKR, like agile,
 is not a silver bullet. We'll always need tailoring for our context.
-
