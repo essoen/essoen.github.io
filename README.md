@@ -5,4 +5,4 @@ Built with [Hugo](https://gohugo.io/), using the fantastic [Bear-theme](https://
 
 New post: `hugo new blog/<year>/date-postname.md`
 
-May also be edited with [forestry.io](www.forestry.io)
+May also be edited with [forestry.io](http://forestry.io)
