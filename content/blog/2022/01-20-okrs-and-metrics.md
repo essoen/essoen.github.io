@@ -72,6 +72,6 @@ Based on this, some teams might only work directly with OKRs, not even needing
 any task management as the team is so small, and things are moving fast. Other
 teams will have a few working directly to test hypotheses to move the needle on
 an OKR, while others work on an initiative that was promised to another
-department. I’ve found it help to build understanding, and make the OKRs useful,
+department. I’ve found that it helps in building understanding, and in turn make OKRs useful,
 by being aware of the differences and track them appropriately. OKR, like agile,
-is not a silver bullet. We'll always need tailoring for our context.
+is not a silver bullet. We'll always need to tailor to context.
