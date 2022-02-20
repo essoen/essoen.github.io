@@ -1,34 +1,35 @@
 +++
-date = 2022-01-23T13:44:22Z
-description = "Thoughts on using a roadmap when what to build isn't decided"
-draft = true
+date = 2022-02-21T07:00:00Z
+description = "Thoughts on what a roadmap is, and how to use it in an agile product team"
 tags = ["management", "agile"]
-title = "Using a roadmap in an agile context"
+title = "Roadmaps in an agile team"
 
 +++
-# Roadmaps in an agile context
+# Roadmaps in an agile team
 
-A colleague and I discussed 
+A colleague and I recently discussed the role of roadmaps in an agile context. He pointed to some books and sources, saying roadmaps are useless or unimportant. This also plays into the #NoEstimates movement. 
 
-I hadn't read the book myself, but I went through the chapters on roadmaps
+Specifically, my colleague pointed to the book "Inspired" by Marty Cagan. I hadn't read the book myself, but I went through the chapters on roadmaps. Here's a relevant quote:
 
 > The issue is that anytime you put a list of ideas on a document entitled “roadmap,” no matter how many disclaimers you put on it, people across the company will interpret the items as a commitment.
 >
 > _- Cagan, Marty. Inspired (p. 111). Wiley. Kindle Edition._
 
-It should give someone looking at it an idea of:
+He has also written about this online, such as [here](https://svpg.com/the-alternative-to-roadmaps/). His point is that roadmaps with defined features and deliveries, reduce the team to a feature factory. There's no leading by context.
 
-1. What are we working on right now, and why
-2. Clues as to what problems are going to be addressed in the next iteration/time-box
-3. And when that iteration/time-box is
+I agree with this, but I still do believe and experience that having an idea of what happens when, and being able to communicate this, is necessary in most organizations. The success of the roadmap in any context, depends on what it looks like and how it's communicated. In general, I find it useful to have a roadmap that gives teams and stakeholders an idea of:
+
+1. The overall business strategy and goals for your product (i.e. context)
+2. What are we working on right now, and how that links to goals and strategy
+3. Clues as to what problems are going to be addressed in the next iteration or time-box, based on that context. The clues might be suggestions for the OKRs to work on in the next iteration.
+
+In some cases, it also provides and idea of when that iteration/time-box is, approximately 
 
 This does not have to be as rigid and difficult as one might associate with a roadmap in a traditional sense. A list of "doing now" and "up next", with some business context for each item, might do the trick if stakeholders have a product-oriented understanding and mindset.
 
 For this to work, the roadmap must be:
 
-1. Updated continuously
-2. Approved/get buy-in regularly
+1. Updated continuously, i.e. be a living document
+2. In a position where it receives continuous feedback from users and stakeholders, and make sure they "buy in"
 
-And I'd say the "approval cadence" should be at least once a month.
-
-[https://productcoalition.com/creating-your-first-product-roadmap-ec1c57a5a407](https://productcoalition.com/creating-your-first-product-roadmap-ec1c57a5a407 "https://productcoalition.com/creating-your-first-product-roadmap-ec1c57a5a407")
+When building the first roadmap for a new team or context, I've found the approach described in [this article](https://productcoalition.com/creating-your-first-product-roadmap-ec1c57a5a407) really useful. It also adresses how to identify the context your team operate in, which in turn will help you tell the story about why the current work items are the current work items. 
