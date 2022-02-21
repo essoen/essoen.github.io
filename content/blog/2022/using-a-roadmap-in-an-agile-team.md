@@ -1,11 +1,13 @@
-+++
-date = 2022-02-21T06:00:00Z
-description = "Thoughts on what a roadmap is, and how to use it in an agile product team"
-tags = ["management", "agile"]
-title = "Roadmaps in an agile team"
+---
+date: 2022-02-21T06:00:00Z
+description: "Thoughts on what a roadmap is, and how to use it in an agile product team"
+tags: 
+- okr
+- management
+title: "Roadmaps in an agile team"
+---
 
-+++
-A colleague and I recently discussed the role of roadmaps in an agile context. He pointed to some books and sources, saying roadmaps are useless or unimportant. This also plays into the #NoEstimates movement.
+A colleague and I recently discussed the role of roadmaps in an agile context. He pointed to some books and sources, saying roadmaps are useless or unimportant. This also plays into the #NoEstimates movement. 
 
 Specifically, my colleague pointed to the book "Inspired" by Marty Cagan. I hadn't read the book myself, but I went through the chapters on roadmaps. Here's a relevant quote:
 
