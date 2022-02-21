@@ -1,5 +1,5 @@
 +++
-date = 2022-02-21T07:00:00Z
+date = 2022-02-21T06:00:00Z
 description = "Thoughts on what a roadmap is, and how to use it in an agile product team"
 tags = ["management", "agile"]
 title = "Roadmaps in an agile team"
