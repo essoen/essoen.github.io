@@ -1,7 +1,6 @@
 +++
 date = 2022-03-07T17:49:03Z
 description = "Thoughts on how education helps everyone see the same future, while communication helps everyone see what the current situation is. Experiments, also in how we communicate with each other, helps to move us forward."
-draft = true
 tags = ["agile"]
 title = "Communication and Education in an Agile Transition"
 
