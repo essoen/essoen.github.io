@@ -34,4 +34,4 @@ This would bring us into a feedback loop between goals (education), and creating
 
 How would you balance communication and education in an agile transition? Does this relationship make sense? 
 
-\[^1\]: Examples of roles are my own, not directly from the book
+[^1]: Examples of roles are my own, not directly from the book
