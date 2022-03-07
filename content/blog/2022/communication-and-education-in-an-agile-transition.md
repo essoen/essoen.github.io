@@ -16,13 +16,13 @@ From [Rethinking Agile](https://www.amazon.com/Rethinking-Agile-Nothing-Business
 
 In some organizations, these levels might have multiple layers.
 
-Both education and communication has to be done at all these levels, and also between various levels. My take is that in a large scale agile transition, I'd guess that education primarily would be used to give an idea of what the ideal state might look like. One cannot do educational activities, such as asking everyone to watch a set of videos, to give a common understanding of where one is at. For that, facilitated workshops, and all levels of the organization, must be put in place.
+Both education and communication has to be done at all these levels, and also between the  levels. My take is that in a large scale agile transition, I'd guess that education primarily would be used to give an idea of what the ideal state might look like. One cannot do educational activities, such as asking everyone to watch a set of videos, to give a common understanding of where one is at. For that, facilitated workshops, and all levels of the organization, must be put in place.
 
 In practice, I am guessing it'd look something like this:
 
-1. Two-way communication to assess where we are, which might be done through
-   1. Facilitated workshops at all levels
-   2. Sharing findings through all hands meetings
+1. Various ways of two-way communication to assess where we are, which might be done through
+   1. Facilitated workshops at all levels to identify desired outcomes, and assess current situation
+   2. Share desired outcomes at all levels, and findings, through townhalls, all hands meetings etc. 
 2. Educate to make people see where to go, which might be done through
    1. Community of practice
    2. Book clubs and reading lists
@@ -30,7 +30,7 @@ In practice, I am guessing it'd look something like this:
    4. Agile coaching
 3. Experiments to find out how to move forward
 
-This would bring us into a feedback loop between goals (education), and creating a common understanding of where we are. The relation between the two, is through experiments, just like the [Adventures With Agile Playbook](https://simonpowers.medium.com/change-the-awa-playbook-by-simon-powers-2c08c481361c) says.
+This would bring us into a feedback loop between goals (education), and creating a common understanding of where we are. The relation between the two, is experiments, just like the general approach from  [Adventures With Agile Playbook](https://simonpowers.medium.com/change-the-awa-playbook-by-simon-powers-2c08c481361c). The learning and education would soon also be brought into the discussions on the current situation, providing another arena for challenging and developing the agile mindset.
 
 How would you balance communication and education in an agile transition? Does this relationship make sense? 
 
