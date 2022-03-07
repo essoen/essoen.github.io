@@ -8,7 +8,7 @@ title = "Communication and Education in an Agile Transition"
 +++
 This week I am attending the [ICP-CAT course](https://www.icagile.com/certification/coaching-agile-transitions). One of the assignments was regarding how to use education and communication in an agile transition. One of the discussions sparked my interest, and I thought more about it after the course. This brought me to a model of how I'd address the need for communication and education, that might be useful for others as well.
 
-From [Rethinking Agile](https://www.amazon.com/Rethinking-Agile-Nothing-Business-Agility/dp/3903205397) we have three levels in an organization \[^1\]:
+From [Rethinking Agile](https://www.amazon.com/Rethinking-Agile-Nothing-Business-Agility/dp/3903205397) we have three levels in an organization [^1]:
 
 1. Operational Level, i.e. team level
 2. Co-ordinational Level. i.e. heads of department or business area
