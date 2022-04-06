@@ -29,8 +29,8 @@ out.
 
 A couple of things I value and believe in:
 
-* Making everyone heard and trusted - people are quite knowledgeable, and will give great input. With trust, we great even better results.
-* Taking action - stop discussing, let's try something out, get data or just go ahead and do it
+* Making everyone heard and trusted - people are quite knowledgeable, and will give great input. With trust, we achieve even better results.
+* Bias towards action: Let's stop discussing, and try something out. That could be getting real data, or just try it. 
 * Building multi-disciplinary teams - most problems are not one sided, i.e. cannot in full be solved by an area of expertise. Neither is one person alone the best way to handle problems or workloads.
 
 ## Work Schedule
@@ -45,7 +45,7 @@ It's almost never that urgent.
 
 I prefer asynchronous communication via Slack/messaging tool, over emails. I do not expect instant replies, even during the regular workday. I like when my team uses open team Slack-channels to ask questions, or talk about ideas, because I believe it empowers the whole team.
 
-[Inbox Zero](https://blog.doist.com/inbox-zero/) is great, and I follow it. But, most emails are not urgent, so I do not handle it as such. If you need a fast answer, call instead of e-mailing. Or call me after the email is sent. To me, an email can wait to be answered for two days. If not, one should tell the recipient about the urgency.
+[Inbox Zero](https://blog.doist.com/inbox-zero/) is great, and I follow it. But, most emails are not urgent, so I do not handle it as such. I check email around twice a day. This means that if you need a fast answer, call instead of e-mailing. Or call me after the email is sent. To me, an email can wait to be answered for two days. If not, one should tell the recipient about the urgency.
 
 To me, discussions fit better in Slack or a meeting, rather than email. Usually we have discussions over a particular decisions. It's easier to have these discussions if we write out the alternatives, the arguments for each of them, beforehand. This helps us get to the details, and where we disagree, faster.
 
@@ -63,6 +63,8 @@ it easier to work and deliver value together.
 It's worth mentioning that I appreciate that some meetings need to be more ad
 hoc, and not as planned. It's nice to be clear on that need as well. This is
 crucial in these times of hybrid work.
+
+Speaking of hybrid work: I want to work asynchronous where possible, and reduce the time we're in synchronous meetings. This enables us to do more. [and saves our time off](https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits&cta=1&src=ph).
 
 ### Feedback
 
