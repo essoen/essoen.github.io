@@ -10,7 +10,8 @@ menu:
 ---
 # How I work, an informational manual
 
-_Last updated April 28, 2022_
+_First written January 20, 2022.   
+Last updated April 28, 2022._
 
 Over the last couple of years, I've seen people share "instruction manuals" for themselves shared through their personal websites. I recognize I'd value this instructional/informational overview for my own manager, so I might as well provide that for those who I manage, those that I work with, and the managers that I report to. [This
 article](https://www.remotecompany.com/blog/how-to-work-with-me-manual)
