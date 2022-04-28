@@ -1,7 +1,7 @@
 ---
 title: How I Work
 date: 2022-01-20T00:10:34.000+01:00
-description: 'A informational overview of how '
+description: A informational overview of how to I like to work
 tags:
 - management
 menu:
