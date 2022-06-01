@@ -6,6 +6,7 @@ tags = ["management", "talks", "okr"]
 title = "OKRs when scaling"
 
 +++
+I recently held a short talk on OKRs, and how their usage develops over time when used in a scaling organization. Here's a short summary of the talk, which was in Norwegian. The original slide deck can be found 
 
 ## What's the model about?
 
@@ -23,9 +24,7 @@ So, why would you use OKRs?
 Drucker nevnte for MBO at det skaper engasjement og motivasjon. Det er også hensikt med OKR. I tillegg
 
 1. Det kan skape transparens i hva som er i fokus i enkeltteam og helhetlig, Noe som gjø at vi kan unngå å aktivt måtte spørre andre om hva de driver med, slik Steve ville unngå.
-
-
-1. Øke forståelse for og sammenheng mellom overordnet strategi
+2. Øke forståelse for og sammenheng mellom overordnet strategi
 
 This is how you'd usually implement OKRs:
 
@@ -53,11 +52,11 @@ Konkret er min erfaring at disse to tingene er problematisk for mange team:
 
 ## Advice on implementation
 
-1. Be clear on why
-2. Connect it to your strategy
-3. Focus on what you can measure
-4. Don't fret too much about the framework
+So, based on my experience, the following advice might be useful for teams and organizations that want to implement the OKR model:
 
-## 
+1. Be clear on why you want to use OKRs in the first place. Hopefully, it's not just hype.
+2. Connect OKRs directly to your strategy, i.e. make sure that Objectives are based on you strategy
+3. Focus on what you can measure, instead of spending lots of time discussing whether it's the best measurement
+4. Don't fret too much about the framework, instead focus on why and how it's useful to you and your company
 
-Hva skyldes det?
+Good luck!
