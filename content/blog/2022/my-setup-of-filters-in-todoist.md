@@ -1,8 +1,7 @@
 +++
 date = 2022-06-21T10:57:49Z
 description = ""
-draft = true
-tags = []
+tags = ["productivity"]
 title = "My setup of filters in Todoist"
 
 +++
