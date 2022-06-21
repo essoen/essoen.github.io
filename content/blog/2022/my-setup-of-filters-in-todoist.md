@@ -1,17 +1,19 @@
 +++
 date = 2022-06-21T10:57:49Z
-description = ""
+description = "A short note on how I've made the application Todoist useful for me"
 tags = ["productivity"]
 title = "My setup of filters in Todoist"
 
 +++
-I'm a big fan of [Todoist](www.todoist.com), and recently a colleague asked me about my setup, Here's an overview:
+I'm a big fan of [Todoist](www.todoist.com), and I've used it as my main to-do app for around 7 years. I picked it after some extensive research after Wunderlist was bought by Microsoft. Recently a colleague asked me about my setup, Here's a short overview:
 
-* One project per context, where I have two main projects: Work and Personal
+* I have one project per context, where I have two main projects: Work and Personal
 * Each project has two sections: Do Now and Backlog
-* This enables me to have the following useful filters:
+* This enables me to have the following really useful filters:
   * Overdue first, then inbox, then all work items for today, and finally all personal items for today: `overdue, #Inbox, (##Work & today), (##Personal & today)`
   * Do Now or Backlog for a context: `(##Work ) & /Do Now` or `(##Work ) & /Backlog`, and similarly with `##Personal`
+
+See [here](https://todoist.com/help/articles/introduction-to-filters) for more on how filters work in Todoist.
 
 In addition, I have a separate main project for agendas with people, i.e. things I want to talk about with person X.
 
