@@ -13,7 +13,7 @@ I'm a big fan of [Todoist](www.todoist.com), and I've used it as my main to-do a
   * Overdue first, then inbox, then all work items for today, and finally all personal items for today: `overdue, #Inbox, (##Work & today), (##Personal & today)`
   * Do Now or Backlog for a context: `(##Work ) & /Do Now` or `(##Work ) & /Backlog`, and similarly with `##Personal`
 
-See [here](https://todoist.com/help/articles/introduction-to-filters) for more on how filters work in Todoist.
+See [here](https://todoist.com/help/articles/introduction-to-filters) for more on how filters work in Todoist, and more [suggestions on use](https://blog.doist.com/todoist-filters).
 
 In addition, I have a separate main project for agendas with people, i.e. things I want to talk about with person X.
 
