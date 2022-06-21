@@ -14,3 +14,9 @@ I'm a big fan of [Todoist](www.todoist.com), and recently a colleague asked me a
   * Do Now or Backlog for a context: `(##Work ) & /Do Now` or `(##Work ) & /Backlog`, and similarly with `##Personal`
 
 In addition, I have a separate main project for agendas with people, i.e. things I want to talk about with person X.
+
+It's also worth mentioning the tool [Tascaly](https://www.tascaly.com/), which creates a calendar event for tasks that has a scheduled time of day, as well as a label for how long it'll take. E.g. `today at 13 @1h` becomes a 1-hour slot at 13:00.
+
+I have also made it easy for me to send tasks to Todoist. So I've added the Todoist extension for my email apps, and to Slack. This enables me to schedule/plan for everything in one place. Sadly, the Todoist extension for Slack only supports one Slack team at a time. To enable me to add tasks from multiple teams, I've set up this [zap from Zapier](https://zapier.com/apps/slack/integrations/todoist/1580/add-new-saved-slack-messages-to-todoist-as-tasks).
+
+The next step for all this to be useful is having a process around that set up to put dates on your Do Now tasks, sort your inbox into projects, and move new items from your backlog into Do Now. That's a longer story for another time.
