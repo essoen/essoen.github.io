@@ -10,8 +10,8 @@ menu:
 ---
 # How I work, an informational manual
 
-_First written January 20, 2022.   
-Last updated April 28, 2022._
+_First written January 20, 2022.  
+Last updated June 23, 2022._
 
 Over the last couple of years, I've seen people share "instruction manuals" for themselves shared through their personal websites. I recognize I'd value this instructional/informational overview for my own manager, so I might as well provide that for those who I manage, those that I work with, and the managers that I report to. [This
 article](https://www.remotecompany.com/blog/how-to-work-with-me-manual)
@@ -25,9 +25,10 @@ Please note, that this is a continuous work in progress, as I learn and improve.
 
 A couple of things I value and believe in:
 
-* Making everyone heard and trusted - people are quite knowledgeable and will give great input. With trust, we achieve even better results.
+* Making everyone heard and trusted: People are quite knowledgeable and will give great input. With trust, we achieve even better results.
+* Lead by context, so that more decisions can be delegated to individuals or subgroups. This increases flow.
 * Bias towards action: Let's stop discussing, and try something out. That could be getting real data, or just trying the solution directly.
-* Building multi-disciplinary teams - most problems are not one-sided, i.e. cannot in full be solved by an area of expertise. Neither is one person alone the best way to handle problems or workloads.
+* Building multi-disciplinary teams: Most problems are not one-sided, i.e. cannot in full be solved by an area of expertise. Neither is one person alone the best way to handle problems or workloads.
 
 ## Work Schedule
 
