@@ -1,6 +1,7 @@
 ---
-title: Book notes on Rethinking Agile
-date: 2022-01-22T11:00:39.000+00:00
+title: 'Book notes on "Rethinking Agile: Why Agile Teams Have Nothing To Do With Business
+  Agility"'
+date: 2022-07-26T12:00:39+02:00
 description: 'Notes on the book Rethinking Agile: Why Agile Teams Have Nothing To
   Do With Business Agility'
 tags:
