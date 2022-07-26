@@ -50,10 +50,10 @@ My experience is that most organizations would implement agility in the teams, w
 >
 > _- Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 126). LEANability PRESS. Kindle Edition._
 
-\[^1\]: Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 41). LEANability PRESS. Kindle Edition.
+[^1]: Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 41). LEANability PRESS. Kindle Edition.
 
-\[^2\]: Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 64). LEANability PRESS. Kindle Edition.
+[^2]: Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 64). LEANability PRESS. Kindle Edition.
 
-\[^3\]: Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 51). LEANability PRESS. Kindle Edition.
+[^3]: Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 51). LEANability PRESS. Kindle Edition.
 
-\[^4\]: Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 56). LEANability PRESS. Kindle Edition.
+[^4]: Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 56). LEANability PRESS. Kindle Edition.
