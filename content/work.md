@@ -11,7 +11,7 @@ menu:
 # How I work, an informational manual
 
 _First written January 20, 2022.  
-Last updated June 23, 2022._
+Last updated July 27, 2022._
 
 Over the last couple of years, I've seen people share "instruction manuals" for themselves shared through their personal websites. I recognize I'd value this instructional/informational overview for my own manager, so I might as well provide that for those who I manage, those that I work with, and the managers that I report to. [This
 article](https://www.remotecompany.com/blog/how-to-work-with-me-manual)
@@ -25,10 +25,10 @@ Please note, that this is a continuous work in progress, as I learn and improve.
 
 A couple of things I value and believe in:
 
-* Making everyone heard and trusted: People are quite knowledgeable and will give great input. With trust, we achieve even better results.
-* Lead by context, so that more decisions can be delegated to individuals or subgroups. This increases flow.
-* Bias towards action: Let's stop discussing, and try something out. That could be getting real data, or just trying the solution directly.
-* Building multi-disciplinary teams: Most problems are not one-sided, i.e. cannot in full be solved by an area of expertise. Neither is one person alone the best way to handle problems or workloads.
+* **Make everyone heard and trusted:** People are quite knowledgeable and will give great input. With trust, we achieve even better results.
+* **Lead by context:** I aim to increase flow by giving trust and delegating decisions so that they can be made by those closest to their consequences. To make sure those decisions are the best they can be, I also have to make sure that people have as must relevant context and information as possible.
+* **Bias towards action:** Let's stop discussing, and try something out. That could be getting real data, or just trying the solution directly.
+* **Build multi-disciplinary teams:** Most problems are not one-sided, i.e. cannot in full be solved by an area of expertise. Neither is one person alone the best way to handle problems or workloads.
 
 ## Work Schedule
 
@@ -66,7 +66,7 @@ Feedback is highly appreciated. I love to continuously improve. It’s nice to k
 
 ## Other notes
 
-* Don't hesitate to reach out if you're blocked, or something's bothering you
+* Don't hesitate to reach out if you're blocked, or if something's bothering you
 * I enjoy reading and discussing what I've read. It's nice to get inspired by others' experiences and see if one can use something from them. To get the time for reading, and trying things out, [I book time in my calendar](https://todoist.com/productivity-methods/time-blocking). The same goes for setting aside time to work on specific tasks.
 * During vacations I am usually literally offline, i.e. I'm in the mountains with no coverage
 * I find [The Eisenhower matrix](https://todoist.com/productivity-methods/eisenhower-matrix), and the [Impact/Effort-matrix](https://miro.com/templates/impact-effort-matrix/) useful, and might refer to them a few times.
