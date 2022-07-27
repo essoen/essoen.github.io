@@ -2,6 +2,7 @@ backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)¨
   repo: essoen/essoen.github.io
+  site_domain: glistening-dango-e57921.netlify.app
 media_folder: static/img
 public_folder: /img
 publish_mode: editorial_workflow
