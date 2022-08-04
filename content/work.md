@@ -11,7 +11,7 @@ menu:
 # How I work, an informational manual
 
 _First written January 20, 2022.  
-Last updated July 27, 2022._
+Last updated August 4, 2022._
 
 Over the last couple of years, I've seen people share "instruction manuals" for themselves shared through their personal websites. I recognize that I'd value this instructional/informational overview from my own manager, so I might as well provide it for those who I manage, those that I work with, and the managers that I report to. [This article](https://www.remotecompany.com/blog/how-to-work-with-me-manual) summarizes my motivations for doing this nicely, and a few of those that have inspired me are [Isaac Hepworth](https://github.com/hepwori/wwi/) and [Den Delimarsky](https://den.dev/how-i-work/).
 
@@ -61,4 +61,4 @@ Feedback is highly appreciated. I love to continuously improve. It’s nice to k
 * Don't hesitate to reach out if you're blocked, or if something's bothering you
 * I enjoy reading and discussing what I've read. It's nice to get inspired by others' experiences and see if one can use something from them. To get the time for reading, and trying things out, [I book time in my calendar](https://todoist.com/productivity-methods/time-blocking). The same goes for setting aside time to work on specific tasks.
 * During vacations I am usually literally offline, i.e. I'm in the mountains with no coverage
-* I find [The Eisenhower matrix](https://todoist.com/productivity-methods/eisenhower-matrix), and the [Impact/Effort-matrix](https://miro.com/templates/impact-effort-matrix/) useful, and might refer to them a few times.
+* I find [The Eisenhower matrix](https://todoist.com/productivity-methods/eisenhower-matrix), [Impact/Effort-matrix](https://miro.com/templates/impact-effort-matrix/), and [The Cynefin Framework](https://en.wikipedia.org/wiki/Cynefin_framework) useful, and might refer to them a few times.
