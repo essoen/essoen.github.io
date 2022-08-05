@@ -1,12 +1,26 @@
 +++
-date = 2022-05-06T13:42:47Z
+date = 2022-08-05T13:42:47Z
 description = ""
 draft = true
 tags = ["management", "talks", "okr"]
-title = "OKRs when scaling"
+title = "OKRs when scaling your organization"
 
 +++
-I recently held a short talk on OKRs, and how their usage develops over time when used in a scaling organization. Here's a short summary of the talk, which was in Norwegian. The original slide deck can be found 
+I recently held a short talk on OKRs, and how their usage develops over time when used in a scaling organization. Here's a short summary of the talk, which was in Norwegian. The original slide deck can be found [here](2022/cc22.pdf). Here's a short summary in English.
+
+So, the starting point here is that I saw a recently released old interview with Steve Jobs in which he talks about how Apple is organized. He says that he has one person responsible for each area and that the teamwork between these people at the top will spread to the rest of the company. The prerequisite for this to work, he says, is trust.
+
+> \[..\] and teamwork is dependent on trusting the other folks to come through with their part, without watching them all the time.   
+> \- [Steve Jobs](https://youtu.be/f60dheI4ARg )
+
+So this is obviously about culture, both within teams and in the organization as a whole. How might we build an organization where everyone trusts each other in delivering what's needed? That being said, despite trusting others we still might need to know what others are focusing on, and how that's going. In short, we all want to know:
+
+1. What's the main focus within my own team?
+2. What's the focus of other teams?
+3. Are what we and other teams are focusing on aligned so that we are going in one direction?
+4. How are we all moving along in that direction?
+
+This is where management by objective with a model such as OKRs might be useful. It can be traced back to the 1950s with Peter Drucker's book "Management by Objective" His point was that you get more engagement and higher performance when employees and leaders set goals together. Later he made it clear that this is a tool, and it really doesn't make it easier to set the goals themselves. Nevertheless: In 1974 Andy Grove implemented MBO at Intel when he was CEO there. He established it as OKRs -  Objectives and Key Results. John Doerr brought it to Goole around 1999 and wrote the book Measure What Matters which was released in 2018. This brought OKRs into companies in Silicon Valley, and over the last 2-3 years Norway as well.
 
 ## What's the model about?
 
@@ -38,7 +52,9 @@ This is how you'd usually implement OKRs:
 
 ## Heartbeat work vs. strategic work
 
-## How the usage changes with your company
+In her excellent article called ["Not Everyone Needs Objectives and Key Results (OKRs)"](https://cwodtke.medium.com/not-everyone-needs-okrs-a198db0c7bc8) Christina Wodtke established the concept of _Heartbeat Work_.
+
+## How use of OKRs changes as you scale
 
 I praksis erfarer jeg selv at dette er vanskelig. Både i store og små organisasjoner.
 
