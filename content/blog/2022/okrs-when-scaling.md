@@ -1,5 +1,5 @@
 +++
-date = 2022-08-05T13:42:47Z
+date = 2022-08-08T13:00:47Z
 description = "What OKRs are, and how the use of them might develop as your startup scales. Central to this is the difference, and importance of, heartbeat work vs. strategic work."
 draft = true
 tags = ["management", "talks", "okr"]
@@ -29,7 +29,9 @@ Objectives and Key Results consist of:
 * Objective – an ambitious, qualitative, and time-bound goal
 * Key Results – measurements for knowing if we've reached the goals
 
-Read more [here](https://www.perdoo.com/okr-guide/). That reference mentions something that in my experience is always forgotten: Initiatives. Where the Objectives give direction, Key Results measures progression the initiatives are the concrete actions we take to get us there. This is usually tracked in portfolio management or JIRA tasks for teams. Initatives are the concrete actions that will deliver the results we want. One set of OKRs can have all its initiatives in one team or multiple initiatives across teams. Each team does not need its own OKRs.
+Read more [here](https://www.perdoo.com/okr-guide/). That reference mentions something that in my experience is often forgotten: Initiatives. Where the Objectives give direction, Key Results measures progression, and the initiatives are the concrete actions we take to get us there. This is usually tracked in portfolio management or JIRA tasks for teams. One set of OKRs can have all its initiatives in one team or multiple initiatives across teams. Each team does not necessarily need its own OKRs.
+
+## What's the problem?
 
 This would be a sort of boilerplate for how to implement OKRs:
 
@@ -57,25 +59,33 @@ This brings us to heartbeat work.
 
 In her excellent article called ["Not Everyone Needs Objectives and Key Results (OKRs)"](https://cwodtke.medium.com/not-everyone-needs-okrs-a198db0c7bc8) Christina Wodtke established the concept of _Heartbeat Work_.
 
-## How use of OKRs change as you scale
+She places work into three categories:
 
-I praksis erfarer jeg selv at dette er vanskelig. Både i store og små organisasjoner.
+1. **Strategic work:** Identified big ticket challenges that will create necessary change within your company. Either to stay afloat, or capture a new market. To do this, we need focus and measurement of improvement. Tracked with OKRs.
+2. **Continuous improvement work:** Established products needs continuous improvement to make sure that you do not lose the market, or the customers. This is everything from improved features to post-mortems. Best tracked with Kanban-boards, pipelines for improvement, roadmaps
+3. **Heartbeat work:** Work that "just needs to be done", or the business will stop. It can be associated with established revenue streams, but it's also functions such as HR and law in large corporations. Operations and making sure IT systems run, is a part of this. Some capabilities are so that we _just need them_, and their work is continuous. The work can usually be tracked with dashboards, metrics or kanban work. 
 
-Da er det jo åpenbart spennende å utforske årsakene.
+I find this model quite useful, as it explains why shoehorning your goals into the OKR-model might be difficult. [OKRs are not a silver bullet for tracking work](https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/).
 
-Konkret er min erfaring at disse to tingene er problematisk for mange team:
+## How use of OKRs can change as you scale
 
-1. **Strategic work:** Tracked with OKRs
-2. **Continuous improvement work:** Kanban-boarsd, pipelines for improvement, roadmaps
-3. **Heartbeat work:** Usually tracked with dashboards, metrics or kanban work. We just need this to _work_.
+So, let's say you're a small startup company with a great business idea. You use OKRs to give direction and measure progress, and might follow the processes described in [Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028).
+
+Over time, the amount of heartbeat and improvement work will increase, as your company becomes more established. This is because it takes some resources to keep your established revenue streams. Within IT, this means that you're focus shifts away from finding product-market fit and building new features only, to maintaining 
+
+A lot of that maintenance would be heartbeat work, and continuous improvement. Youll struggle with your team and colleagues to fit "everything" into your OKRs. It's not just meant for that. 
+
+So, as you scale, be mindful of how you use OKRs over time. It might be a good idea to establish Service-Level Objectives from the start, or at least make sure you can measure performance in the future. Sooner or later you'll have a discussion on the pros and cons of fixing _that_ piece of technical debt, when your OKRs says that's not in focus. You'll need some metrics that says that the maintenance is needed.
 
 ## Advice on implementation in your organization
 
 So, based on my experience, the following advice might be useful for teams and organizations that want to implement the OKR model:
 
-1. Be clear on why you want to use OKRs in the first place. Hopefully, it's not just hype.
-2. Connect OKRs directly to your strategy, i.e. make sure that Objectives are based on your strategy
+1. Be clear on why you want to use OKRs in the first place. Hopefully, it's not just because of the hype.
+2. Connect OKRs directly to your strategy, i.e. make sure that Objectives are based on your strategy. 
 3. Focus on what you can measure, instead of spending lots of time discussing whether it's the best measurement
 4. Don't fret too much about the framework, instead focus on why and how it's useful to you and your company
+
+Long story short: Make sure how you track work is fit for purpose. As I've written before: [OKRs are not a silver bullet for tracking work](https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/).
 
 Good luck!
