@@ -8,9 +8,9 @@ title = "My setup of filters in Todoist"
 I'm a big fan of [Todoist](www.todoist.com), and I've used it as my main to-do app for around 7 years. I picked it after some extensive research after Wunderlist was bought by Microsoft. Recently a colleague asked me about my setup, Here's a short overview:
 
 * I have one Todoist per project or context, and I sort these into two main projects: Work and Personal.
-  * E.g. two engagements become Engagement 1 and 2 as subprojects in Work. 
+  * E.g. two engagements become `Engagement 1` and `2` as subprojects in `Work`. 
   * If I have several actual projects/initiatives with that engagement, I might have multiple subprojects for that as well.
-* Each project has two sections: Do Now and Backlog
+* Each project has two sections: `Do Now` and `Backlog`
 * This enables me to have the following really useful filters:
   * Overdue first, then inbox, then all work items for today, and finally all personal items for today: `overdue, #Inbox, (##Work & today), (##Personal & today)`
   * Do Now or Backlog for a context: `(##Work ) & /Do Now` or `(##Work ) & /Backlog`, and similarly with `##Personal`
