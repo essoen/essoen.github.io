@@ -11,9 +11,9 @@ menu:
 # How I work, an informational manual
 
 _First written January 20, 2022.  
-Last updated August 17, 2022._
+Last updated September 14, 2022._
 
-Over the last couple of years, I've seen people share "instruction manuals" for themselves shared through their personal websites. I recognize that I'd value this instructional/informational overview from my own manager, so I might as well provide it for those who I manage, those that I work with, and the managers that I report to. [This article](https://www.remotecompany.com/blog/how-to-work-with-me-manual) summarizes my motivations for doing this nicely, and a few of those that have inspired me are [Isaac Hepworth](https://github.com/hepwori/wwi/) and [Den Delimarsky](https://den.dev/how-i-work/).
+Over the last couple of years, I've seen people share "instruction manuals" for themselves shared through their personal websites. I recognize that I'd value this instructional/informational overview from my manager, so I might as well provide it for those I manage, those I work with, and the managers I report to. [This article](https://www.remotecompany.com/blog/how-to-work-with-me-manual) summarizes my motivations for doing this nicely, and a few of those that have inspired me are [Isaac Hepworth](https://github.com/hepwori/wwi/) and [Den Delimarsky](https://den.dev/how-i-work/).
 
 Please note, that this is a continuous work in progress, as I learn and improve. If it doesn’t make sense or doesn’t fit with your experience of me, please reach out.
 
@@ -21,14 +21,14 @@ Please note, that this is a continuous work in progress, as I learn and improve.
 
 A couple of things I value and believe in:
 
-* **Make everyone heard and trusted:** People are quite knowledgeable and will give great input. With trust, we achieve even better results.
+* **Make everyone heard and trusted:** People are knowledgeable, and will share their knowledge and thoughts when they feel trusted. With trust, we achieve even better results.
 * **Lead by context. and let people work how they want:** I aim to increase flow by giving trust and delegating decisions so that they can be made by those closest to their consequences. To make sure those decisions are the best they can be, I also have to make sure that people have as must relevant context and information as possible. This means I **regularly communicate context and strategy**.
-* **Bias towards action:** Let's stop discussing, and try something out. That could be getting real data, or just trying the solution directly.
+* **Bias towards action:** Let's stop discussing, and try something out. That could be getting real data, or just trying one possible solution directly.
 * **Build multi-disciplinary teams:** Most problems are not one-sided, i.e. cannot in full be solved by an area of expertise. Neither is one person alone the best way to handle problems or workloads.
 
 ## Work Schedule
 
-I usually work from around 8-9 to 16-17. A few days a week I might work longer or get a few more hours in later in the evening. This might mean that you'll receive messages or emails from me outside working hours. This does not mean I expect an answer. You'll answer when you have time. If it's urgent, I'll call. It's almost never that urgent.
+I usually work from around 8-9 to 16-17. A few days a week I might work longer or get a few more hours in later in the evening. This might mean that you'll receive messages or emails from me outside working hours. This does not mean I expect an answer. You'll answer when you have time. If it's urgent, I'll call. It's almost never _that_ urgent.
 
 ## Communication
 
@@ -50,11 +50,11 @@ I love when the people I work with follow the same format, as I believe it makes
 
 It's worth mentioning that I appreciate that some meetings need to be more ad hoc, and not as planned. It's nice to be clear on that need as well. This is crucial in these times of hybrid work.
 
-Speaking of hybrid work: I want to work asynchronous where possible and reduce the time we're in synchronous meetings. This enables us to do more [and saves our time off](https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits&cta=1&src=ph).
+Speaking of hybrid work: I want to work asynchronously where possible and reduce the time we're in synchronous meetings. This enables us to do more [and saves our time off](https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits&cta=1&src=ph).
 
 ### Feedback
 
-Feedback is highly appreciated. I love to continuously improve. It’s nice to know what I’m doing well, but it’s even better when I’m told what to do differently.
+Feedback is highly appreciated. I love to improve continuously. It’s nice to know what I’m doing well, but it’s even better when I’m told what to do differently.
 
 ## Other notes
 
