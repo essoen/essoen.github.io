@@ -5,7 +5,7 @@ tags = ["management", "organizational design"]
 title = "Building an organization for fast flow – delivering often and with high quality"
 
 +++
-_Fast flow_ is delivering often, and delivering on customer demand. How do we know that we are? Accelerate found that the so called DORA-metrics can predict 2x better results in the following area:
+_Fast flow_ is delivering often, with quality and hitting customer needs. How do we know that we are? Accelerate found that the so called DORA-metrics can predict 2x better results in the following area:
 
 1. Profitability
 2. Productivity
