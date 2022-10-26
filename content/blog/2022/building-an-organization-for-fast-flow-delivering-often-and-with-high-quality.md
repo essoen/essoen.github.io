@@ -23,8 +23,8 @@ So, it seems that we can measure our technical ability to deliver often and with
 
 How might we help our teams to focus on those metrics?
 
-1. Reduce cognitive load ^[1]
-2. Reduce handovers ^[2]
+1. Reduce cognitive load [^1]
+2. Reduce handovers [^2]
 
 And what would that mean in practice? 
 
