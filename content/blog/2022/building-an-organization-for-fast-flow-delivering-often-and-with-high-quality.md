@@ -33,5 +33,5 @@ And what would that mean in practice?
 3. Nurture a culture where improvement is celebrated, i.e. implement changes that help us deliver faster and with less faults
 4. Communicate direction and context often, e.g. with tools such as [OKRs](https://www.svorstol.com/blog/2022/okrs-when-scaling/)
 
-[1]: "In cognitive psychology, cognitive load refers to the amount of working memory resources used." from [Wikipedia](https://en.wikipedia.org/wiki/Cognitive_load)
-[2]: See number 5 [here](https://vitalitychicago.com/blog/my-favorite-agile-illustrations-from-henrik-kniberg-of-spotify-fame/)
+[^1]: "In cognitive psychology, cognitive load refers to the amount of working memory resources used." from [Wikipedia](https://en.wikipedia.org/wiki/Cognitive_load)
+[^2]: See number 5 [here](https://vitalitychicago.com/blog/my-favorite-agile-illustrations-from-henrik-kniberg-of-spotify-fame/)
