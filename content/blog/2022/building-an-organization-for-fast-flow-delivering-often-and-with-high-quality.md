@@ -2,7 +2,7 @@
 date = 2022-10-26T16:51:52Z
 description = "Linking DORA-metrics to action"
 tags = ["management", "organizational design"]
-title = "Building an organization for fast flow - delivering often and with high quality"
+title = "Building an organization for fast flow – delivering often and with high quality"
 
 +++
 _Fast flow_ is delivering often, and delivering on customer demand. How do we know that we are? Accelerate found that the so called DORA-metrics can predict 2x better results in the following area:
