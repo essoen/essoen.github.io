@@ -11,7 +11,9 @@ menu:
 # How I work, an informational manual
 
 _First written January 20, 2022.  
-Last updated September 14, 2022._
+Last updated February 22, 2023._
+
+***
 
 Over the last couple of years, I've seen people share "instruction manuals" for themselves shared through their personal websites. I recognize that I'd value this instructional/informational overview from my manager, so I might as well provide it for those I manage, those I work with, and the managers I report to. [This article](https://www.remotecompany.com/blog/how-to-work-with-me-manual) summarizes my motivations for doing this nicely, and a few of those that have inspired me are [Isaac Hepworth](https://github.com/hepwori/wwi/) and [Den Delimarsky](https://den.dev/how-i-work/).
 
@@ -22,7 +24,7 @@ Please note, that this is a continuous work in progress, as I learn and improve.
 A couple of things I value and believe in:
 
 * **Make everyone heard and trusted:** People are knowledgeable, and will share their knowledge and thoughts when they feel trusted. With trust, we achieve even better results.
-* **Lead by context. and let people work how they want:** I aim to increase flow by giving trust and delegating decisions so that they can be made by those closest to their consequences. To make sure those decisions are the best they can be, I also have to make sure that people have as must relevant context and information as possible. This means I **regularly communicate context and strategy**.
+* **Lead by context. and let people work how they want:** I aim to increase flow by giving trust and delegating decisions so that they can be made by those closest to their consequences. To make sure those decisions are the best they can be, I also have to make sure that people have as much relevant context and information as possible. This means I **regularly communicate context and strategy**.
 * **Bias towards action:** Let's stop discussing, and try something out. That could be getting real data, or just trying one possible solution directly.
 * **Build multi-disciplinary teams:** Most problems are not one-sided, i.e. cannot in full be solved by an area of expertise. Neither is one person alone the best way to handle problems or workloads.
 
@@ -32,7 +34,7 @@ I usually work from around 8-9 to 16-17. A few days a week I might work longer o
 
 ## Communication
 
-I prefer asynchronous communication via Slack/messaging tool, over emails. I do not expect instant replies, even during the regular workday. I like when my team uses open team Slack channels to ask questions or talk about ideas because I believe it empowers the whole team.
+I prefer asynchronous communication via Slack/messaging tool, over emails. I do not expect instant replies, even during the regular workday. I like when my team uses open team Slack channels to ask questions or talk about ideas, because I believe it empowers the whole team.
 
 [Inbox Zero](https://blog.doist.com/inbox-zero/) is great, and I follow it. But, most emails are not urgent, so I do not handle them as such. I check my email around twice a day. This means that if you need a fast answer, call instead of emailing. Or call me after the email is sent. To me, an email can wait to be answered for two days. If not, one should tell the recipient about the urgency.
 
