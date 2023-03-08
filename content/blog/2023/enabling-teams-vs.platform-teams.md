@@ -2,7 +2,7 @@
 date = 2023-03-08T10:13:16Z
 description = ""
 draft = true
-tags = ["organizational design"]
+tags = ["books", "organizational design"]
 title = "Enabling teams vs. platform teams"
 
 +++
@@ -30,9 +30,9 @@ The authors refer to the Jutta Eckstein article from 2014, ["Architecture in Lar
 
 ![Figure 2 from Eckstein 2014](/2023/eckstein2014.jpg)
 
-The platform team works in organization where the teams want to make many changes, and the degree of uncertainty is high. They are technical service teams, offering a platform of internal services that enable many changes.
+The platform team works in an organization where the teams want to make many changes, and the degree of uncertainty is high. They are technical service teams, offering a platform of internal services that enable many changes.
 
-The enabling teams work in areas where there are fewer changes and less uncertainty. So, they can consult on ways forward. 
+The enabling teams work in areas where there are fewer changes and less uncertainty. There is time to consult on ways forward. 
 
 Nevertheless, many teams would need help with
 
