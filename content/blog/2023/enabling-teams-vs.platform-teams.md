@@ -1,6 +1,6 @@
 +++
 date = 2023-03-08T10:13:16Z
-description = ""
+description = "How might we handle consulting as part of a platform teams role, while Team Topologies tell us that's the responsiblilty of the enabling teams?"
 tags = ["books", "organizational design"]
 title = "Enabling teams vs. platform teams"
 
