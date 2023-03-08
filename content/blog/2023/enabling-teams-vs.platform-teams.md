@@ -6,7 +6,7 @@ tags = ["organizational design"]
 title = "Enabling teams vs. platform teams"
 
 +++
-Lately, I've felt the need to clarify the distinction between enabling and platform teams in the book ["Team Topologies: Organizing Business and Technology Teams for Fast Flow"](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819). The reason for this, is that platform teams often must consult on more than what their platform is dedicated to do. That might not be the best for that team, but it might be what the organization needs. HOw can we address that need directly?
+Lately, I've felt the need to clarify the distinction between enabling and platform teams in the book ["Team Topologies: Organizing Business and Technology Teams for Fast Flow"](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819). The reason for this, is that platform teams often must consult on more than what their platform is dedicated to doing. That might not be the best for that team, but it might be what the organization needs. How can we address that need directly?
 
 ## Definitions of enabling and platform teams
 
