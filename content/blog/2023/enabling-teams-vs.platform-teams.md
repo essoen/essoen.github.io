@@ -17,11 +17,11 @@ First, look at the enabling team:
 What's the role of the platform team?
 
 > The platform team provides internal services to reduce the cognitive load that would be required from stream-aligned teams to develop these underlying services.  
-> _\[..\]  
+> \[..\]  
 >   
-> _In practice, platform teams are expected to focus on providing a smaller number of services of acceptable quality rather than a large number of services with many resilience and quality problems.
+> In practice, platform teams are expected to focus on providing a smaller number of services of acceptable quality rather than a large number of services with many resilience and quality problems.
 >
-> _- Skelton, Matthew; Pais, Manuel. Team Topologies (pp. 115-116). IT Revolution Press. Kindle Editio_
+> _- Skelton, Matthew; Pais, Manuel. Team Topologies (pp. 115-116). IT Revolution Press. Kindle Edition_
 
 So, the enabling team offers **competence and guidance**. The platform teams offer **services**.
 
@@ -53,7 +53,7 @@ I do not believe that this means platform teams cannot consult. They need to tal
 > * ​A platform team leads by example: using the services they provide internally (when applicable), partnering with stream-aligned teams and enabling teams, and consuming lower level platforms (owned by other platform teams) whenever possible. ​
 > * A platform team understands that adoption of internal new services, like new technologies, is not immediate, but instead evolves along an adoption curve.
 >
-> Skelton, Matthew; Pais, Manuel. Team Topologies (pp. 117-118). IT Revolution Press. Kindle Edition.
+> _- Skelton, Matthew; Pais, Manuel. Team Topologies (pp. 117-118). IT Revolution Press. Kindle Edition._
 
 So, they will interact with and help the team. What they won't do, is help a team over time.  
 They might point the stream-aligned team in another direction, after realizing their platform isn't fit for this use case. Who might the stream-aligned team get help from then? 
@@ -66,4 +66,4 @@ To handle this, here are a few practices that might work, based on the number of
 2. Dedicate a few people on the platform team to consult, and rotate who does it
 3. Establish routines for handling this in your community of practice, i.e. asking for consulting over time from specific people through your Community of Practice
 
-This means that members of the platform team will do broader consulting, and that's okay. But the platform team must focus on internal services. So, if the consulting activities take up too much time, you'll see fewer results in the platform team. That should start a conversation on where we put our resources. 
+This means that members of the platform team will do broader consulting, and that's okay. But the platform team must focus on internal services. So, if the consulting activities take up too much time, you'll see fewer results in the platform team. That should start a conversation on where we put our resources.
