@@ -1,12 +1,11 @@
 +++
 date = 2023-03-08T10:13:16Z
 description = ""
-draft = true
 tags = ["books", "organizational design"]
 title = "Enabling teams vs. platform teams"
 
 +++
-Lately, I've felt the need to clarify the distinction between enabling and platform teams in the book ["Team Topologies: Organizing Business and Technology Teams for Fast Flow"](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819). The reason for this, is that platform teams often must consult on more than what their platform is dedicated to doing. That might not be the best for that team, but it might be what the organization needs. How can we address that need directly?
+Lately, I've felt the need to clarify the distinction between enabling and platform teams in the book ["Team Topologies: Organizing Business and Technology Teams for Fast Flow"](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819). The reason for this is that platform teams often must consult on more than what their platform is dedicated to doing. That might not be the best for that team, but it might be what the organization needs. How can we address that need directly?
 
 ## Definitions of enabling and platform teams
 
@@ -24,7 +23,7 @@ What's the role of the platform team?
 >
 > _- Skelton, Matthew; Pais, Manuel. Team Topologies (pp. 115-116). IT Revolution Press. Kindle Editio_
 
-So, the enabling team offers competence and guidance. The platform teams offer services.
+So, the enabling team offers **competence and guidance**. The platform teams offer **services**.
 
 The authors refer to the Jutta Eckstein article from 2014, ["Architecture in Large Scale Agile Development"](https://link.springer.com/chapter/10.1007/978-3-319-14358-3_3). It offers us this figure showing various ways of handling architecture needs:
 
@@ -34,7 +33,7 @@ The platform team works in an organization where the teams want to make many cha
 
 The enabling teams work in areas where there are fewer changes and less uncertainty. There is time to consult on ways forward. 
 
-Nevertheless, many teams would need help with
+Nevertheless, many teams in the first example, would need help with:
 
 1. Deciding if the platform is for them
 2. If not, what else should they use
@@ -67,4 +66,4 @@ To handle this, here are a few practices that might work, based on the number of
 2. Dedicate a few people on the platform team to consult, and rotate who does it
 3. Establish routines for handling this in your community of practice, i.e. asking for consulting over time from specific people through your Community of Practice
 
-This means that members of the platform team will do broader consulting, and that's okay. But the platform team must focus on internal services. So, if the consulting activities take up too much time, you'll see fewer results in the platform team. THat should start a conversation on where we put our resources. 
+This means that members of the platform team will do broader consulting, and that's okay. But the platform team must focus on internal services. So, if the consulting activities take up too much time, you'll see fewer results in the platform team. That should start a conversation on where we put our resources. 
