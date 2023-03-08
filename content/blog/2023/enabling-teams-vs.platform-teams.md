@@ -19,6 +19,7 @@ What's the role of the platform team?
 
 > The platform team provides internal services to reduce the cognitive load that would be required from stream-aligned teams to develop these underlying services.  
 > _\[..\]  
+>   
 > _In practice, platform teams are expected to focus on providing a smaller number of services of acceptable quality rather than a large number of services with many resilience and quality problems.
 >
 > _- Skelton, Matthew; Pais, Manuel. Team Topologies (pp. 115-116). IT Revolution Press. Kindle Editio_
