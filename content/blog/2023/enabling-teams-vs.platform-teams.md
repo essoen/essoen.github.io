@@ -5,6 +5,8 @@ tags = ["books", "organizational design"]
 title = "Enabling teams vs. platform teams"
 
 +++
+_Updated introduction March 13._
+
 Building a platform is _the_ way to reduce cognitive load, in various areas.  I follow [the model of ThoughtWorks](https://www.thoughtworks.com/what-we-do/enterprise-modernization-platforms-cloud/digital-platform-strategy), where there are 5 types of platforms. In each, the ideal would be an easy-to-use platform that covers many use cases. That's difficult to do. As with any product ('cause think [platform as a product](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies)), you'll probably need to "sell" it, and help users identify if the product fits their needs. You might even help them use it. So, you'll not only be building, but you'll also be a salesman and consultant. At various levels and degrees.
 
 This increases the cognitive load for the platform team. In addition, it might even be that they must help outside their own product.
