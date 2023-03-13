@@ -5,7 +5,11 @@ tags = ["books", "organizational design"]
 title = "Enabling teams vs. platform teams"
 
 +++
-Lately, I've felt the need to clarify the distinction between enabling and platform teams in the book ["Team Topologies: Organizing Business and Technology Teams for Fast Flow"](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819). The reason for this is that platform teams often must consult on more than what their platform is dedicated to doing. That might not be the best for that team, but it might be what the organization needs. How can we address that need directly?
+Building a platform is _the_ way to reduce cognitive load, in various areas.  I follow [the model of ThoughtWorks](https://www.thoughtworks.com/what-we-do/enterprise-modernization-platforms-cloud/digital-platform-strategy), where there are 5 types of platforms. In each, the ideal would be an easy-to-use platform that covers many use cases. That's difficult to do. As with any product ('cause think [platform as a product](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies)), you'll probably need to "sell" it, and help users identify if the product fits their needs. You might even help them use it. So, you'll not only be building, but you'll also be a salesman and consultant. At various levels and degrees.
+
+This increases the cognitive load for the platform team. In addition, it might even be that they must help outside their own product.
+
+This leads me to enabling teams,  and platform teams, and the distinction between them. As mentioned, the platform teams often must consult on more than what their platform is dedicated to doing. That might not be the best for that team, but it might be what the organization needs. How can we address that need directly?
 
 ## Definitions of enabling and platform teams
 
@@ -17,8 +21,8 @@ First, look at the enabling team:
 What's the role of the platform team?
 
 > The platform team provides internal services to reduce the cognitive load that would be required from stream-aligned teams to develop these underlying services.  
-> \[..\]  
->   
+> \[..\]
+>
 > In practice, platform teams are expected to focus on providing a smaller number of services of acceptable quality rather than a large number of services with many resilience and quality problems.
 >
 > _- Skelton, Matthew; Pais, Manuel. Team Topologies (pp. 115-116). IT Revolution Press. Kindle Edition_
@@ -31,7 +35,7 @@ The authors refer to the Jutta Eckstein article from 2014, ["Architecture in Lar
 
 The platform team works in an organization where the teams want to make many changes, and the degree of uncertainty is high. They are technical service teams, offering a platform of internal services that enable many changes.
 
-The enabling teams work in areas where there are fewer changes and less uncertainty. There is time to consult on ways forward. 
+The enabling teams work in areas where there are fewer changes and less uncertainty. There is time to consult on ways forward.
 
 Nevertheless, many teams in the first example, would need help with:
 
@@ -47,16 +51,16 @@ I do not believe that this means platform teams cannot consult. They need to tal
 
 > What kind of behaviors and outcomes do we expect to see in an effective platform team? ​
 >
-> * A platform team uses **strong collaboration with stream-aligned teams** to understand their needs. 
+> * A platform team uses **strong collaboration with stream-aligned teams** to understand their needs.
 > * A platform team relies on **fast prototyping techniques and involves stream-aligned team members for fast feedback** on what works and what does not. ​
-> * A platform team has a strong focus on usability and reliability for their services (treating the platform as a product), and r**egularly assesses if the services are still fit for purpose and usable.** 
+> * A platform team has a strong focus on usability and reliability for their services (treating the platform as a product), and r**egularly assesses if the services are still fit for purpose and usable.**
 > * ​A platform team leads by example: using the services they provide internally (when applicable), partnering with stream-aligned teams and enabling teams, and consuming lower level platforms (owned by other platform teams) whenever possible. ​
 > * A platform team understands that adoption of internal new services, like new technologies, is not immediate, but instead evolves along an adoption curve.
 >
 > _- Skelton, Matthew; Pais, Manuel. Team Topologies (pp. 117-118). IT Revolution Press. Kindle Edition._
 
 So, they will interact with and help the team. What they won't do, is help a team over time.  
-They might point the stream-aligned team in another direction, after realizing their platform isn't fit for this use case. Who might the stream-aligned team get help from then? 
+They might point the stream-aligned team in another direction, after realizing their platform isn't fit for this use case. Who might the stream-aligned team get help from then?
 
 Well, someone who knows what they need help with. In the case of "architecture", the people on the platform team consist of those with the most competence. As well as cloud services. So, they might point away from their team, but nevertheless, the "need" will come back to them.
 
