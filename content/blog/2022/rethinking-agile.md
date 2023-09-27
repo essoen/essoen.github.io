@@ -1,14 +1,16 @@
 ---
-title: 'Summary of "Rethinking Agile: Why Agile Teams Have Nothing To Do With Business
-  Agility"'
-date: 2022-07-26T12:00:39+02:00
-description: 'Personal notes on, and summary of, the book "Rethinking Agile: Why Agile
-  Teams Have Nothing To Do With Business Agility"'
+title: 'Summary of "Rethinking Agile: Why Agile Teams Have Nothing To Do With
+  Business Agility"'
+description: 'Personal notes on, and summary of, the book "Rethinking Agile: Why
+  Agile Teams Have Nothing To Do With Business Agility"'
+draft: false
 tags:
-- books
-- agile
-
+  - books
+  - agile
+date: 2022-07-26T12:00:39+02:00
 ---
+_Updated September 27 2023_
+
 I recently read the book [Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility](\[https://www.amazon.com/Rethinking-Agile-Nothing-Business-Agility/dp/3903205397). I found it useful, and many of the ideas and concepts resonated with me. Usually, I take notes in a Miro-board while I read, but this time I also want to share some notes here, as it might be useful to others. Please note that these are my own notes, so it might be things that I've missed, or left out. Please reach out if you want to discuss the book and concepts further, or have questions as to why something isn't mentioned. Thanks!
 
 ## Part 1: The Problem
@@ -51,6 +53,14 @@ The book describes four causes of the problem, each in its own section. He uses 
 2. **Dealing with dependencies between Teams and Products:** The teams had Kanban boards as required by the organization's chosen framework. In these boards, Leopold found columns that are called "External waiting", i.e. the team has dependencies on other teams. He visualized this with a dependency graph. Dependencies lead to increased cycle times. The reason for this external wait time is, according to Leopold, that one forgets that: (1) Even though a team usually only works on one product, several teams are working on the same product. (2) Even though one team only works on one product, there are dependencies between products (3) Knowledge work has a tendency to create dependencies, and one has to be extremely cautious. He quotes Russel L. Ackoff _"\[..\] the performance of the whole is never the sum of the parts taken separately, but it's the product of their interactions."_  Leopold ends with: _"Agility is created when the interactions between teams are agile. That was the problem in this company: The interactions between the individual teams were not being managed."_ [^2]
 3. **An incomplete value stream:** Many big and difficult steps ahead of the development, slows down development, such as idea selection, business case writeup, and steering committee approval. Leopold also observes that the burden of becoming faster falls on the development teams nevertheless. "_And business agility will never be achieved if all of the slow-moving process and system logic is simply maintained without consideration for the end-to-end system."_ [^3]
 4. **WIP Limits at the wrong place:** Leopold separates Work in Progress from Work in Process. In Progress means it's actively worked on, while In Process means that it's in the system but without real progress. To increase the organization's ability to deliver, the Flow Efficiency (how much time a work item spends in being actively worked on vs. in process), must reduce how much things are ongoing at the same time rather than the active work. To increase this, **one must reduce the number of initiatives going at the same time**, so that the most important initiatives are in _progress_, and tasks do not have to wait.
+
+
+**Addition in September 2023:** After going through the Fligt Levels Academy introduction summarizes the causes like this:
+
+1. No agile interactions
+2. No end to end flow (of work) 
+3. No agile portfolio management
+4. No agile change process
 
 ## Part 3: Flight Levels
 
