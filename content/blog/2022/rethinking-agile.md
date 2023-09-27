@@ -55,7 +55,7 @@ The book describes four causes of the problem, each in its own section. He uses 
 4. **WIP Limits at the wrong place:** Leopold separates Work in Progress from Work in Process. In Progress means it's actively worked on, while In Process means that it's in the system but without real progress. To increase the organization's ability to deliver, the Flow Efficiency (how much time a work item spends in being actively worked on vs. in process), must reduce how much things are ongoing at the same time rather than the active work. To increase this, **one must reduce the number of initiatives going at the same time**, so that the most important initiatives are in _progress_, and tasks do not have to wait.
 
 
-**Addition in September 2023:** After going through the Fligt Levels Academy introduction summarizes the causes like this:
+**Addition in September 2023:** The [Fligt Levels Academy Introduction](https://www.flightlevels.io/workshops/flight-levels-introduction/) summarizes the causes like this:
 
 1. No agile interactions
 2. No end to end flow (of work) 
