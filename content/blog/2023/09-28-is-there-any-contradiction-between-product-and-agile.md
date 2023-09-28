@@ -2,7 +2,7 @@
 title: Is there any contradiction between product and agile?
 description: Some try to construct a "battle" between agile and product-mindset.
   I do not believe that there is any contradiction between the two.
-draft: true
+draft: false
 tags:
   - agile
 date: 2023-09-28T14:59:36.163Z
