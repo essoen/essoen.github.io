@@ -9,7 +9,16 @@ date: 2023-09-28T14:59:36.163Z
 ---
 A recent [event](https://www.meetup.com/smidig/events/295796327) I was considering visiting, was advertising that there was supposed to be discussion there on product vs. agile., as these were somewhat on a collision course. I do not agree with the premise at all, and I've thought about the relation.
 
-Product is about what to build, i.e. something that hits a need. Agile is about delivering continously, and being able to respond to changes.
+Product is about what to build, i.e. something that hits a need. Agile is about delivering continously, and being able to respond to changes fast. It was a response to waterfall and plan-based development. 
+
+> Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+>
+>That is, while there is value in the items on
+the right, we value the items on the left more.
+> _From [The Agile Manifesto](https://agilemanifesto.org/)_
 
 A company can be agile but not be product-minded. And a company can likewise be product-minded but not agile in how they deliver it.
 
