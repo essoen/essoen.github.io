@@ -1,17 +1,17 @@
 ---
 title: How I Work
-date: 2022-01-20T00:10:34.000+01:00
 description: A informational overview of how to I like to work
 tags:
-- management
+  - management
+date: 2022-01-20T00:10:34.000+01:00
 menu:
   main: {}
-
+draft: false
 ---
 # How I work, an informational manual
 
 _First written January 20, 2022.  
-Last updated February 22, 2023._
+Last updated November 14, 2023._
 
 ***
 
@@ -39,6 +39,8 @@ I prefer asynchronous communication via Slack/messaging tool, over emails. I do 
 [Inbox Zero](https://blog.doist.com/inbox-zero/) is great, and I follow it. But, most emails are not urgent, so I do not handle them as such. I check my email around twice a day. This means that if you need a fast answer, call instead of emailing. Or call me after the email is sent. To me, an email can wait to be answered for two days. If not, one should tell the recipient about the urgency.
 
 Discussions fit better in Slack or a meeting, rather than email. Usually, we have discussions over a particular decision. It's easier to have these discussions if we write out the alternatives, the arguments for each of them, beforehand. This helps us get to the details, and where we disagree, faster.
+
+[I try to be precise in my asks. Please ask if you feel that I am ambigous or unprecise in a request.](https://staysaasy.com/startups/2023/11/10/imprecise-asks.html)
 
 ### Meetings
 
