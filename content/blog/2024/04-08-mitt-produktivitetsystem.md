@@ -7,7 +7,7 @@ tags:
   - productivity
 date: 2024-04-08T10:42:42.999Z
 ---
-_Jeg har i mange år hatt et system for hvordan jeg styrer hverdagen min, et såkalt produktivitetsystem. Det er ment for å sikre at hodet mitt ikke trenger å huske så mye, og det tilsfredstiller mitt iboende behov og tilbøyelighet for, planmessighet. Kanskje det er nyttig for deg?_
+_Jeg har i mange år hatt et system for hvordan jeg styrer hverdagen min, et såkalt produktivitetsystem. Det er ment for å sikre at hodet mitt ikke trenger å huske så mye, og det tilsfredstiller mitt iboende behov og tilbøyelighet for, planmessighet. Her følger en relativt oppdatert versjon av systemet, slik det er akkurat nå. Kanskje det er nyttig for deg?_
 
 ## Hvorfor ha et "produktivitetsystem"
 
