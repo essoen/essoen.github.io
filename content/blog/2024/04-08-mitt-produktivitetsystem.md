@@ -1,7 +1,7 @@
 ---
 title: Mitt produktivitetsystem
 description: Summary of my productivity system (in norwegian)
-draft: true
+draft: false
 tags:
   - norwegian
   - productivity
