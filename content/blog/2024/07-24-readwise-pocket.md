@@ -70,5 +70,5 @@ It's nice to have a few weeks off in the summer, and have time to do some tinker
 [^1]: This only works for english language books in Norway. For norwegian books we have to use BookBites, which replaced Allbok last year. Allbok supported Adobe Digital Editions export so one could transfer burrowed books to an ereader over cable. Bookbites doesn't have that, so there you'll have to read on a regular tablet or get an Android eink tablet. I've also considered that, but I was put off by the fact that the most recent Android version offered on Boox devices (main actor in the business) was Android 12. 
 [^2]: I really enjoy ereaders.
 [^3]: But the Kindle Oasis is still the best ereader I've used (despite the micro-USB port)
-[^4]: Obisdian is my preferred app for this right now, and I try to get all my notes to end up here. I still have a few things in Notion, overviews and such. Their tables are nice, their GDPR compliance not so much. Tradeoffs. 
+[^4]: [Obisdian](https://obsidian.md/) is my preferred app for this right now, and I try to get all my notes to end up here. I still have a few things in Notion, overviews and such. Their tables are nice, their GDPR compliance not so much. Tradeoffs. 
 [^5]: [Whaddya gonna do?](https://www.youtube.com/watch?v=GLrdrC1H6ZY)
