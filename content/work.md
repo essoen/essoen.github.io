@@ -24,7 +24,7 @@ Please note, that this is a continuous work in progress, as I learn and improve.
 A couple of things I value and believe in:
 
 * **Make everyone heard and trusted:** People are knowledgeable, and will share their knowledge and thoughts when they feel trusted. With trust, we achieve even better results.
-* **Lead by context. and let people work how they want:** I aim to increase flow by giving trust and delegating decisions so that they can be made by those closest to their consequences. To make sure those decisions are the best they can be, I also have to make sure that people have as much relevant context and information as possible. This means I **regularly communicate context and strategy**.
+* **Lead by context:** I aim to increase flow by giving trust and delegating decisions so that they can be made by those closest to their consequences. To make sure those decisions are the best they can be, I also have to make sure that people have as much relevant context and information as possible. This means I try to **regularly communicate context and strategy**. When people have the right context, they get a feel of the goals. Then it's easy to **let people work how they want**.
 * **Bias towards action:** Let's stop discussing, and try something out. That could be getting real data, or just trying one possible solution directly.
 * **Build multi-disciplinary teams:** Most problems are not one-sided, i.e. cannot in full be solved by an area of expertise. Neither is one person alone the best way to handle problems or workloads.
 
@@ -59,6 +59,8 @@ Speaking of hybrid work: I want to work asynchronously where possible and reduce
 ### Feedback
 
 Feedback is highly appreciated. I love to improve continuously. It’s nice to know what I’m doing well, but it’s even better when I’m told what to do differently.
+
+If you feel I do not follow the principles and rule of thumb described here, please reach out. 
 
 ## Other notes
 
