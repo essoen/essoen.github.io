@@ -30,7 +30,7 @@ A couple of things I value and believe in:
 
 ## Work Schedule
 
-I usually work from around 8-9 to 16-17. A few days a week I might work longer or get a few more hours in later in the evening. This might mean that you'll receive messages or emails from me outside working hours. This does not mean I expect an answer. You'll answer when you have time**. If it's urgent, I'll call. It's almost never *that* urgent.**
+I usually work from around 8-9 to 16-17. A few days a week I might work longer or get a few more hours in later in the evening. This might mean that you'll receive messages or emails from me outside working hours. This does not mean I expect an answer. You'll answer when you have time. If it's urgent, I'll call. It's almost never *that* urgent.
 
 ## Communication
 
