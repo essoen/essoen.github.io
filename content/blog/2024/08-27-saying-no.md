@@ -1,12 +1,13 @@
 ---
 title: Saying no
-date: 2024-08-27T11:30:58Z
-description: How do I approach saying no to stakeholders when operating in a management role, in particular a product management role
+description: How do I approach saying no to stakeholders when operating in a
+  management role, in particular a product management role
 draft: false
 tags:
   - agile
   - management
   - product
+date: 2024-08-27T06:00:29.209Z
 ---
 
 When working as a leader, and espeically in roles where you handle priorities (such as product management roles), one must be able to say no requests, while at the same time being emptathic to what's being asked. There are many great ideas out there, but we cannot do them all at once. So, let's say you get a big request that your team does not have the bandwith to jump on. How do you respond?
