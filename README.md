@@ -1,7 +1,7 @@
 # essoen.github.io
 My personal website, served on [svorstol.com](https://www.svorstol.com/)
 
-Built with [Hugo](https://gohugo.io/), using the fantastic [Bear-theme](https://github.com/janraasch/hugo-bearblog) from [Bearblog](https://bearblog.dev). Served through Github Pages. There's an admin panel on `/admin` if browser is all you have and you _must_ write.
+Built with [Hugo](https://gohugo.io/), using the fantastic [Bear-theme](https://github.com/janraasch/hugo-bearblog) from [Bearblog](https://bearblog.dev). Served through Github Pages. There's a admin panel on `/admin` if browser is all you have and you _must_ write.
 
 ## Local setup
 Install Hugo, and get submodules for the theme.
