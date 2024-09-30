@@ -30,7 +30,7 @@
       <div>
         Filter by tag:
         {{ range .Site.Taxonomies.tags }}
-        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+        <a href="{{ .Page.Permalink }}">#{{ lower .Page.Title }}</a>&nbsp;
         {{ end }}
       </div>
     </small>
