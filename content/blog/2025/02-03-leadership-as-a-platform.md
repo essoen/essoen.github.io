@@ -3,6 +3,9 @@ title: Leadership as a platform (team)
 description: How you viewing leadership as a platform, just like a developer
   platform, can change how your organzation approaches leaderhsip
 draft: true
+tags:
+  - organizational design
+  - leadership
 date: 2025-02-03T11:41:31.110Z
 ---
 A couple of years ago I was involved in utilized the ideas from [Team Topologies in reorganizing the consultancy where I work](https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/). Recently, Manuel Pais, co-author of *Team Topologies*, used my company as an example of something we’ve both called **Leadership as a Platform**. You can see us mentioned [here](https://www.youtube.com/watch?v=k5SUWdrlTfs&list=PLLwpyIL5FI9wahgmw324EAllojHvOqtb2&t=1376s).
