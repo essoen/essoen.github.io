@@ -1,5 +1,5 @@
 ---
-title: Leadership as a platform
+title: Leadership as a platform (team)
 description: How you viewing leadership as a platform, just like a developer
   platform, can change how your organzation approaches leaderhsip
 draft: true
