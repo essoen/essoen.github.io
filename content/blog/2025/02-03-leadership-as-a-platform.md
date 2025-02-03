@@ -5,7 +5,7 @@ description: How you viewing leadership as a platform, just like a developer
 draft: true
 date: 2025-02-03T11:41:31.110Z
 ---
-Recently, Manuel Pais, co-author of *Team Topologies*, used my company as an example of something we’ve both called **Leadership as a Platform**. You can see us mentioned [here](https://www.youtube.com/watch?v=k5SUWdrlTfs&list=PLLwpyIL5FI9wahgmw324EAllojHvOqtb2&t=1376s).
+A couple of years ago I was involved in utilized the ideas from [Team Topologies in reorganizing the consultancy where I work](https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/). Recently, Manuel Pais, co-author of *Team Topologies*, used my company as an example of something we’ve both called **Leadership as a Platform**. You can see us mentioned [here](https://www.youtube.com/watch?v=k5SUWdrlTfs&list=PLLwpyIL5FI9wahgmw324EAllojHvOqtb2&t=1376s).
 
 I've been deeply involved in shifting how we see ourselves—as a **platform**—and ensuring we maintain that perspective. Instead of treating leadership as a position or a set of management tasks, we emphasize that **anyone** can take leadership. It’s about stepping up, driving alignment, and enabling others to succeed.
 
@@ -38,7 +38,7 @@ A **Looker Studio dashboard** offering insights into our goals, performance, and
 
 #### 3. **Monthly Status & Q&A Sessions**
 
-We run monthly status sessions covering company economics, key metrics, and priorities. They are similar to a "all hands meeting", with the key difference in how we view them. It's informatinoal , and conversational. It's a service, and we can measure how well it works for our end users.
+We run monthly status sessions covering company economics, key metrics, and priorities. They are similar to a "all hands meeting", with the key difference in how we view them. It's informational, and conversational. It's a service, and we can measure how well it works for our end users.
 
 #### 4. **Organizational Map**
 
