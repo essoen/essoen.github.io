@@ -5,7 +5,7 @@ description: How you viewing leadership as a platform, just like a developer
 draft: true
 date: 2025-02-03T11:41:31.110Z
 ---
-Recently, Manuel Pais, co-author of *Team Topologies*, used my company as an example of something we’ve both called **Leadership as a Platform**. You can see us mentioned [here](<>).
+Recently, Manuel Pais, co-author of *Team Topologies*, used my company as an example of something we’ve both called **Leadership as a Platform**. You can see us mentioned [here](https://www.youtube.com/watch?v=k5SUWdrlTfs&list=PLLwpyIL5FI9wahgmw324EAllojHvOqtb2&t=1376s).
 
 I've been deeply involved in shifting how we see ourselves—as a **platform**—and ensuring we maintain that perspective. Instead of treating leadership as a position or a set of management tasks, we emphasize that **anyone** can take leadership. It’s about stepping up, driving alignment, and enabling others to succeed.
 
