@@ -16,7 +16,7 @@ To make this work, we’ve built a dedicated team focused on **alignment and lea
 * **Service-Oriented Leadership:** We view leadership activities as **services**, not just tasks. This ensures that all necessary information is accessible and that teams are effectively onboarded into our strategic direction.
 * **Team Responsibility:** Leadership and alignment are collective responsibilities rather than being solely on the shoulders of managers. This fosters a more collaborative and engaged environment.
 
-This approach helps us maintain a **cohesive strategy**, ensuring that everyone at Capra remains aligned and informed.
+This approach helps us maintain cohesive strategy, ensuring that everyone at Capra remains aligned and informed.
 
 
 ### The Services We Offer
@@ -31,7 +31,7 @@ A living **Notion page** and **slide deck** accessible to everyone. It covers:
   * Key challenges we foresee.
   * Guiding policies and priorities for success.
   * Principles of our organizational model.
-* This document is continuously updated—always in **production**, never outdated.
+* This document is continuously updated—always in production, i.e. we just update the documents when we need to.
 
 #### 2. **Metrics Board**
 A **Looker Studio dashboard** offering insights into our goals, performance, and progress.
@@ -57,5 +57,3 @@ We run monthly status sessions covering company economics, key metrics, and prio
 Through these services, we constantly learn and iterate, improving both our leadership platform and our overall operations.
 
 If this approach resonates with you, or if you’re curious to learn more, feel free to reach out!
-
-<!--EndFragment-->
