@@ -22,7 +22,7 @@
 <p>
     Post is tagged with:
     {{ range (.GetTerms "tags") }}
-        <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+        <a href="{{ .Permalink }}">#{{ lower .LinkTitle }}</a>
     {{ end }}
 </p>
 {{ end }}
