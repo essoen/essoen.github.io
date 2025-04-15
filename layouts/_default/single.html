@@ -12,6 +12,8 @@
 <content>
   {{ .Content }}
 </content>
+
+{{ if not .Params.hideFooter }}
 <p>
     <i>
         Any thoughts, comments or corrections after reading this post? <br>
@@ -25,4 +27,5 @@
         <a href="{{ .Permalink }}">#{{ lower .LinkTitle }}</a>
     {{ end }}
 </p>
+{{ end }}
 {{ end }}
