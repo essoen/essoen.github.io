@@ -1,13 +1,19 @@
 {{ define "main" }}
 {{ if eq .Type "blog" }}{{ if not .Params.menu }}
-<h1>{{ .Title }}</h1>
-<p>
-  <i>
-    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-      {{ .Date.Format "02 Jan, 2006" }}
-    </time>
-  </i>
-</p>
+  <h1>{{ .Title }}</h1>
+  <p>
+    <i>
+      Published
+      <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+        {{ .Date.Format "02 Jan, 2006" }},
+      </time>
+      and tagged with 
+      {{ range (.GetTerms "tags") }}
+          <a href="{{ .Permalink }}">#{{ lower .LinkTitle }}</a>
+      {{ end }}
+    <br>
+    </i>
+  </p>
 {{ end }}{{ end }}
 <content>
   {{ .Content }}
@@ -18,14 +24,8 @@
     <i>
         Any thoughts, comments or corrections after reading this post? <br>
         Please, do reach out by 
-        <a href="mailto:steinotto@svorstol.com">E-mail</a>. Thanks.
+        <a href="mailto:stein-otto@svorstol.com">E-mail</a>. Thanks.
     </i>
-</p>
-<p>
-    Post is tagged with:
-    {{ range (.GetTerms "tags") }}
-        <a href="{{ .Permalink }}">#{{ lower .LinkTitle }}</a>
-    {{ end }}
 </p>
 {{ end }}
 {{ end }}
