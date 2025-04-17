@@ -1,6 +1,129 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stein-Otto Svorstøl</title><link>https://www.svorstol.com/</link><description>Recent content on Stein-Otto Svorstøl</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Tue, 15 Apr 2025 10:57:04 +0000</lastBuildDate><atom:link href="https://www.svorstol.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Causes</title><link>https://www.svorstol.com/causes/</link><pubDate>Tue, 15 Apr 2025 10:57:04 +0000</pubDate><guid>https://www.svorstol.com/causes/</guid><description>&lt;h2 id="my-causes">My causes&lt;/h2>
-&lt;h3 id="donations">Donations&lt;/h3>
-&lt;h3 id="memberships">Memberships&lt;/h3></description></item><item><title>Leadership as a platform (team)</title><link>https://www.svorstol.com/blog/2025/02-03-leadership-as-a-platform/</link><pubDate>Mon, 03 Feb 2025 11:41:31 +0000</pubDate><guid>https://www.svorstol.com/blog/2025/02-03-leadership-as-a-platform/</guid><description>&lt;p>A couple of years ago I was involved in utilized the ideas from &lt;a href="https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/">Team Topologies in reorganizing the consultancy where I work&lt;/a>. Recently, Manuel Pais, co-author of &lt;em>Team Topologies&lt;/em>, used my company as an example of something we’ve both called &lt;strong>Leadership as a Platform&lt;/strong>. You can see us mentioned &lt;a href="https://www.youtube.com/watch?v=k5SUWdrlTfs&amp;amp;list=PLLwpyIL5FI9wahgmw324EAllojHvOqtb2&amp;amp;t=1376s">here&lt;/a>.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stein-Otto Svorstøl</title><link>https://www.svorstol.com/</link><description>Recent content on Stein-Otto Svorstøl</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Thu, 17 Apr 2025 10:57:04 +0000</lastBuildDate><atom:link href="https://www.svorstol.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Software I use</title><link>https://www.svorstol.com/software/</link><pubDate>Thu, 17 Apr 2025 10:57:04 +0000</pubDate><guid>https://www.svorstol.com/software/</guid><description>&lt;h2 id="software-i-use">Software I use&lt;/h2>
+&lt;p>&lt;em>Last updated April 17 2025&lt;/em>&lt;/p>
+&lt;p>I&amp;rsquo;ve recently done a clean-up of licenses that I have, and thought about what software I use. Here&amp;rsquo;s what I&amp;rsquo;m currently using and am subscribed to (and thereby support):&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">App&lt;/th>
+ &lt;th style="text-align: left">Description&lt;/th>
+ &lt;th style="text-align: left">Usage/comment&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Productivity&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Firefox and DuckDuckGo&lt;/td>
+ &lt;td style="text-align: left">Web browsing and search&lt;/td>
+ &lt;td style="text-align: left">Currently evaluating Kagi (subscription based search) as a replacement for DuckDuckGo.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Obsidian&lt;/td>
+ &lt;td style="text-align: left">Notes&lt;/td>
+ &lt;td style="text-align: left">Local and markdown based. Their Sync service works really well across devices. Moved away from Notion for this.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Remarkable&lt;/td>
+ &lt;td style="text-align: left">Notes&lt;/td>
+ &lt;td style="text-align: left">Used with my Remarkable, which is mostly for quick capture and thinking. I send my notes to myself by email, or gather them from the app, and dump them into Obisidan&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Todoist&lt;/td>
+ &lt;td style="text-align: left">Todo application&lt;/td>
+ &lt;td style="text-align: left">Fantastic application: Easy to use, highly customizeable and cheap. Long term user.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">1Password&lt;/td>
+ &lt;td style="text-align: left">Password management&lt;/td>
+ &lt;td style="text-align: left">Moved to 1Pass from Lastpass a few years ago. Usable, everything I could ask for in a password manager.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">ChatGPT&lt;/td>
+ &lt;td style="text-align: left">AI assistant / text generation&lt;/td>
+ &lt;td style="text-align: left">Mostly used to improve/save time on work email.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Notion&lt;/td>
+ &lt;td style="text-align: left">Notes&lt;/td>
+ &lt;td style="text-align: left">Mostly used with my wife for collaborative notes about the home and such. A lot of kanban boards. We also use it at work.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Proton Mail, Drive, VPN and SimpleLogin&lt;/td>
+ &lt;td style="text-align: left">E-mail, storage, VPN, email alias&lt;/td>
+ &lt;td style="text-align: left">Recently bought 2 years of Proton Duo (with my wife) to handle mail with a custom domain, and get some long-term storage. In addition, it feels good to support a privacy oriented ethos. Some limitations in usability but it works well enough. Great value.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Google Drive and Photos&lt;/td>
+ &lt;td style="text-align: left">Storage and photos&lt;/td>
+ &lt;td style="text-align: left">Because of interoperability I use Google for everyday storage and collaboration, both privately and at work. It works well enough, but I&amp;rsquo;m trying to move to alternatives. The user experience of Google Photos in particular is fantastic, so it&amp;rsquo;s been hard to find good alternatives that are credible and value privacy. I am currently evaluating Ente.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Content&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Readwise Reader&lt;/td>
+ &lt;td style="text-align: left">RSS reader and read it later-app&lt;/td>
+ &lt;td style="text-align: left">In addition to being my RSS reader (replacing Feedly) and read it later app (replacing Pocket) Also used for gathering quotes from various sources, and syncing those into Obsidian&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">PocketCast&lt;/td>
+ &lt;td style="text-align: left">Podcast client&lt;/td>
+ &lt;td style="text-align: left">Long term user, fantastic product. Got in early, so I got a lifetime subscription which is great value.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Snipcast&lt;/td>
+ &lt;td style="text-align: left">AI summary of podcasts&lt;/td>
+ &lt;td style="text-align: left">A colleague of mine made it, and it works really well. I provide it a podcast link, it summarizes it. A email filter forwards the summary into Readwise Reader.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Storygraph&lt;/td>
+ &lt;td style="text-align: left">Book tracking&lt;/td>
+ &lt;td style="text-align: left">Track what I&amp;rsquo;m reading, and share with the few that also has a Storygraph account. I&amp;rsquo;ve subscribed to get even better stats.&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->I&amp;rsquo;m still on Goodreads as many of my friends are there. I add books there about once a month.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Last.fm&lt;/td>
+ &lt;td style="text-align: left">Music tracking&lt;/td>
+ &lt;td style="text-align: left">Track what I&amp;rsquo;m listening to across services, just for fun and stats.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Discogs&lt;/td>
+ &lt;td style="text-align: left">Music tracking&lt;/td>
+ &lt;td style="text-align: left">Tracks my collection of vinyl and CDs, and lets me scrobble to last.fm&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Communication&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Signal&lt;/td>
+ &lt;td style="text-align: left">Messaging app&lt;/td>
+ &lt;td style="text-align: left">Great app, works well across devices. My goal is to only use this and SMS.&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->Sadly, there still are social situations that makes Facebook Messenger (and Facebook) necessary.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Lifestyle&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Headspace&lt;/td>
+ &lt;td style="text-align: left">Meditation app&lt;/td>
+ &lt;td style="text-align: left">I bought a lifetime subscription over 10 years back, which I still use regularly.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Hevy&lt;/td>
+ &lt;td style="text-align: left">Workout tracking&lt;/td>
+ &lt;td style="text-align: left">Used for tracking weight lifting workouts. I&amp;rsquo;ve been through a few apps, this covers most of my bases. Only thing missing now is automated weight increased based on a set program, but it seems like they are continuously developing it. Lifetime subscription.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Causes</title><link>https://www.svorstol.com/causes/</link><pubDate>Tue, 15 Apr 2025 10:57:04 +0000</pubDate><guid>https://www.svorstol.com/causes/</guid><description>&lt;h2 id="my-causes">My causes&lt;/h2>
+&lt;p>&lt;em>Last updated April 17 2025&lt;/em>&lt;/p>
+&lt;p>Inspired by my friend &lt;a href="https://mht.wtf/donate/">Martins&lt;/a> webpage, where he describes the causes and software he supports, I wanted to do something similar — but more broadly. I donate money, or have a membership, with the goal of helping the cause. I do this for causes I care about, but for various reasons cannot or won&amp;rsquo;t take part in myself. The reason for publishing it here is to increase awareness and show support for those very causes.&lt;/p></description></item><item><title>Leadership as a platform (team)</title><link>https://www.svorstol.com/blog/2025/02-03-leadership-as-a-platform/</link><pubDate>Mon, 03 Feb 2025 11:41:31 +0000</pubDate><guid>https://www.svorstol.com/blog/2025/02-03-leadership-as-a-platform/</guid><description>&lt;p>A couple of years ago I was involved in utilized the ideas from &lt;a href="https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/">Team Topologies in reorganizing the consultancy where I work&lt;/a>. Recently, Manuel Pais, co-author of &lt;em>Team Topologies&lt;/em>, used my company as an example of something we’ve both called &lt;strong>Leadership as a Platform&lt;/strong>. You can see us mentioned &lt;a href="https://www.youtube.com/watch?v=k5SUWdrlTfs&amp;amp;list=PLLwpyIL5FI9wahgmw324EAllojHvOqtb2&amp;amp;t=1376s">here&lt;/a>.&lt;/p>
 &lt;p>I&amp;rsquo;ve been deeply involved in shifting how we see ourselves—as a &lt;strong>platform&lt;/strong>—and ensuring we maintain that perspective. Instead of treating leadership as a position or a set of management tasks, we emphasize that &lt;strong>anyone&lt;/strong> can take leadership. It’s about stepping up, driving alignment, and enabling others to succeed.&lt;/p></description></item><item><title>Saying no</title><link>https://www.svorstol.com/blog/2024/08-27-saying-no/</link><pubDate>Tue, 27 Aug 2024 06:00:29 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/08-27-saying-no/</guid><description>&lt;p>When working as a leader, and espeically in roles where you handle priorities (such as product management roles), one must be able to say no requests, while at the same time being emptathic to what&amp;rsquo;s being asked. There are many great ideas out there, but we cannot do them all at once. So, let&amp;rsquo;s say you get a big request that your team does not have the bandwith to jump on. How do you respond?&lt;/p></description></item><item><title>Syncing articles between Readwise Reader and Pocket</title><link>https://www.svorstol.com/blog/2024/07-24-readwise-pocket/</link><pubDate>Wed, 24 Jul 2024 17:16:58 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/07-24-readwise-pocket/</guid><description>&lt;p>I&amp;rsquo;m a big reader and I&amp;rsquo;ve used Kindles to read for a long time. I now have a Oasis (best one there is) and Paperwhite (2021). What I don&amp;rsquo;t like is the lock-in, but what I also like is the ecosystem. There&amp;rsquo;s always tradeoffs.&lt;/p>
 &lt;p>Recently Amazons competitor Kobo released colour e-ink devices, with stylus support. Their styluses, unlike Kindle devices, can write directly in books (not in notes as the Kindle Scribe does). It&amp;rsquo;s more like the Remarkable (without the perfect tactile feel), but in a smaller form factor. Other noteable (fantastic) features are a Pocket-integration and OverDrive support (so one can get books from the library&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>) So I bought a Kobo Libra Colour.&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/p></description></item><item><title>Mitt produktivitetsystem</title><link>https://www.svorstol.com/blog/2024/04-08-mitt-produktivitetsystem/</link><pubDate>Mon, 08 Apr 2024 10:58:23 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/04-08-mitt-produktivitetsystem/</guid><description>&lt;p>&lt;em>Jeg har i mange år hatt et system for hvordan jeg styrer hverdagen min, et såkalt produktivitetsystem. Det er ment for å sikre at hodet mitt ikke trenger å huske så mye, og det tilsfredstiller mitt iboende behov og tilbøyelighet for, planmessighet. Her følger en relativt oppdatert versjon av systemet, slik det er akkurat nå. Kanskje det er nyttig for deg?&lt;/em>&lt;/p>
 &lt;h2 id="hvorfor-ha-et-produktivitetsystem">Hvorfor ha et &amp;ldquo;produktivitetsystem&amp;rdquo;&lt;/h2>
