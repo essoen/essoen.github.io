@@ -20,12 +20,6 @@
 </content>
 
 {{ if not .Params.hideReachoutFooter }}
-<p>
-    <i>
-        Any thoughts, comments or corrections after reading this post? <br>
-        Please, do reach out by 
-        <a href="mailto:stein-otto@svorstol.com">E-mail</a>. Thanks.
-    </i>
-</p>
+  {{ partial "single_social_footer.html" . }}
 {{ end }}
 {{ end }}
