@@ -3,7 +3,7 @@ title: Leverage waiting
 description: A short post on how a development team can change their apporach
   and thinking when they fell all deliveries are blocked by other, especially if
   they're blocked by third parties.
-draft: true
+draft: false
 date: 2025-04-21T15:31:10.276Z
 ---
 
