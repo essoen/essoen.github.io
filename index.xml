@@ -1,5 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stein-Otto Svorstøl</title><link>https://www.svorstol.com/</link><description>Recent content on Stein-Otto Svorstøl</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Mon, 21 Apr 2025 15:31:10 +0000</lastBuildDate><atom:link href="https://www.svorstol.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Leverage waiting</title><link>https://www.svorstol.com/blog/2025/04-21-leverage-waiting/</link><pubDate>Mon, 21 Apr 2025 15:31:10 +0000</pubDate><guid>https://www.svorstol.com/blog/2025/04-21-leverage-waiting/</guid><description>&lt;p>The last 6 months I have experienced a lot of waiting in one of the teams I&amp;rsquo;m working with. We&amp;rsquo;ve been blocked on deliveries, by either third parties or other teams. Blocked means being unable to move forward as desired. This could things such as some API or software someone else has to develop, or testing on some physical hardware that is not available.&lt;/p>
-&lt;p>Being blocked has forced us to reflect and evaluate our approach. Of course we must maintain pressure on those we wait for. This can be done by:&lt;/p></description></item><item><title>Software I use</title><link>https://www.svorstol.com/software/</link><pubDate>Thu, 17 Apr 2025 10:57:04 +0000</pubDate><guid>https://www.svorstol.com/software/</guid><description>&lt;h2 id="software-i-use">Software I use&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Stein-Otto Svorstøl</title><link>https://www.svorstol.com/</link><description>Recent content on Stein-Otto Svorstøl</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Mon, 21 Apr 2025 15:31:10 +0000</lastBuildDate><atom:link href="https://www.svorstol.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Leverage waiting</title><link>https://www.svorstol.com/blog/2025/04-21-leverage-waiting/</link><pubDate>Mon, 21 Apr 2025 15:31:10 +0000</pubDate><guid>https://www.svorstol.com/blog/2025/04-21-leverage-waiting/</guid><description>&lt;p>The last 6 months I have experienced a lot of waiting in one of the teams I&amp;rsquo;m working with. We&amp;rsquo;ve been blocked on deliveries, by either third parties or other teams. Blocked means being unable to move forward as desired. This could things such as some API or software someone else has to develop, or testing on some physical hardware that is not available.&lt;/p>
+&lt;p>Being blocked has forced us to reflect and evaluate our approach. Of course we must maintain pressure on those we wait for. This can be done by:&lt;/p></description><content:encoded><![CDATA[<p>The last 6 months I have  experienced a lot of waiting in one of the teams I&rsquo;m working with. We&rsquo;ve been blocked on deliveries, by either third parties or other teams. Blocked means being unable to move forward as desired. This could things such as some API or software someone else has to develop, or testing on some physical hardware that is not available.</p>
+<p>Being blocked has forced us to reflect and evaluate our approach. Of course we  must maintain pressure on those we wait for. This can be done by:</p>
+<ul>
+<li>reach out regularly, and use tickler files to make sure we remember to do so</li>
+<li>asking for timelines as a means to be able to time things for yourself</li>
+<li>escalating to others internally, who talks with others with the third party</li>
+</ul>
+<p>It&rsquo;s evident though that this work, even though necessary in many contexts, are not valuable it itself. It&rsquo;s waiting for someone else, and reminding/pushing them.</p>
+<p>Our approach is to do those things, but mostly focus on what we can do of valuable work while we wait. What could that be?</p>
+<ul>
+<li>identify parts that can be built independent of the dependency, i.e. build a happy path first</li>
+<li>handle the dependency by mocking or other techniques</li>
+<li>prepare for things we know we&rsquo;ll have to do later.</li>
+<li>move on to other things, without dependencies, and rework your goals and roadmap</li>
+</ul>
+<p>It&rsquo;s an awareness thing. We all know we&rsquo;re blocked, but we can leverage the waiting time for something useful and valuable.</p>
+]]></content:encoded></item><item><title>Software I use</title><link>https://www.svorstol.com/software/</link><pubDate>Thu, 17 Apr 2025 10:57:04 +0000</pubDate><guid>https://www.svorstol.com/software/</guid><description>&lt;h2 id="software-i-use">Software I use&lt;/h2>
 &lt;p>&lt;em>Last updated April 17 2025&lt;/em>&lt;/p>
 &lt;p>I&amp;rsquo;ve recently done a clean-up of licenses that I have, and thought about what software I use. Here&amp;rsquo;s what I&amp;rsquo;m currently using and am subscribed to (and thereby support):&lt;/p>
 &lt;table>
@@ -122,15 +138,465 @@
  &lt;td style="text-align: left">Used for tracking weight lifting workouts. I&amp;rsquo;ve been through a few apps, this covers most of my bases. Only thing missing now is automated weight increased based on a set program, but it seems like they are continuously developing it. Lifetime subscription.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Causes</title><link>https://www.svorstol.com/causes/</link><pubDate>Tue, 15 Apr 2025 10:57:04 +0000</pubDate><guid>https://www.svorstol.com/causes/</guid><description>&lt;h2 id="my-causes">My causes&lt;/h2>
+&lt;/table></description><content:encoded><![CDATA[<h2 id="software-i-use">Software I use</h2>
+<p><em>Last updated April 17 2025</em></p>
+<p>I&rsquo;ve recently done a clean-up of licenses that I have, and thought about what software I use. Here&rsquo;s what I&rsquo;m currently using and am subscribed to (and thereby support):</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">App</th>
+          <th style="text-align: left">Description</th>
+          <th style="text-align: left">Usage/comment</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Productivity</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Firefox and DuckDuckGo</td>
+          <td style="text-align: left">Web browsing and search</td>
+          <td style="text-align: left">Currently evaluating Kagi (subscription based search) as a replacement for DuckDuckGo.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Obsidian</td>
+          <td style="text-align: left">Notes</td>
+          <td style="text-align: left">Local and markdown based. Their Sync service works really well across devices. Moved away from Notion for this.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Remarkable</td>
+          <td style="text-align: left">Notes</td>
+          <td style="text-align: left">Used with my Remarkable, which is mostly for quick capture and thinking. I send my notes to myself by email, or gather them from the app, and dump them into Obisidan</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Todoist</td>
+          <td style="text-align: left">Todo application</td>
+          <td style="text-align: left">Fantastic application: Easy to use, highly customizeable and cheap. Long term user.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1Password</td>
+          <td style="text-align: left">Password management</td>
+          <td style="text-align: left">Moved to 1Pass from Lastpass a few years ago. Usable, everything I could ask for in a password manager.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">ChatGPT</td>
+          <td style="text-align: left">AI assistant / text generation</td>
+          <td style="text-align: left">Mostly used to improve/save time on work email.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Notion</td>
+          <td style="text-align: left">Notes</td>
+          <td style="text-align: left">Mostly used with my wife for collaborative notes about the home and such. A lot of kanban boards. We also use it at work.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Proton Mail, Drive, VPN and SimpleLogin</td>
+          <td style="text-align: left">E-mail, storage, VPN, email alias</td>
+          <td style="text-align: left">Recently bought 2 years of Proton Duo (with my wife) to handle mail with a custom domain, and get some long-term storage. In addition, it feels good to support a privacy oriented ethos. Some limitations in usability but it works well enough. Great value.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Google Drive and Photos</td>
+          <td style="text-align: left">Storage and photos</td>
+          <td style="text-align: left">Because of interoperability I use Google for everyday storage and collaboration, both privately and at work. It works well enough, but I&rsquo;m trying to move to alternatives. The user experience of Google Photos in particular is fantastic, so it&rsquo;s been hard to find good alternatives that are credible and value privacy. I am currently evaluating Ente.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Content</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Readwise Reader</td>
+          <td style="text-align: left">RSS reader and read it later-app</td>
+          <td style="text-align: left">In addition to being my RSS reader (replacing Feedly) and read it later app (replacing Pocket) Also used for gathering quotes from various sources, and syncing those into Obsidian</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">PocketCast</td>
+          <td style="text-align: left">Podcast client</td>
+          <td style="text-align: left">Long term user, fantastic product. Got in early, so I got a lifetime subscription which is great value.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Snipcast</td>
+          <td style="text-align: left">AI summary of podcasts</td>
+          <td style="text-align: left">A colleague of mine made it, and it works really well. I provide it a podcast link, it summarizes it. A email filter forwards the summary into Readwise Reader.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Storygraph</td>
+          <td style="text-align: left">Book tracking</td>
+          <td style="text-align: left">Track what I&rsquo;m reading, and share with the few that also has a Storygraph account. I&rsquo;ve subscribed to get even better stats.<!-- raw HTML omitted --><!-- raw HTML omitted -->I&rsquo;m still on Goodreads as many of my friends are there. I add books there about once a month.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Last.fm</td>
+          <td style="text-align: left">Music tracking</td>
+          <td style="text-align: left">Track what I&rsquo;m listening to across services, just for fun and stats.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Discogs</td>
+          <td style="text-align: left">Music tracking</td>
+          <td style="text-align: left">Tracks my collection of vinyl and CDs, and lets me scrobble to last.fm</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Communication</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Signal</td>
+          <td style="text-align: left">Messaging app</td>
+          <td style="text-align: left">Great app, works well across devices. My goal is to only use this and SMS.<!-- raw HTML omitted --><!-- raw HTML omitted -->Sadly, there still are social situations that makes Facebook Messenger (and Facebook) necessary.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Lifestyle</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Headspace</td>
+          <td style="text-align: left">Meditation app</td>
+          <td style="text-align: left">I bought a lifetime subscription over 10 years back, which I still use regularly.</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Hevy</td>
+          <td style="text-align: left">Workout tracking</td>
+          <td style="text-align: left">Used for tracking weight lifting workouts. I&rsquo;ve been through a few apps, this covers most of my bases. Only thing missing now is automated weight increased based on a set program, but it seems like they are continuously  developing it. Lifetime subscription.</td>
+      </tr>
+  </tbody>
+</table>
+]]></content:encoded></item><item><title>Causes</title><link>https://www.svorstol.com/causes/</link><pubDate>Tue, 15 Apr 2025 10:57:04 +0000</pubDate><guid>https://www.svorstol.com/causes/</guid><description>&lt;h2 id="my-causes">My causes&lt;/h2>
 &lt;p>&lt;em>Last updated April 17 2025&lt;/em>&lt;/p>
-&lt;p>Inspired by my friend &lt;a href="https://mht.wtf/donate/">Martins&lt;/a> webpage, where he describes the causes and software he supports, I wanted to do something similar — but more broadly. I donate money, or have a membership, with the goal of helping the cause. I do this for causes I care about, but for various reasons cannot or won&amp;rsquo;t take part in myself. The reason for publishing it here is to increase awareness and show support for those very causes.&lt;/p></description></item><item><title>Leadership as a platform (team)</title><link>https://www.svorstol.com/blog/2025/02-03-leadership-as-a-platform/</link><pubDate>Mon, 03 Feb 2025 11:41:31 +0000</pubDate><guid>https://www.svorstol.com/blog/2025/02-03-leadership-as-a-platform/</guid><description>&lt;p>A couple of years ago I was involved in utilized the ideas from &lt;a href="https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/">Team Topologies in reorganizing the consultancy where I work&lt;/a>. Recently, Manuel Pais, co-author of &lt;em>Team Topologies&lt;/em>, used my company as an example of something we’ve both called &lt;strong>Leadership as a Platform&lt;/strong>. You can see us mentioned &lt;a href="https://www.youtube.com/watch?v=k5SUWdrlTfs&amp;amp;list=PLLwpyIL5FI9wahgmw324EAllojHvOqtb2&amp;amp;t=1376s">here&lt;/a>.&lt;/p>
-&lt;p>I&amp;rsquo;ve been deeply involved in shifting how we see ourselves—as a &lt;strong>platform&lt;/strong>—and ensuring we maintain that perspective. Instead of treating leadership as a position or a set of management tasks, we emphasize that &lt;strong>anyone&lt;/strong> can take leadership. It’s about stepping up, driving alignment, and enabling others to succeed.&lt;/p></description></item><item><title>Saying no</title><link>https://www.svorstol.com/blog/2024/08-27-saying-no/</link><pubDate>Tue, 27 Aug 2024 06:00:29 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/08-27-saying-no/</guid><description>&lt;p>When working as a leader, and espeically in roles where you handle priorities (such as product management roles), one must be able to say no requests, while at the same time being emptathic to what&amp;rsquo;s being asked. There are many great ideas out there, but we cannot do them all at once. So, let&amp;rsquo;s say you get a big request that your team does not have the bandwith to jump on. How do you respond?&lt;/p></description></item><item><title>Syncing articles between Readwise Reader and Pocket</title><link>https://www.svorstol.com/blog/2024/07-24-readwise-pocket/</link><pubDate>Wed, 24 Jul 2024 17:16:58 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/07-24-readwise-pocket/</guid><description>&lt;p>I&amp;rsquo;m a big reader and I&amp;rsquo;ve used Kindles to read for a long time. I now have a Oasis (best one there is) and Paperwhite (2021). What I don&amp;rsquo;t like is the lock-in, but what I also like is the ecosystem. There&amp;rsquo;s always tradeoffs.&lt;/p>
-&lt;p>Recently Amazons competitor Kobo released colour e-ink devices, with stylus support. Their styluses, unlike Kindle devices, can write directly in books (not in notes as the Kindle Scribe does). It&amp;rsquo;s more like the Remarkable (without the perfect tactile feel), but in a smaller form factor. Other noteable (fantastic) features are a Pocket-integration and OverDrive support (so one can get books from the library&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>) So I bought a Kobo Libra Colour.&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/p></description></item><item><title>Mitt produktivitetsystem</title><link>https://www.svorstol.com/blog/2024/04-08-mitt-produktivitetsystem/</link><pubDate>Mon, 08 Apr 2024 10:58:23 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/04-08-mitt-produktivitetsystem/</guid><description>&lt;p>&lt;em>Jeg har i mange år hatt et system for hvordan jeg styrer hverdagen min, et såkalt produktivitetsystem. Det er ment for å sikre at hodet mitt ikke trenger å huske så mye, og det tilsfredstiller mitt iboende behov og tilbøyelighet for, planmessighet. Her følger en relativt oppdatert versjon av systemet, slik det er akkurat nå. Kanskje det er nyttig for deg?&lt;/em>&lt;/p>
+&lt;p>Inspired by my friend &lt;a href="https://mht.wtf/donate/">Martins&lt;/a> webpage, where he describes the causes and software he supports, I wanted to do something similar — but more broadly. I donate money, or have a membership, with the goal of helping the cause. I do this for causes I care about, but for various reasons cannot or won&amp;rsquo;t take part in myself. The reason for publishing it here is to increase awareness and show support for those very causes.&lt;/p></description><content:encoded><![CDATA[<h2 id="my-causes">My causes</h2>
+<p><em>Last updated April 17 2025</em></p>
+<p>Inspired by my friend <a href="https://mht.wtf/donate/">Martins</a> webpage, where he describes the causes and software he supports, I wanted to do something similar — but more broadly. I donate money, or have a membership, with the goal of helping the cause. I do this for causes I care about, but for various reasons cannot or won&rsquo;t take part in myself. The reason for publishing it here is to increase awareness and show support for those very causes.</p>
+<p>Note: I support the cause or organization, but that doesn’t mean I agree with everything they do or say. I believe in free speech and open conversations — that’s often what leads to better, new solutions. For me, supporting something includes room for disagreement.</p>
+<h3 id="donations">Donations</h3>
+<p>I regularly donate money to (monthly, usually), and support the work of, the following organizations:</p>
+<ul>
+<li>
+<p><strong><a href="https://www.rodekors.no/">Røde Kors</a>:</strong> Humanitarian relief and emergency aid globally. I donate because they provide crucial help in crisis areas and local communities.</p>
+</li>
+<li>
+<p><strong><a href="https://amnesty.no/">Amnesty International</a>:</strong> Protects human rights worldwide. I support their efforts for more freedom, justice, and dignity, and standing up for those</p>
+</li>
+<li>
+<p><strong><a href="https://gieffektivt.no/">Gi Effektivt</a>:</strong> Promotes effective altruism, maximizing positive impact through donations. I donate here to ensure my contributions make a measurable difference.</p>
+</li>
+<li>
+<p><strong><a href="https://www.regnskog.no/">Regnskogfondet</a>:</strong> Works to preserve rainforests and indigenous rights. I donate because I care about biodiversity and protecting ecosystems.</p>
+</li>
+<li>
+<p><strong><a href="https://www.framtiden.no/">Fremtiden i Våre Hender</a>:</strong> Advocates sustainable consumption and responsible use of resources. I support their vision of an environmentally sustainable future.</p>
+</li>
+<li>
+<p><strong><a href="https://wikimediafoundation.org/">Wikimedia Foundation</a>:</strong> Ensures free access to knowledge. I donate to support open information and education worldwide.</p>
+</li>
+</ul>
+<h3 id="memberships">Memberships</h3>
+<p>I am also a member of the following organizations, which converts to a yearly or monthly donation:</p>
+<ul>
+<li>
+<p><strong><a href="https://www.ms.no/">MS-forbundet</a>:</strong> Supports people affected by Multiple Sclerosis. I&rsquo;m a member to contribute to advocacy and awareness about MS, as my wife was diagnosed in 2024.</p>
+</li>
+<li>
+<p><strong><a href="https://www.blindeforbundet.no/">Blindeforbundet</a>:</strong> Works for the rights and quality of life of people with visual impairments. Visual impairment has played a significant role in my life — I was diagnosed with cataracts and underwent surgery when I was three years old.</p>
+</li>
+<li>
+<p><strong><a href="https://naturvernforbundet.no/">Naturvernforbundet</a>:</strong> Protects nature and advocates for environmental conservation.</p>
+</li>
+<li>
+<p><strong><a href="https://human.no/">Human-Etisk Forbund</a>:</strong> Promotes humanist values and secular ethics. I&rsquo;m a member to support secularism and critical thinking.</p>
+</li>
+<li>
+<p><strong><a href="https://www.nm.no/">Noregs Mållag</a>:</strong> Promotes the use and preservation of Nynorsk, the second written form of Norwegian. I support linguistic diversity and cultural heritage, and love books written Nynorsk. That being said, I might be biased as most of my family comes form western Norway.</p>
+</li>
+<li>
+<p><strong><a href="https://www.europabevegelsen.no/">Europabevegelsen</a>:</strong> Promotes European cooperation and unity. I support international collaboration and European integration. I believe Norway and other European countries are better off together.</p>
+</li>
+<li>
+<p><strong><a href="https://www.dnt.no/">DNT</a>:</strong> Norwegian Trekking Association, maintaining trails and cabins. I use those cabins every summer, and find their efforts extraordinary.</p>
+</li>
+<li>
+<p><strong><a href="https://www.skiforeningen.no/">Skiforeningen</a>:</strong> Promotes skiing and maintains ski trails around Oslo, which I enjoy a lot.</p>
+</li>
+</ul>
+]]></content:encoded></item><item><title>Leadership as a platform (team)</title><link>https://www.svorstol.com/blog/2025/02-03-leadership-as-a-platform/</link><pubDate>Mon, 03 Feb 2025 11:41:31 +0000</pubDate><guid>https://www.svorstol.com/blog/2025/02-03-leadership-as-a-platform/</guid><description>&lt;p>A couple of years ago I was involved in utilized the ideas from &lt;a href="https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/">Team Topologies in reorganizing the consultancy where I work&lt;/a>. Recently, Manuel Pais, co-author of &lt;em>Team Topologies&lt;/em>, used my company as an example of something we’ve both called &lt;strong>Leadership as a Platform&lt;/strong>. You can see us mentioned &lt;a href="https://www.youtube.com/watch?v=k5SUWdrlTfs&amp;amp;list=PLLwpyIL5FI9wahgmw324EAllojHvOqtb2&amp;amp;t=1376s">here&lt;/a>.&lt;/p>
+&lt;p>I&amp;rsquo;ve been deeply involved in shifting how we see ourselves—as a &lt;strong>platform&lt;/strong>—and ensuring we maintain that perspective. Instead of treating leadership as a position or a set of management tasks, we emphasize that &lt;strong>anyone&lt;/strong> can take leadership. It’s about stepping up, driving alignment, and enabling others to succeed.&lt;/p></description><content:encoded><![CDATA[<p>A couple of years ago I was involved in utilized the ideas from <a href="https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/">Team Topologies in reorganizing the consultancy where I work</a>. Recently, Manuel Pais, co-author of <em>Team Topologies</em>, used my company as an example of something we’ve both called <strong>Leadership as a Platform</strong>. You can see us mentioned <a href="https://www.youtube.com/watch?v=k5SUWdrlTfs&amp;list=PLLwpyIL5FI9wahgmw324EAllojHvOqtb2&amp;t=1376s">here</a>.</p>
+<p>I&rsquo;ve been deeply involved in shifting how we see ourselves—as a <strong>platform</strong>—and ensuring we maintain that perspective. Instead of treating leadership as a position or a set of management tasks, we emphasize that <strong>anyone</strong> can take leadership. It’s about stepping up, driving alignment, and enabling others to succeed.</p>
+<p>To make this work, we’ve built a dedicated team focused on <strong>alignment and leadership as a platform</strong>—which we call <strong>Team Alignment</strong>. Their mission is to provide services that empower our teams and individuals to take the lead while keeping the organization aligned. They cover many of the tasks of a traditional top management group.</p>
+<h2 id="our-approach">Our approach</h2>
+<ul>
+<li><strong>Service-Oriented Leadership:</strong> We view leadership activities as <strong>services</strong>, not just tasks. This ensures that all necessary information is accessible and that teams are effectively onboarded into our strategic direction.</li>
+<li><strong>Team Responsibility:</strong> Leadership and alignment are collective responsibilities rather than being solely on the shoulders of managers. This fosters a more collaborative and engaged environment.</li>
+</ul>
+<p>This approach helps us maintain cohesive strategy, ensuring that everyone at Capra remains aligned and informed.</p>
+<h3 id="the-services-we-offer">The Services We Offer</h3>
+<h4 id="1-company-strategy">1. <strong>Company Strategy</strong></h4>
+<p>A living <strong>Notion page</strong> and <strong>slide deck</strong> accessible to everyone. It covers:</p>
+<ul>
+<li>Who we are: vision, values, and what we do.</li>
+<li>Our product and what we sell.</li>
+<li>Current market understanding.</li>
+<li>Key challenges we foresee.</li>
+<li>Guiding policies and priorities for success.</li>
+<li>Principles of our organizational model.</li>
+<li>This document is continuously updated—always in production, i.e. we just update the documents when we need to.</li>
+</ul>
+<h4 id="2-metrics-board">2. <strong>Metrics Board</strong></h4>
+<p>A <strong>Looker Studio dashboard</strong> offering insights into our goals, performance, and progress.</p>
+<h4 id="3-monthly-status--qa-sessions">3. <strong>Monthly Status &amp; Q&amp;A Sessions</strong></h4>
+<p>We run monthly status sessions covering company economics, key metrics, and priorities. They are similar to a &ldquo;all hands meeting&rdquo;, with the key difference in how we view them. It&rsquo;s informational, and conversational. It&rsquo;s a service, and we can measure how well it works for our end users.</p>
+<h4 id="4-organizational-map">4. <strong>Organizational Map</strong></h4>
+<ul>
+<li>Principles and a dynamic perspective of our <strong>team-first organizational model</strong>.</li>
+<li>A <strong>Miro board</strong> visualizing our structure and how we operate.</li>
+<li>Support in navigating the organization effectively.</li>
+</ul>
+<h4 id="5-onboarding-for-new-employees">5. <strong>Onboarding for New Employees</strong></h4>
+<ul>
+<li>Dedicated onboarding sessions covering all these elements.</li>
+<li>Ensures new employees quickly understand our strategy and direction.</li>
+</ul>
+<h3 id="continuous-learning--iteration">Continuous Learning &amp; Iteration</h3>
+<p>Through these services, we constantly learn and iterate, improving both our leadership platform and our overall operations.</p>
+<p>If this approach resonates with you, or if you’re curious to learn more, feel free to reach out!</p>
+]]></content:encoded></item><item><title>Saying no</title><link>https://www.svorstol.com/blog/2024/08-27-saying-no/</link><pubDate>Tue, 27 Aug 2024 06:00:29 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/08-27-saying-no/</guid><description>&lt;p>When working as a leader, and espeically in roles where you handle priorities (such as product management roles), one must be able to say no requests, while at the same time being emptathic to what&amp;rsquo;s being asked. There are many great ideas out there, but we cannot do them all at once. So, let&amp;rsquo;s say you get a big request that your team does not have the bandwith to jump on. How do you respond?&lt;/p></description><content:encoded><![CDATA[<p>When working as a leader, and espeically in roles where you handle priorities (such as product management roles), one must be able to say no requests, while at the same time being emptathic to what&rsquo;s being asked. There are many great ideas out there, but we cannot do them all at once. So, let&rsquo;s say you get a big request that your team does not have the bandwith to jump on. How do you respond?</p>
+<p>What you don&rsquo;t want to do, is straight out say no. That&rsquo;s too hard, and won&rsquo;t come across as empathetic. We rather want to build a story about what we are building or doing , and how that might benefit the organization.  My first steps when asked to deliver on something, I usually do this:</p>
+<ol>
+<li><strong>Show our goals</strong>: What are we currently trying to achieve.</li>
+<li><strong>Show the roadmap:</strong> Here&rsquo;s our goals, and the activities layed out to fulfill those goals. Show what we&rsquo;re doing, and/or ask what they believe must be removed.</li>
+<li><strong>Show what you&rsquo;ve delivered:</strong> I move goals and acitivites to a page where I note down when we delivered on it. I use it to show what we have spent our time on over the last months.</li>
+</ol>
+<p>This is the beginning of a story around what we are aiming to do, and what we did to go there. Can the requester see their request fit into that story?</p>
+<p>Last but not least, I show what can be done to improve the chances of being prioritised. In my experience, stakeholders are willing to invest more in your team or area, but they are unaware of the option. Showing that option, how they can help us get bandwidth to address their issue, is a great approach. But, I would not open with it. If you open with it, the response is usually something along the lines of &ldquo;but what about your current funding?&rdquo;</p>
+]]></content:encoded></item><item><title>Syncing articles between Readwise Reader and Pocket</title><link>https://www.svorstol.com/blog/2024/07-24-readwise-pocket/</link><pubDate>Wed, 24 Jul 2024 17:16:58 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/07-24-readwise-pocket/</guid><description>&lt;p>I&amp;rsquo;m a big reader and I&amp;rsquo;ve used Kindles to read for a long time. I now have a Oasis (best one there is) and Paperwhite (2021). What I don&amp;rsquo;t like is the lock-in, but what I also like is the ecosystem. There&amp;rsquo;s always tradeoffs.&lt;/p>
+&lt;p>Recently Amazons competitor Kobo released colour e-ink devices, with stylus support. Their styluses, unlike Kindle devices, can write directly in books (not in notes as the Kindle Scribe does). It&amp;rsquo;s more like the Remarkable (without the perfect tactile feel), but in a smaller form factor. Other noteable (fantastic) features are a Pocket-integration and OverDrive support (so one can get books from the library&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>) So I bought a Kobo Libra Colour.&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/p></description><content:encoded><![CDATA[<p>I&rsquo;m a big reader and I&rsquo;ve used Kindles to read for a long time. I now have a Oasis (best one there is) and Paperwhite (2021). What I don&rsquo;t like is the lock-in, but what I also like is the ecosystem. There&rsquo;s always tradeoffs.</p>
+<p>Recently Amazons competitor Kobo released colour e-ink devices, with stylus support. Their styluses, unlike Kindle devices, can write directly in books (not in notes as the Kindle Scribe does). It&rsquo;s more like the Remarkable (without the perfect tactile feel), but in a smaller form factor. Other noteable (fantastic) features are a Pocket-integration and OverDrive support (so one can get books from the library<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>) So I bought a Kobo Libra Colour.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<p>The device itself is nice <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, but that&rsquo;s not the point of this text. The Kobo community is more into hacking, and less into locked systems. This led my to reconsider my main RSS reader over the last few years, <a href="https://feedly.com/">Feedly</a>. It&rsquo;s quite costly for what it does. I pay for <a href="https://readwise.io">Readwise</a> as well, which originally collects all your highlights across services and exports them to you preferred note taking app <sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>. Now, they also have an extensive Reader app which has RSS support (and read it later support).</p>
+<p>This meant I could</p>
+<ol>
+<li>reduce my cost on this type of software with around 3000 NOK</li>
+<li>reduce the number of apps I use with 1</li>
+</ol>
+<p>.. which is nice.</p>
+<p>(Of course I should&rsquo;ve switched over to some of the fantastic open source offers out there, but as I haven&rsquo;t seen/found any realistic Readwise replacements I&rsquo;d have to stick to it anyway.)</p>
+<h2 id="the-challenge">The challenge</h2>
+<p>I still wanted to read articles on my Pocket integrated Kobo, and you don&rsquo;t need Pocket Premium if you&rsquo;re not using their &ldquo;library features&rdquo; but just read articles.</p>
+<p>The issue was that the &ldquo;sync&rdquo; between Pocket and Reader was one-way, and the Reader people don&rsquo;t plan to do anything with it.</p>
+<p>Of course, I could manually copy-paste links into Pocket. I could. But, you know.<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup></p>
+<h2 id="building-a-little-readwise-reader-pocket-integration">Building a little Readwise Reader-Pocket integration</h2>
+<p>So, I needed to build my own little integration. Thankfuly the services have public APIs, whoo!</p>
+<ol>
+<li><a href="https://readwise.io/reader_api">Readwise has an API</a> to fetch their articles (and add articles)</li>
+<li><a href="https://getpocket.com/developer/">Pocket has an API</a> that lets you create, read and change articles</li>
+</ol>
+<p>There&rsquo;s noe queue/triggering capabilites in the Reader APIs, so a scheduled check would have to do. For simple IFTTT-tasks I&rsquo;ve used Zapier for a couple of years. Their no code features work well for most things, while they also support code.</p>
+<p>So, I wrote some code and ended up with the following</p>
+<ol>
+<li>When I add articles to &ldquo;later&rdquo; in Reader they are also saved to Pocket</li>
+<li>When articles are archived in Reader, they are also archived in Pocket</li>
+</ol>
+<p>This is triggered every hour. The code is <a href="https://gist.github.com/essoen/5fddb415b531ad91759fbb2590b8927b">here</a>. The code step in Zapier is restricted so it cannot be shared as a template, but here&rsquo;s a picture:</p>
+<p><img src="/2024/readwise-pocket-zap.png" alt="graphic representation of Zap that handles data push from Readwise to Pocket and vice versa"></p>
+<p>Worth noting that the loop step will complain when given an empty list. <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup></p>
+<p>It&rsquo;s good to still be able to do some coding, although the code craftsmanship certainly isn&rsquo;t what it is. You improve the most on the things you do, I guess.</p>
+<h2 id="whats-missing">What&rsquo;s missing</h2>
+<p>Obviously I want archived Pocket-articles to be archived in Reader. That&rsquo;s not currently possible, as Reader doesn&rsquo;t offer an API to change articles. So, that&rsquo;s manual.</p>
+<p>Also, the orignal use case for Readwise (not Reader) was to collect highlights, so they have a Pocket integration. This is now causing  I am talking with the devs about all this, hopefully they can do small improvemenets on their API so my litte integration can improve.</p>
+<h2 id="so-what">So what?</h2>
+<p>It&rsquo;s nice to have a few weeks off in the summer, and have time to do some tinkering. Maybe my Reader-Pocket solution is useful to you? Or someone.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>This only works for english language books in Norway. For norwegian books we have to use BookBites, which replaced Allbok last year. Allbok supported Adobe Digital Editions export so one could transfer burrowed books to an ereader over cable. Bookbites doesn&rsquo;t have that, so there you&rsquo;ll have to read on a regular tablet or get an Android eink tablet. I&rsquo;ve also considered that, but I was put off by the fact that the most recent Android version offered on Boox devices (main actor in the business) was Android 12.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>I really enjoy ereaders.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>But the Kindle Oasis is still the best ereader I&rsquo;ve used (despite the micro-USB port)&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p><a href="https://obsidian.md/">Obisdian</a> is my preferred app for this right now, and I try to get all my notes to end up here. I still have a few things in Notion, overviews and such. Their tables are nice, their GDPR compliance not so much. Tradeoffs.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5">
+<p><a href="https://www.youtube.com/watch?v=GLrdrC1H6ZY">Whaddya gonna do?</a>&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content:encoded></item><item><title>Mitt produktivitetsystem</title><link>https://www.svorstol.com/blog/2024/04-08-mitt-produktivitetsystem/</link><pubDate>Mon, 08 Apr 2024 10:58:23 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/04-08-mitt-produktivitetsystem/</guid><description>&lt;p>&lt;em>Jeg har i mange år hatt et system for hvordan jeg styrer hverdagen min, et såkalt produktivitetsystem. Det er ment for å sikre at hodet mitt ikke trenger å huske så mye, og det tilsfredstiller mitt iboende behov og tilbøyelighet for, planmessighet. Her følger en relativt oppdatert versjon av systemet, slik det er akkurat nå. Kanskje det er nyttig for deg?&lt;/em>&lt;/p>
 &lt;h2 id="hvorfor-ha-et-produktivitetsystem">Hvorfor ha et &amp;ldquo;produktivitetsystem&amp;rdquo;&lt;/h2>
-&lt;p>&lt;strong>Hodet ditt ikke er ment til å huske på alt mulig hele tiden.&lt;/strong> Du vet alle de ideene og innfallene man kan komme på i tide og utide, ting man gjerne skulle ha gjort eller lignende? Det er påvist å være stressende og distraherende når man skal gjøre en spesifikk ting (se &lt;a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692">Deep Work av Cal Newport&lt;/a>). Som for eksempel når man ser en film, og telefonen lyser opp. Jeg vet ikke med deg, men jeg blir i alle fall nysgjerrig når det skjer. Det er med det samme vanskeligere å følge med på filmen – i alle fall hvis den ikke er &lt;em>helt sinnssykt spennende&lt;/em>.&lt;/p></description></item><item><title>Is there any contradiction between product and agile?</title><link>https://www.svorstol.com/blog/2023/09-28-is-there-any-contradiction-between-product-and-agile/</link><pubDate>Thu, 28 Sep 2023 14:59:36 +0000</pubDate><guid>https://www.svorstol.com/blog/2023/09-28-is-there-any-contradiction-between-product-and-agile/</guid><description>&lt;p>A recent &lt;a href="https://www.meetup.com/smidig/events/295796327">event&lt;/a> I was considering visiting, was advertising that there was supposed to be discussion there on product vs. agile., as these were somewhat on a collision course. I do not agree with the premise at all, and I&amp;rsquo;ve thought about the relation.&lt;/p>
-&lt;p>Product is about what to build, i.e. something that hits a need. Agile is about delivering continously, and being able to respond to changes fast. It was a response to waterfall and plan-based development.&lt;/p></description></item><item><title>Enabling teams vs. platform teams</title><link>https://www.svorstol.com/blog/2023/enabling-teams-vs/</link><pubDate>Wed, 08 Mar 2023 10:13:16 +0000</pubDate><guid>https://www.svorstol.com/blog/2023/enabling-teams-vs/</guid><description>&lt;p>&lt;em>Updated introduction March 13.&lt;/em>&lt;/p>
-&lt;p>Building a platform is &lt;em>the&lt;/em> way to reduce cognitive load, in various areas. I follow &lt;a href="https://www.thoughtworks.com/what-we-do/enterprise-modernization-platforms-cloud/digital-platform-strategy">the model of ThoughtWorks&lt;/a>, where there are 5 types of platforms. In each, the ideal would be an easy-to-use platform that covers many use cases. That&amp;rsquo;s difficult to do. As with any product (&amp;lsquo;cause think &lt;a href="https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies">platform as a product&lt;/a>), you&amp;rsquo;ll probably need to &amp;ldquo;sell&amp;rdquo; it, and help users identify if the product fits their needs. You might even help them use it. So, you&amp;rsquo;ll not only be building, but you&amp;rsquo;ll also be a salesman and consultant. At various levels and degrees.&lt;/p></description></item><item><title>Building an organization for fast flow – delivering often and with high quality</title><link>https://www.svorstol.com/blog/2022/building-an-organization-for-fast-flow-delivering-often-and-with-high-quality/</link><pubDate>Wed, 26 Oct 2022 16:51:52 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/building-an-organization-for-fast-flow-delivering-often-and-with-high-quality/</guid><description>&lt;p>&lt;em>Fast flow&lt;/em> is delivering often, with quality and hitting customer needs. How do we know that we are? Accelerate found that the so called DORA-metrics can predict 2x better results in the following areas:&lt;/p>
+&lt;p>&lt;strong>Hodet ditt ikke er ment til å huske på alt mulig hele tiden.&lt;/strong> Du vet alle de ideene og innfallene man kan komme på i tide og utide, ting man gjerne skulle ha gjort eller lignende? Det er påvist å være stressende og distraherende når man skal gjøre en spesifikk ting (se &lt;a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692">Deep Work av Cal Newport&lt;/a>). Som for eksempel når man ser en film, og telefonen lyser opp. Jeg vet ikke med deg, men jeg blir i alle fall nysgjerrig når det skjer. Det er med det samme vanskeligere å følge med på filmen – i alle fall hvis den ikke er &lt;em>helt sinnssykt spennende&lt;/em>.&lt;/p></description><content:encoded><![CDATA[<p><em>Jeg har i mange år hatt et system for hvordan jeg styrer hverdagen min, et såkalt produktivitetsystem. Det er ment for å sikre at hodet mitt ikke trenger å huske så mye, og det tilsfredstiller mitt iboende behov og tilbøyelighet for, planmessighet. Her følger en relativt oppdatert versjon av systemet, slik det er akkurat nå. Kanskje det er nyttig for deg?</em></p>
+<h2 id="hvorfor-ha-et-produktivitetsystem">Hvorfor ha et &ldquo;produktivitetsystem&rdquo;</h2>
+<p><strong>Hodet ditt ikke er ment til å huske på alt mulig hele tiden.</strong> Du vet alle de ideene og innfallene man kan komme på i tide og utide, ting man gjerne skulle ha gjort eller lignende? Det er påvist å være stressende og distraherende når man skal gjøre en spesifikk ting (se <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692">Deep Work av Cal Newport</a>). Som for eksempel når man ser en film, og telefonen lyser opp. Jeg vet ikke med deg, men jeg blir i alle fall nysgjerrig når det skjer. Det er med det samme vanskeligere å følge med på filmen – i alle fall hvis den ikke er <em>helt sinnssykt spennende</em>.</p>
+<p>Sånn funker hodet ditt også: En idé eller tanke kan være distraherende når den dukker opp mens du skal jobbe med et eller annet. De dukker opp fordi hodet ditt for det første ikke er kjempekeen på å gjøre oppgaven (med mindre det er noe gøy da, men den typen oppgaver er aldri et problem), og fordi hodet <strong>må</strong> huske på det.</p>
+<p>Derfor skriver jeg alt det ned med det samme jeg kommer på det. Jeg lar verktøy ta seg av alt: Avtaler, ideer, tanker og oppgaver. Da slipper hodet mitt å huske noe som helst.</p>
+<p>For at jeg skal sjekke opp alle stedene jeg skriver ned ting, må jeg ha et system som sikrer at alt blir fulgt opp. Det gjør jeg med noen sesjoner hvor jeg går gjennom alt som er notert, og tar stilling til det, før jeg planlegger hva jeg skal gjøre den neste perioden (dagen, uka, måneden).</p>
+<p>Da skiller jeg mellom to &ldquo;moduser&rdquo;:</p>
+<ol>
+<li>Planleggende modus, eller en slags CEO-modus</li>
+<li>Gjennomførende modus, eller arbeidsmodus</li>
+</ol>
+<p>I modus 1 vil jeg se de lange linjene. I modus 2 vil jeg få gjort oppgaver. Målet er å få begge moduser til å fungere så godt som overhodet mulig, for da er jeg så effektiv som jeg kan være, og ha det rimelig bra med meg selv. Føle at jeg har kontroll, og ikke har noe ugjort jeg ikke helt vet om. Da sipper jeg stress, og det synes jeg er digg.</p>
+<h2 id="om-prosessen">Om prosessen</h2>
+<p>Overordnet ser prosessen min da slik ut</p>
+<ol>
+<li>Fang/samle informasjon</li>
+<li>Prosesser alt som er samlet, og vurder om det skal gjøres noe med</li>
+<li>Organiser det som blir igjen på en måte jeg kan gjøre noe konkret med</li>
+<li>Vurder og planlegg hva alt som jeg da sitter igjen med jeg skal gjøre</li>
+<li>Utfør</li>
+</ol>
+<p>(Åpenbart svært inspirert av Getting Things Done (GTD))</p>
+<p>La meg forklare nærmere:</p>
+<ol>
+<li>Fang/samle informasjon: Jeg fanger data fortløpende gjennom uka, ved å fortløpende braindumpe alt inn i todoverktøy/notatapp. Slippe å huske selv!</li>
+<li>Prosesser informasjonen: Jevnlig gjennomgår jeg informasjonen jeg har samlet, og ser om det må gjøres noe med
+<ol>
+<li>Ting som må gjøres eller leses legges i todoappen</li>
+<li>Informasjon hives inn i en notatapp</li>
+<li>Arkiverer e-post jeg ikke må gjøre noe med</li>
+</ol>
+</li>
+<li>Organiser informasjonen: Jevnlig organiserer jeg det som er igjen etter steg 2.
+<ol>
+<li>Legger oppgaver i en passende liste, finskriver de</li>
+<li>Systematiserer notater/informasjon slik at det er greit å finne igjen</li>
+<li>Gjennomgår en liste med roller og prosjekter, for å se om det er ting jeg mangler i systemet mitt</li>
+</ol>
+</li>
+<li>Vurder og planlegg: Av punkt 3 har jeg jo da en drøss med ting som må gjøres, så ukentlig gjør jeg følgende:
+<ol>
+<li>Alt prioriteres og brytes ned.</li>
+<li>Jeg allokerer tid til tingene som må gjøres, slik at når det først skal gjøres er det bare å utføre.</li>
+<li>Også tar jeg en innsjekk hver dag på tingene som er planlagt den dagen, for å se til at det fortsatt gir mening. I praksis blir dette en titt på todolista på telefonen på vei til jobb.</li>
+</ol>
+</li>
+<li>Utfør: Når jeg er på jobb vet jeg hva som skal gjøres, da er det bare å sette i gang.</li>
+</ol>
+<p>På den måten kan jeg senere bare å gjøre oppgaver. Jeg trenger ikke planlegge noe, bare <em>gjøre</em>.</p>
+<h2 id="verktøy-jeg-bruker">Verktøy jeg bruker</h2>
+<p>For å være konkret, kan vi starte med de verktøyene jeg bruker og hvordan jeg bruker dem.</p>
+<p><strong>Todoist</strong> (jeg har tidligere brukt Wunderlist, og før det Asana) for å lagre alt som skal gjøres. Der har jeg lister for personlige oppgaver, hjemme og ellers, jobb, for ikke å glemme relasjoner. Har en handleliste og en liste for middager som jeg deler med samboeren min. I begynnelsen av uka har jeg en sesjon (Weekly Review &amp; Planning) hvor jeg ser på hvilke tasks jeg bør få gjort ila. uka, bryter ned de som ev. er veldig store, og setter av tid til hver enkelt task i kalenderen min. På begynnelsen av en dag går jeg til Today og ser hva jeg har å gjøre for den dagen.  Jeg starter gjerne med de viktigste/tyngste. Jeg bruker labels og filtere for å synliggjøre prioriteringer, og hjelpe meg å finne oppgaver jeg kan gjøre på for eksempel telefonen. Jeg bruker dessuten innboksen til Todoist en del, ved at jeg dumper ting som må gjøres inn der, og finsliper senere.</p>
+<p>Jeg bruker Quick Capture til Todoist på telefon når ting dukker opp i hodet mitt. Her bare slenger det inn med det samme jeg kommer på det, og det fungerer i så måte som en slags innboks. Jeg går gjennom denne cirka en gang om dagen, men ikke alltid (for det hender jeg glemmer det). Jeg gjør det minimum i forbindelse med Weekly Review &amp; Planning. Når jeg går gjennom, tømmer jeg innboksen på samme måte som jeg ville gjort med mail:</p>
+<ul>
+<li>Er det noen som kom med en bokanbefaling eller anbefaling til en TV-serie på fylla? Bokanbefalingen legger jeg da på Goodreads, også har jeg en liste for TV-serier i Notion.</li>
+<li>En frist for et prosjekt? Legges inn sammen med en oppgave om å levere prosjektet i Todoist.</li>
+</ul>
+<p>Det høres kanskje overkill ut, men poenget er altså at jeg hele tiden vet at den tingen jeg holder på å gjøre, er den tingen jeg må gjøre, fordi jeg har kategorisert og systematisert all informasjonen jeg ellers ville måttet huske.</p>
+<p>Dersom jeg sitter og skal løse en oppgave for en kunde, men får en sykt god idé, eller lurer på et eller annet, slenger jeg det inn i Todoist og finner ut av det senere.</p>
+<p><strong>Google Calendar</strong> er kalenderen min (i alle fall på jobb og privat): Her allokerer jeg altså tid. Har jeg et gjøremål som å skrive et beslutningsgrunnlag for eksempel, kan jeg sette av en time til det. Alternativt kan jeg vite at jeg har et sett med oppgaver X i en kontekst Y for en gitt uke Z. Da sørger jeg for å allokere nok tid til kontekst Y i løpet av uken Z.  Kalenderen får også inn alt av events jeg er interessert eller going på fra Facebook, slik at jeg ikke trenger å legge inn sånt manuelt. Jeg trenger med andre ord ikke tenke på hva jeg skal, jeg bare slenger alt inn i kalenderen så slipper jeg å huske noe selv. Hvorfor det er nyttig er igjen altså at hodet ikke er skapt for å huske alt mulig: jo mer alt mulig annet enn det du jobber med akkurat nå du må tenke på, jo mindre effektiv blir du.</p>
+<p><strong>Obsidian</strong>: Her samler jeg notater og tanker, som raske notater fra møter. Her samler jeg også notater fra verktøy som Remarkable. Her går altså all info som ikke går i Todoist eller kalenderen. Der har jeg ting som notater fra møter og lignende som ikke skal deles felles, utkast til e-poster eller meldinger, research til innkjøp eller personlige prosjekter. Altså litt som et arkiv.</p>
+<p>Til slutt bruker jeg <strong>Notion</strong> til enkelte ting, som oversikt over pågående prosjekter og tracking av vaner.</p>
+<p>For mail bruker jeg <strong>Gmail,</strong> <a href="https://www.fastcompany.com/40507663/the-7-step-guide-to-achieving-inbox-zero-and-staying-there-in-2018">og følger Inbox Zero</a>: Jeg sjekker mail 2-4 ganger om dagen for å arkivere det jeg ikke trenger å svare på. Jeg sender det som tar mer enn to minutter til Todoist, og gjør det som tar mindre med en gang. Er det større ting som tilsynelatende haster, holder jeg av tid til det. Jeg unngår push-varsel på telefonen fra Gmail.</p>
+<p>Jeg bruker også <strong>Feedly</strong> til å samle nyheter (RSS-feeds), <strong>Pocket</strong> som en leseliste/samling av artikler jeg vil lese, og <strong>PocketCast</strong> for podcasts. <strong>Headspace</strong> bruker jeg til meditasjon, rett og slett koble litt av.</p>
+<h2 id="artifakter-jeg-har">Artifakter jeg har</h2>
+<p>For å hjelpe meg å styre prosessen, har jeg et par dokumenter jeg bruker:</p>
+<ol>
+<li>Daglig sjekkliste: Gjennomgås daglig. Målet er å se at planlegging fortsatt er rett, og ev. justere. Jeg pleier å skrive ned 1-3 ting som er &ldquo;Big rocks&rdquo;. Det er ting jeg <em>må</em> gjøre. Hvis disse tingene er gjort er jeg fornøyd med dagens innsats. Dette er gjerne der jeg gjør punkt 2 av prosessen min, og punkt 4 med tanke på dagen som kommer.</li>
+<li>Ukentlig sjekklsite: I begynnelsen av hver uke gjennomgår jeg roller og mål for den foregående, og gjør en review av hvordan det gikk, samt forsøker å identifisere forbedringer. Disse omsettes i konkrete actions. Jeg allokerer også tid til oppgaver. Doist, selskpet bak Todoist har <a href="https://doist.com/blog/weekly-review/">en god artikkel</a> om dette. Dette er punkt 3-4 av prosesen min.</li>
+</ol>
+<p>I tillegg har jeg, som nevnt::</p>
+<ol>
+<li>Oversikt over prosjekter i Notion</li>
+<li>Oppgaver jeg skal gjøre innenfor de prosjektene i Todoist</li>
+<li>Allokert tid i Google Calendar</li>
+</ol>
+<h2 id="når-jeg-skal-utføre">Når jeg skal utføre</h2>
+<p>Når jeg setter meg ned for å jobbe har jeg stort sett allerede oversikt over det som skal gjøres:</p>
+<ul>
+<li>Alle oppgaver ligger som en liste, stort sett med dato, på Todoist</li>
+<li>De har stort sett fått allokert tid til seg allerede, i tidligere sesjoner. Det er for å skille CEO- og arbeidermodus. (se Deep Work av Cal Newport eller <a href="https://getpocket.com/explore/item/time-blocking-improve-your-focus-and-get-more-meaningful-work-done">denne artikkelen</a> om time blocking) Noen ganger har jeg ikke rukket det, og da har jeg heller en bevissthet på tilgjengelig tid den aktuelle dagen.</li>
+<li>Så velger jeg den tingen som er viktigst å få ferdig: Noen kunder synes enkelte leveranser er viktigere enn andre, for eksempel. Capra-oppgaver er mindre viktig enn kundeoppgaver, også videre.</li>
+</ul>
+<p>Da har jeg en konkret ting å gjøre, og jeg setter i gang.</p>
+<p>Når jeg jobber forsøker jeg å bruke Pomodoro med cirka 30 minutter jobbing og 5-15 minutter pause. Men jeg er ikke så firkanta på det. Rolige dager lar jeg det være litt mer flytende, men når det er mye å gjøre, jobber jeg sånn.</p>
+<ul>
+<li>Alt av ting jeg kommer på legger jeg med en gang i Keep, slik at hodet mitt ikke trenger være forstyrret av det (Dette er <em>seriøst</em> en greie. Tenk på hvordan du ikke får sove fordi du ikke klarer å slutte på tenke på et eller annet: Prøv å skrive det ned, og så legge deg igjen.)</li>
+<li>Går ut av Mesenger, Facebook osv. og sjekker det heller i pausen. Derfor du gjerne ser meg på telefonen på vei til kaffemaskinen.</li>
+<li>Gmail plinger men bare på veldig viktige mail (ref. filtere). Sjekker ellers bare i pause/når jeg gidder/oppsatt tid - altså ikke mens jeg sitter med en oppgave</li>
+<li>Har stort sett Slack-programmet alltid oppe, men bruker «Do not disturb»-funksjonen om det er mye aktivitet. Da sjekker jeg kun i pauser.</li>
+<li>Telefonen er alltid på lydløs.</li>
+</ul>
+<p>Om du sliter med å koble av ting kan du for eksmepel sjekke ut Strict Workflow som er en extension til Chrome, som kjører Pomodoro-teknikken + blokker nettsider du spesifiserer.</p>
+<h2 id="videre-lesning">Videre lesning</h2>
+<ul>
+<li>Om det med verktøy og ha et system rundt alt som kommer inn av ideer, oppgaver osv. slik at du ikke trenger tenke på det: <a href="https://www.amazon.co.uk/How-Productivity-Ninja-Worry-Achieve/dp/178578028X">https://www.amazon.co.uk/How-Productivity-Ninja-Worry-Achieve/dp/178578028X</a> Denne er basically en moderne versjon av Getting Things Done hvis du har hørt om det. Ikke for lang, og gir deg noen ideer om hvordan du kan lage et system. Den inspirerte meg veldig til å endre systemet mitt i alle fall.</li>
+<li>Denne <a href="https://tiffanymatthe.com/not-thinking">teksten</a> oppsummerer godt motivasjonen for å lage et system som gjør at du ikke må tenke</li>
+<li>For motivasjon/se enkeltoppgaver/den lille tingen du skal jobbe med akkurat nå i pespektiv <a href="http://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776">http://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776</a></li>
+<li>Som nevnt er også 7 habits og Deep Work relevante.</li>
+<li>Denne <a href="https://todoist.com/productivity-methods">quizen fra Todoist</a> kan hjelpe deg å identifisere noen gode systemer som passer for deg</li>
+</ul>
+<p>Jeg har også skrevet en artikkel om dette <a href="https://readme.abakus.no/edition/2016-03.pdf#page=7">linjeforeningsmagasinet readme i 2016, den gang jeg var student</a>.</p>
+]]></content:encoded></item><item><title>Is there any contradiction between product and agile?</title><link>https://www.svorstol.com/blog/2023/09-28-is-there-any-contradiction-between-product-and-agile/</link><pubDate>Thu, 28 Sep 2023 14:59:36 +0000</pubDate><guid>https://www.svorstol.com/blog/2023/09-28-is-there-any-contradiction-between-product-and-agile/</guid><description>&lt;p>A recent &lt;a href="https://www.meetup.com/smidig/events/295796327">event&lt;/a> I was considering visiting, was advertising that there was supposed to be discussion there on product vs. agile., as these were somewhat on a collision course. I do not agree with the premise at all, and I&amp;rsquo;ve thought about the relation.&lt;/p>
+&lt;p>Product is about what to build, i.e. something that hits a need. Agile is about delivering continously, and being able to respond to changes fast. It was a response to waterfall and plan-based development.&lt;/p></description><content:encoded><![CDATA[<p>A recent <a href="https://www.meetup.com/smidig/events/295796327">event</a> I was considering visiting, was advertising that there was supposed to be discussion there on product vs. agile., as these were somewhat on a collision course. I do not agree with the premise at all, and I&rsquo;ve thought about the relation.</p>
+<p>Product is about what to build, i.e. something that hits a need. Agile is about delivering continously, and being able to respond to changes fast. It was a response to waterfall and plan-based development.</p>
+<blockquote>
+<p>Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan</p>
+<p>That is, while there is value in the items on
+the right, we value the items on the left more.
+<em>From <a href="https://agilemanifesto.org/">The Agile Manifesto</a></em></p></blockquote>
+<p>A company can be agile but not be product-minded. And a company can likewise be product-minded but not agile in how they deliver it.</p>
+<p>To combine the two means</p>
+<ol>
+<li>Being organized for flow into product teams that have what they need to deliver, i.e. utilize tools such as <a href="https://en.wikipedia.org/wiki/Domain-driven_design">Domain-Driven Design</a> and <a href="https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/">Team Topologies</a></li>
+<li>Have effective prioritzation that does not isolate Time-To-Market-calculations to development teams, but rather a organization wide effort. See <a href="https://www.svorstol.com/blog/2022/rethinking-agile/">Flight Levels and Rethinking Agile</a></li>
+<li>Utilize tools such as  <a href="https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309">Product Discovery Habits</a>, and develop product-market fit</li>
+</ol>
+<p>The product-mindset comes into play in the product teams. It can also happen in dedicated business development departments or teams, as long as those are viewed as a part of a complete value chain for the company.</p>
+]]></content:encoded></item><item><title>Enabling teams vs. platform teams</title><link>https://www.svorstol.com/blog/2023/enabling-teams-vs/</link><pubDate>Wed, 08 Mar 2023 10:13:16 +0000</pubDate><guid>https://www.svorstol.com/blog/2023/enabling-teams-vs/</guid><description>&lt;p>&lt;em>Updated introduction March 13.&lt;/em>&lt;/p>
+&lt;p>Building a platform is &lt;em>the&lt;/em> way to reduce cognitive load, in various areas. I follow &lt;a href="https://www.thoughtworks.com/what-we-do/enterprise-modernization-platforms-cloud/digital-platform-strategy">the model of ThoughtWorks&lt;/a>, where there are 5 types of platforms. In each, the ideal would be an easy-to-use platform that covers many use cases. That&amp;rsquo;s difficult to do. As with any product (&amp;lsquo;cause think &lt;a href="https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies">platform as a product&lt;/a>), you&amp;rsquo;ll probably need to &amp;ldquo;sell&amp;rdquo; it, and help users identify if the product fits their needs. You might even help them use it. So, you&amp;rsquo;ll not only be building, but you&amp;rsquo;ll also be a salesman and consultant. At various levels and degrees.&lt;/p></description><content:encoded><![CDATA[<p><em>Updated introduction March 13.</em></p>
+<p>Building a platform is <em>the</em> way to reduce cognitive load, in various areas.  I follow <a href="https://www.thoughtworks.com/what-we-do/enterprise-modernization-platforms-cloud/digital-platform-strategy">the model of ThoughtWorks</a>, where there are 5 types of platforms. In each, the ideal would be an easy-to-use platform that covers many use cases. That&rsquo;s difficult to do. As with any product (&lsquo;cause think <a href="https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies">platform as a product</a>), you&rsquo;ll probably need to &ldquo;sell&rdquo; it, and help users identify if the product fits their needs. You might even help them use it. So, you&rsquo;ll not only be building, but you&rsquo;ll also be a salesman and consultant. At various levels and degrees.</p>
+<p>This increases the cognitive load for the platform team. In addition, it might even be that they must help outside their own product.</p>
+<p>This leads me to enabling teams,  and platform teams, and the distinction between them. As mentioned, the platform teams often must consult on more than what their platform is dedicated to doing. That might not be the best for that team, but it might be what the organization needs. How can we address that need directly?</p>
+<h2 id="definitions-of-enabling-and-platform-teams">Definitions of enabling and platform teams</h2>
+<p>First, look at the enabling team:</p>
+<blockquote>
+<p>The primary purpose of an enabling team is to <strong>help stream-aligned teams deliver working software in a sustainable, responsible way.</strong> Enabling teams do not exist to fix problems that arise from poor practices, poor prioritization choices, or poor code quality within stream-aligned teams. <strong>Stream-aligned teams should expect to work with enabling teams only for short periods of time (weeks or months)</strong> in order to increase their capabilities around a new technology, concept, or approach. <strong>After the new skills and understanding have been embedded in the stream-aligned team, the enabling team will stop daily interaction with the stream-aligned team, switching their focus to a different team.</strong><br>
+<em>- Skelton, Matthew; Pais, Manuel. Team Topologies (p. 113). IT Revolution Press. Kindle Edition.</em></p></blockquote>
+<p>What&rsquo;s the role of the platform team?</p>
+<blockquote>
+<p>The platform team provides internal services to reduce the cognitive load that would be required from stream-aligned teams to develop these underlying services.<br>
+[..]</p>
+<p>In practice, platform teams are expected to focus on providing a smaller number of services of acceptable quality rather than a large number of services with many resilience and quality problems.</p>
+<p><em>- Skelton, Matthew; Pais, Manuel. Team Topologies (pp. 115-116). IT Revolution Press. Kindle Edition</em></p></blockquote>
+<p>So, the enabling team offers <strong>competence and guidance</strong>. The platform teams offer <strong>services</strong>.</p>
+<p>The authors refer to the Jutta Eckstein article from 2014, <a href="https://link.springer.com/chapter/10.1007/978-3-319-14358-3_3">&ldquo;Architecture in Large Scale Agile Development&rdquo;</a>. It offers us this figure showing various ways of handling architecture needs:</p>
+<p><img src="/2023/eckstein2014.jpg" alt="Figure 2 from Eckstein 2014"></p>
+<p>The platform team works in an organization where the teams want to make many changes, and the degree of uncertainty is high. They are technical service teams, offering a platform of internal services that enable many changes.</p>
+<p>The enabling teams work in areas where there are fewer changes and less uncertainty. There is time to consult on ways forward.</p>
+<p>Nevertheless, many teams in the first example, would need help with:</p>
+<ol>
+<li>Deciding if the platform is for them</li>
+<li>If not, what else should they use</li>
+<li>Help on how to use the platform</li>
+</ol>
+<p>Does this mean there should be a dedicated enabling team consulting on this behavior?</p>
+<h2 id="a-consulting-platform-team">A consulting platform team</h2>
+<p>I do not believe that this means platform teams cannot consult. They need to talk to their users to define needs and improve their platform. They must collaborate with their users.</p>
+<blockquote>
+<p>What kind of behaviors and outcomes do we expect to see in an effective platform team? ​</p>
+<ul>
+<li>A platform team uses <strong>strong collaboration with stream-aligned teams</strong> to understand their needs.</li>
+<li>A platform team relies on <strong>fast prototyping techniques and involves stream-aligned team members for fast feedback</strong> on what works and what does not. ​</li>
+<li>A platform team has a strong focus on usability and reliability for their services (treating the platform as a product), and r<strong>egularly assesses if the services are still fit for purpose and usable.</strong></li>
+<li>​A platform team leads by example: using the services they provide internally (when applicable), partnering with stream-aligned teams and enabling teams, and consuming lower level platforms (owned by other platform teams) whenever possible. ​</li>
+<li>A platform team understands that adoption of internal new services, like new technologies, is not immediate, but instead evolves along an adoption curve.</li>
+</ul>
+<p><em>- Skelton, Matthew; Pais, Manuel. Team Topologies (pp. 117-118). IT Revolution Press. Kindle Edition.</em></p></blockquote>
+<p>So, they will interact with and help the team. What they won&rsquo;t do, is help a team over time.<br>
+They might point the stream-aligned team in another direction, after realizing their platform isn&rsquo;t fit for this use case. Who might the stream-aligned team get help from then?</p>
+<p>Well, someone who knows what they need help with. In the case of &ldquo;architecture&rdquo;, the people on the platform team consist of those with the most competence. As well as cloud services. So, they might point away from their team, but nevertheless, the &ldquo;need&rdquo; will come back to them.</p>
+<p>To handle this, here are a few practices that might work, based on the number of people you have in your platform team, and the need for consulting around your organization:</p>
+<ol>
+<li>Create a dedicated enabling team for consulting on the platform, where the people might be in multiple teams (i.e. platform team and one enabling)</li>
+<li>Dedicate a few people on the platform team to consult, and rotate who does it</li>
+<li>Establish routines for handling this in your community of practice, i.e. asking for consulting over time from specific people through your Community of Practice</li>
+</ol>
+<p>This means that members of the platform team will do broader consulting, and that&rsquo;s okay. But the platform team must focus on internal services. So, if the consulting activities take up too much time, you&rsquo;ll see fewer results in the platform team. That should start a conversation on where we put our resources.</p>
+]]></content:encoded></item><item><title>Building an organization for fast flow – delivering often and with high quality</title><link>https://www.svorstol.com/blog/2022/building-an-organization-for-fast-flow-delivering-often-and-with-high-quality/</link><pubDate>Wed, 26 Oct 2022 16:51:52 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/building-an-organization-for-fast-flow-delivering-often-and-with-high-quality/</guid><description>&lt;p>&lt;em>Fast flow&lt;/em> is delivering often, with quality and hitting customer needs. How do we know that we are? Accelerate found that the so called DORA-metrics can predict 2x better results in the following areas:&lt;/p>
 &lt;ol>
 &lt;li>Profitability&lt;/li>
 &lt;li>Productivity&lt;/li>
@@ -144,9 +610,274 @@
 &lt;li>Mean time to restore&lt;/li>
 &lt;li>Change/fail percentage&lt;/li>
 &lt;/ol>
-&lt;p>So, it seems that we should measure and work to improve our ability to deliver often and with quality, because those measures predict better business outcomes.&lt;/p></description></item><item><title>OKRs when scaling your organization</title><link>https://www.svorstol.com/blog/2022/okrs-when-scaling/</link><pubDate>Mon, 08 Aug 2022 13:00:47 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/okrs-when-scaling/</guid><description>&lt;p>I recently held a short talk on OKRs, and how their usage develops over time when used in a scaling organization. Here&amp;rsquo;s a summary of the talk, which was in Norwegian. The original slide deck can be found &lt;a href="https://www.svorstol.com/2022/cc22.pdf">here&lt;/a>. Sadly, it wasn&amp;rsquo;t recorded, but here&amp;rsquo;s a summary in English.&lt;/p>
-&lt;p>So, the starting point here is that I saw a recently released old interview with Steve Jobs in which he talks about how Apple is organized. He says that he has one person responsible for each area and that the teamwork between these people at the top will spread to the rest of the company. The prerequisite for this to work, he says, is trust.&lt;/p></description></item><item><title>Summary of "Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility"</title><link>https://www.svorstol.com/blog/2022/rethinking-agile/</link><pubDate>Tue, 26 Jul 2022 12:00:39 +0200</pubDate><guid>https://www.svorstol.com/blog/2022/rethinking-agile/</guid><description>&lt;p>&lt;em>Updated September 27 2023&lt;/em>&lt;/p>
-&lt;p>I recently read the book &lt;a href="%5Bhttps://www.amazon.com/Rethinking-Agile-Nothing-Business-Agility/dp/3903205397">Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility&lt;/a>. I found it useful, and many of the ideas and concepts resonated with me. Usually, I take notes in a Miro-board while I read, but this time I also want to share some notes here, as it might be useful to others. Please note that these are my own notes, so it might be things that I&amp;rsquo;ve missed, or left out. Please reach out if you want to discuss the book and concepts further, or have questions as to why something isn&amp;rsquo;t mentioned. Thanks!&lt;/p></description></item><item><title>My setup of filters in Todoist</title><link>https://www.svorstol.com/blog/2022/my-setup-of-filters-in-todoist/</link><pubDate>Tue, 21 Jun 2022 10:57:49 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/my-setup-of-filters-in-todoist/</guid><description>&lt;p>I&amp;rsquo;m a big fan of &lt;a href="www.todoist.com">Todoist&lt;/a>, and I&amp;rsquo;ve used it as my main to-do app for around 7 years. I picked it after some extensive research after Wunderlist was bought by Microsoft. Recently a colleague asked me about my setup, Here&amp;rsquo;s a short overview:&lt;/p>
+&lt;p>So, it seems that we should measure and work to improve our ability to deliver often and with quality, because those measures predict better business outcomes.&lt;/p></description><content:encoded><![CDATA[<p><em>Fast flow</em> is delivering often, with quality and hitting customer needs. How do we know that we are? Accelerate found that the so called DORA-metrics can predict 2x better results in the following areas:</p>
+<ol>
+<li>Profitability</li>
+<li>Productivity</li>
+<li>Market share</li>
+<li>Number of customers</li>
+</ol>
+<p>The <a href="https://www.leanix.net/en/wiki/vsm/dora-metrics#what-are-DORA-metrics">DORA-metrics</a> are</p>
+<ol>
+<li>Lead time</li>
+<li>Deployment frequency</li>
+<li>Mean time to restore</li>
+<li>Change/fail percentage</li>
+</ol>
+<p>So, it seems that we should measure and work to improve our  ability to deliver often and with quality, because those measures predict better business outcomes.</p>
+<p>How might we help our teams to focus on those metrics?</p>
+<ol>
+<li>Reduce cognitive load <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></li>
+<li>Reduce handovers <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></li>
+</ol>
+<p>And what would that mean in practice?</p>
+<ol>
+<li>Organize based on domains, so that a team can <a href="https://www.svorstol.com/blog/2021/02-27-solving-complex-problems/">solve problems end-to-end within their domain</a></li>
+<li>Communicate direction and context often, e.g. with tools such as <a href="https://www.svorstol.com/blog/2022/okrs-when-scaling/">OKRs</a></li>
+<li>Help teams coordinate with <a href="https://www.svorstol.com/blog/2022/rethinking-agile/">flight-levels</a>, <a href="https://teamtopologies.com/key-concepts">labeling teams</a> and <a href="https://github.com/TeamTopologies/Team-API-template">building APIs for the teams</a></li>
+<li>Nurture a culture where improvement is celebrated, i.e. implement changes that help us deliver faster and with less faults<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></li>
+</ol>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>&ldquo;In cognitive psychology, cognitive load refers to the amount of working memory resources used.&rdquo; from <a href="https://en.wikipedia.org/wiki/Cognitive_load">Wikipedia</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>See number 5 <a href="https://vitalitychicago.com/blog/my-favorite-agile-illustrations-from-henrik-kniberg-of-spotify-fame/">here</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Building culture is hard. Books such as <a href="https://www.amazon.com/Culture-Code-Secrets-Highly-Successful-ebook/dp/B019CGXU68/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=">The Culture Code</a> can be inspiring.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content:encoded></item><item><title>OKRs when scaling your organization</title><link>https://www.svorstol.com/blog/2022/okrs-when-scaling/</link><pubDate>Mon, 08 Aug 2022 13:00:47 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/okrs-when-scaling/</guid><description>&lt;p>I recently held a short talk on OKRs, and how their usage develops over time when used in a scaling organization. Here&amp;rsquo;s a summary of the talk, which was in Norwegian. The original slide deck can be found &lt;a href="https://www.svorstol.com/2022/cc22.pdf">here&lt;/a>. Sadly, it wasn&amp;rsquo;t recorded, but here&amp;rsquo;s a summary in English.&lt;/p>
+&lt;p>So, the starting point here is that I saw a recently released old interview with Steve Jobs in which he talks about how Apple is organized. He says that he has one person responsible for each area and that the teamwork between these people at the top will spread to the rest of the company. The prerequisite for this to work, he says, is trust.&lt;/p></description><content:encoded><![CDATA[<p>I recently held a short talk on OKRs, and how their usage develops over time when used in a scaling organization. Here&rsquo;s a summary of the talk, which was in Norwegian. The original slide deck can be found <a href="/2022/cc22.pdf">here</a>. Sadly, it wasn&rsquo;t recorded, but here&rsquo;s a summary in English.</p>
+<p>So, the starting point here is that I saw a recently released old interview with Steve Jobs in which he talks about how Apple is organized. He says that he has one person responsible for each area and that the teamwork between these people at the top will spread to the rest of the company. The prerequisite for this to work, he says, is trust.</p>
+<blockquote>
+<p>[..] and teamwork is dependent on trusting the other folks to come through with their part, without watching them all the time.<br>
+- <a href="https://youtu.be/f60dheI4ARg">Steve Jobs</a></p></blockquote>
+<p>So this is obviously about culture, both within teams and in the organization as a whole. How might we build an organization where everyone trusts each other in delivering what&rsquo;s needed? That being said, despite trusting others we still might need to know what others are focusing on, and how that&rsquo;s going. In short, we all want to know:</p>
+<ol>
+<li>What&rsquo;s the main focus within my team?</li>
+<li>What&rsquo;s the focus of other teams?</li>
+<li>Are what we and other teams are focusing on aligned so that we are going in one direction?</li>
+<li>How are we all moving along in that direction?</li>
+</ol>
+<p>This is where management by objective with a model such as OKRs might be useful. It can be traced back to the 1950s with Peter Drucker&rsquo;s book &ldquo;Management by Objective&rdquo; His point was that you get more engagement and higher performance when employees and leaders set goals together. Later he made it clear that this is a tool, and it doesn&rsquo;t make it easier to set the goals themselves. Nevertheless: In 1974 Andy Grove implemented MBO at Intel when he was CEO there. He established it as OKRs -  Objectives and Key Results. John Doerr brought it to Goole around 1999 and wrote the book Measure What Matters which was released in 2018. This brought OKRs into companies in Silicon Valley, and over the last 2-3 years Norway as well.</p>
+<h2 id="whats-the-model-about">What&rsquo;s the model about?</h2>
+<p>Objectives and Key Results consist of:</p>
+<ul>
+<li>Objective – an ambitious, qualitative, and time-bound goal</li>
+<li>Key Results – measurements for knowing if we&rsquo;ve reached the goals</li>
+</ul>
+<p>Read more <a href="https://www.perdoo.com/okr-guide/">here</a>. That reference mentions something that in my experience is often forgotten: Initiatives. Where the Objectives give direction, Key Resultsmeasures progression, and the initiatives are the concrete actions we take to get us there. This is usually tracked in portfolio management or JIRA tasks for teams. One set of OKRs can have all its initiatives in one team or multiple initiatives across teams. Each team does not necessarily need its own OKRs.</p>
+<h2 id="whats-the-problem">What&rsquo;s the problem?</h2>
+<p>This would be a sort of boilerplate for how to implement OKRs:</p>
+<ol>
+<li>&ldquo;Someone&rdquo;, such as a management group or board, communicates an established strategy. It might consist of:
+<ol>
+<li>A description of the business the company is in</li>
+<li>The challenges/threats that the company has to overcome</li>
+<li>Some policies as to how those challenges are to be met</li>
+<li>And some high-level but quantified goals to reach for</li>
+</ol>
+</li>
+<li>Teams create their goals with that strategy as the context</li>
+<li>Leaders meet with teams where they do not see how the goals match with the strategy</li>
+</ol>
+<p>In my experience, the process becomes difficult because:</p>
+<ol>
+<li>Missing strategy, in the one or more sense of the word &ldquo;missing&rdquo;:
+<ol>
+<li>There is no strategy</li>
+<li>There is one, but it&rsquo;s too difficult to communicate</li>
+<li>It&rsquo;s not updated often enough, so it&rsquo;s not relevant to the business</li>
+<li>It&rsquo;s created in a waterfall manner, rather than <a href="https://www.svorstol.com/blog/2021/05-26-strategy-and-decisions/">as a platform others can build upon</a></li>
+</ol>
+</li>
+<li>The teams do not recognize themselves in the strategy, i.e. they cannot work on the goals they set based on the strategy because there&rsquo;s a delivery &ldquo;they just have to deliver&rdquo;</li>
+<li>If it&rsquo;s not in the OKRs, the team thinks it&rsquo;s out of scope, e.g. technical debt.</li>
+</ol>
+<p>This brings us to heartbeat work.</p>
+<h2 id="heartbeat-work-vs-strategic-work">Heartbeat work vs. strategic work</h2>
+<p>In her excellent article called <a href="https://cwodtke.medium.com/not-everyone-needs-okrs-a198db0c7bc8">&ldquo;Not Everyone Needs Objectives and Key Results (OKRs)&rdquo;</a> Christina Wodtke established the concept of <em>Heartbeat Work</em>.</p>
+<p>She places work into three categories:</p>
+<ol>
+<li><strong>Strategic work:</strong> Identified big-ticket challenges that will create necessary change within your company. Either to stay afloat, or capture a new market. To do this, we need to focus on, and measurement of, that improvement. Tracked with OKRs.</li>
+<li><strong>Continuous improvement work:</strong> Established products needs continuous improvement to make sure that you do not lose the market or the customers. This is everything from improved features to post-mortems. Best tracked with Kanban-boards, pipelines for improvement, roadmaps</li>
+<li><strong>Heartbeat work:</strong> Work that &ldquo;just needs to be done&rdquo;, or the business will stop. It can be associated with established revenue streams, but it also functions such as HR and law in large corporations. Operations and making sure IT systems run are a part of this. Some capabilities are so that we <em>need them</em>, and their work is continuous. The work can usually be tracked with dashboards, metrics, or kanban work.</li>
+</ol>
+<p>I find this model quite useful, as it explains why shoehorning your goals into the OKR model might be difficult. <a href="https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/">OKRs are not a silver bullet for tracking work</a>.</p>
+<h2 id="how-the-use-of-okrs-can-change-as-you-scale">How the use of OKRs can change as you scale</h2>
+<p>So, let&rsquo;s say you&rsquo;re a small startup company with a great business idea. You use OKRs to give direction and measure progress and might follow the processes described in <a href="https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028">Radical Focus</a>.</p>
+<p>Over time, the amount of heartbeat and improvement work will increase, as your company becomes more established. This is because it takes some resources to keep your established revenue streams. Within IT, this means that you&rsquo;re focus shifts away from finding product-market fit and building new features only, to maintaining</p>
+<p>A lot of that maintenance would be heartbeat work and continuous improvement. You&rsquo;ll struggle with your team and colleagues to fit &ldquo;everything&rdquo; into your OKRs. It&rsquo;s not just meant for that.</p>
+<p>So, as you scale, be mindful of how you use OKRs over time. It might be a good idea to establish Service-Level Objectives from the start, or at least make sure you can measure performance in the future. Sooner or later you&rsquo;ll have a discussion on the pros and cons of fixing <em>that</em> piece of technical debt when your OKRs say that&rsquo;s not in focus. You&rsquo;ll need some metrics that say that maintenance is needed.</p>
+<h2 id="advice-on-implementation-in-your-organization">Advice on implementation in your organization</h2>
+<p>So, based on my experience, the following advice might be useful for teams and organizations that want to implement the OKR model:</p>
+<ol>
+<li>Be clear on why you want to use OKRs in the first place. Hopefully, it&rsquo;s not just because of the hype.</li>
+<li>Connect OKRs directly to your strategy, i.e. make sure that Objectives are based on your strategy.</li>
+<li>Focus on what you can measure, instead of spending lots of time discussing whether it&rsquo;s the best measurement</li>
+<li>Don&rsquo;t fret too much about the framework, instead focus on why and how it&rsquo;s useful to you and your company</li>
+</ol>
+<p>Long story short: Make sure how you track work is fit for purpose. As I&rsquo;ve written before: <a href="https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/">OKRs are not a silver bullet for tracking work</a>.</p>
+<p>Good luck!</p>
+]]></content:encoded></item><item><title>Summary of "Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility"</title><link>https://www.svorstol.com/blog/2022/rethinking-agile/</link><pubDate>Tue, 26 Jul 2022 12:00:39 +0200</pubDate><guid>https://www.svorstol.com/blog/2022/rethinking-agile/</guid><description>&lt;p>&lt;em>Updated September 27 2023&lt;/em>&lt;/p>
+&lt;p>I recently read the book &lt;a href="%5Bhttps://www.amazon.com/Rethinking-Agile-Nothing-Business-Agility/dp/3903205397">Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility&lt;/a>. I found it useful, and many of the ideas and concepts resonated with me. Usually, I take notes in a Miro-board while I read, but this time I also want to share some notes here, as it might be useful to others. Please note that these are my own notes, so it might be things that I&amp;rsquo;ve missed, or left out. Please reach out if you want to discuss the book and concepts further, or have questions as to why something isn&amp;rsquo;t mentioned. Thanks!&lt;/p></description><content:encoded><![CDATA[<p><em>Updated September 27 2023</em></p>
+<p>I recently read the book <a href="%5Bhttps://www.amazon.com/Rethinking-Agile-Nothing-Business-Agility/dp/3903205397">Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility</a>. I found it useful, and many of the ideas and concepts resonated with me. Usually, I take notes in a Miro-board while I read, but this time I also want to share some notes here, as it might be useful to others. Please note that these are my own notes, so it might be things that I&rsquo;ve missed, or left out. Please reach out if you want to discuss the book and concepts further, or have questions as to why something isn&rsquo;t mentioned. Thanks!</p>
+<h2 id="part-1-the-problem">Part 1: The Problem</h2>
+<p>The book takes a look at a company that goes through an Agile Transition. The IT organization had 600 people. The organization wants the transition for the usual reasons:</p>
+<ol>
+<li>Optimized Time to Market</li>
+<li>Increase customer feedback</li>
+<li>Become &ldquo;ready for the future&rdquo;, i.e. enable the IT organization to utilize new technology</li>
+</ol>
+<p>They plan their agile transition around the following practices, over a time frame of 18 months:</p>
+<ol>
+<li>All teams should be cross-functional</li>
+<li>Every team should be organized around the premise &ldquo;one team, one product&rdquo;</li>
+<li>There were the following minimum requirements for the agile process:
+<ol>
+<li>Work should be visually managed</li>
+<li>Every team should have daily Standups and regular Retrospectives</li>
+<li>They took the following measurements as reference points:
+<ol>
+<li>Throughout, i.e. the number of work items that are completed per time frame</li>
+<li>Cycle time to indicate how fast work is completed</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<p>The practices were implemented with training, reorganization through self-organization, and external support. Even though the mood was great and 80% of the teams had implemented the minimum requirements of practices, the measurements was not developing as expected:</p>
+<blockquote>
+<p>Nonetheless, the actual trend of the Scrum teams looked completely different. The teams managed to get off to a good start and velocity increased sharply. Then all of a sudden, the line flattened out and was now in a downward trend. The performance had strongly diminished over time.</p>
+<p>[..]</p>
+<p>As expected, the cycle time increased slightly at the beginning but only marginally decreased over time. The line followed a downward trend, but the improvement did not even reach the 1 percent mark—a cycle time reduced by half was nowhere to be found.<br>
+Regardless, whether Scrum or Kanban—it was clear that ability of the teams to deliver had not changed much.</p>
+<p>Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (pp. 24-27). LEANability PRESS. Kindle Edition.</p></blockquote>
+<p>They did not have the measurements from before the transition, but they did have a measure of project cycle time. The project cycle time had gone down after the transition, which meant that the company went from bad to worse and did not meet its goals. Why?</p>
+<h2 id="part-2-causes">Part 2: Causes</h2>
+<p>The book describes four causes of the problem, each in its own section. He uses the example from the first part to explain these four causes. Here&rsquo;s a brief summary of each:</p>
+<ol>
+<li><strong>The pitfall of simplistic inference in the change process:</strong> The company wanted to optimize Time-To-Market (TTM) and faster customer feedback, and believes that agile is a concrete step to reach that goal. So they introduced a big agile transformation project. They reorganize, introduce new roles, and describe what these roles are allowed to do. This drew focus to roles, responsibilities, and processes, rather than how to actually increase TTM and customer feedback. They confuse <em>&ldquo;means for the purpose&rdquo;</em>. He also notes that your organizational model does not make you agile either. not. <em>&ldquo;Success depends on answering one question: How do we make our money and which problem are we trying to solve?&rdquo;</em> <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></li>
+<li><strong>Dealing with dependencies between Teams and Products:</strong> The teams had Kanban boards as required by the organization&rsquo;s chosen framework. In these boards, Leopold found columns that are called &ldquo;External waiting&rdquo;, i.e. the team has dependencies on other teams. He visualized this with a dependency graph. Dependencies lead to increased cycle times. The reason for this external wait time is, according to Leopold, that one forgets that: (1) Even though a team usually only works on one product, several teams are working on the same product. (2) Even though one team only works on one product, there are dependencies between products (3) Knowledge work has a tendency to create dependencies, and one has to be extremely cautious. He quotes Russel L. Ackoff <em>&quot;[..] the performance of the whole is never the sum of the parts taken separately, but it&rsquo;s the product of their interactions.&quot;</em>  Leopold ends with: <em>&ldquo;Agility is created when the interactions between teams are agile. That was the problem in this company: The interactions between the individual teams were not being managed.&rdquo;</em> <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></li>
+<li><strong>An incomplete value stream:</strong> Many big and difficult steps ahead of the development, slows down development, such as idea selection, business case writeup, and steering committee approval. Leopold also observes that the burden of becoming faster falls on the development teams nevertheless. &ldquo;<em>And business agility will never be achieved if all of the slow-moving process and system logic is simply maintained without consideration for the end-to-end system.&rdquo;</em> <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></li>
+<li><strong>WIP Limits at the wrong place:</strong> Leopold separates Work in Progress from Work in Process. In Progress means it&rsquo;s actively worked on, while In Process means that it&rsquo;s in the system but without real progress. To increase the organization&rsquo;s ability to deliver, the Flow Efficiency (how much time a work item spends in being actively worked on vs. in process), must reduce how much things are ongoing at the same time rather than the active work. To increase this, <strong>one must reduce the number of initiatives going at the same time</strong>, so that the most important initiatives are in <em>progress</em>, and tasks do not have to wait.</li>
+</ol>
+<p><strong>Addition in September 2023:</strong> The <a href="https://www.flightlevels.io/workshops/flight-levels-introduction/">Fligt Levels Academy Introduction</a> summarizes the causes like this:</p>
+<ol>
+<li>No agile interactions</li>
+<li>No end to end flow (of work)</li>
+<li>No agile portfolio management</li>
+<li>No agile change process</li>
+</ol>
+<h2 id="part-3-flight-levels">Part 3: Flight Levels</h2>
+<p>To enact the WIP limits for initiatives, and increase the project visibility and coordination to mitigate the problem and causes, the organization and establish artifacts and meetings at three levels:</p>
+<ol>
+<li><strong>Operational Level, i.e. implementation level:</strong> This is where the transition had focused so far, having a Kanban board and meetings within the team. The focus is on breaking down initiatives into tasks and delivering them.</li>
+<li><strong>Co-ordinational Level:</strong> To optimize team interactions so that the prioritised initiatives are completed. The focus is to break the initiatives into pieces so that they can be worked on by teams, and to make sure that dependencies are handled.</li>
+<li><strong>Strategic Portfolio Management Level:</strong> Here you want an overview of everything that&rsquo;s happening, how it&rsquo;s going, and what to do next. Does the organization complete the initiatives, and are they aligned with the current company strategy? The focus is to set direction and prioritize.</li>
+</ol>
+<p>Start your transition at the highest possible flight level In this organization, that was at level 2. Lead by example.</p>
+<h3 id="make-dependencies-visible-and-manage-them">Make dependencies visible and manage them</h3>
+<p>At each level, you&rsquo;ll want a board that shows what&rsquo;s going on, and relevant people involved in relevant and well-organized meetings. Given that we already have the team-level boards:</p>
+<ol>
+<li>Send team delegates to set up product boards (can be used by individual teams as well)</li>
+<li>Define the optimal amount of work for the product/set of teams</li>
+<li>Run product standup meetings with team delegates (could be in rotation)</li>
+<li>Run replenishment meetings across teams when stuff is actually done</li>
+<li>Establish feedback loops across teams, such as having cross-team retros</li>
+<li>Get metrics for your feedback loops</li>
+</ol>
+<p><strong>Too many meetings?</strong> We might not need all the old meetings, and everyone does not need to participate in everything.</p>
+<h3 id="integrate-the-upstream">Integrate the upstream</h3>
+<p>The upstream is the number of steps from the idea to when the developers can start working on that idea. If the steps take a lot of time, TTM is higher than necessary. We want to integrate the steps, processes, and people in the flight level system to increase TTM.</p>
+<blockquote>
+<p>The question isn&rsquo;t how many steps are part of the upstream value stream, but instead how quickly these steps—from the first step to an assessable unit of value (idea, concept, etc.)—are able to be executed. - <em>Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 119). LEANability PRESS. Kindle Edition.</em></p></blockquote>
+<p>Leopold describes three time traps in the upstream processes:</p>
+<ol>
+<li>The annual budget created batch sizes that were too large, i.e. what&rsquo;s committed in the budget is more than the teams can deliver. If what&rsquo;s to be built is decided a year ahead, agility is not pssobløe The longer one collects ideas, the lower the possibility of agility. To increase reaction time to market needs, you need a new budgeting process. Leopold suggests a monthly review and possible replenishment of money.</li>
+<li>Colleagues as suppliers, i.e. if the IT department is considered a supplier that limits the possibility of a positive relationship. This means that we do not have one large process of estimates and approvals like you would see with an external contractor.</li>
+<li>Making an estimate for something that must be done anyway, i.e. doing estimates for things that the company is legally bound to do anyway.</li>
+</ol>
+<p>In Leopold&rsquo;s example they changed the upstream process to have the following steps:</p>
+<ol>
+<li>Approx. business case</li>
+<li>Waiting on approval</li>
+<li>Reviewing business cases every two weeks.</li>
+</ol>
+<p>Meeting more often for reviewing business cases made the development and business work tighter together. This was also supported by feedback loops:</p>
+<ol>
+<li>Joint standup meetings and retros</li>
+<li>Metrics that would give an idea of the total of TTM, not just for development</li>
+</ol>
+<h3 id="strategic-portfolio-management">Strategic Portfolio Management</h3>
+<p>Get the executive management on board so that strategy, operations, development, and delivery can work closely together towards a clearly defined goal. This means establishing flight level 3. Leopold recommends the same steps for including upper executive management as for the two other levels:</p>
+<ol>
+<li>Visualize
+<ol>
+<li>.. by making a strategy board that visualizes everything that&rsquo;s going on, and what&rsquo;s planned. Make one that fits your context. In Leopold&rsquo;s example, they idenfited two types of work with upper management: initiatives (makes money), and investments (&ldquo;necessary but not urgent projects&rdquo;). To focus on outcomes and ensure continuous evaluation, there&rsquo;s no &ldquo;finished&rdquo; column but &ldquo;Measuer &amp; Improve success&rdquo;, &ldquo;Adjust &amp; Improve&rdquo;, &ldquo;Result Achieved&rdquo; and &ldquo;Result not achieved&rdquo;.</li>
+<li>.. by making the processes and criteria from idea to implementation explicit</li>
+</ol>
+</li>
+<li>Limit the WIP. Find the right WIP limit for your organization.</li>
+<li>Establish feedback loops by making sure there&rsquo;s a meeting around the board often enough, and that decision are actually made. Leopold recommends doing a Strategic Portfolio Standup weekly.  Also, run retros and strategy reviews. He recommends running these more often in the beginning and getting a sense of the necessary cadence over time.</li>
+</ol>
+<blockquote>
+<p>The specific design of these steps can, must and should look different for every company. And the design can change over time based on the needs of the company and its customers. - <em>Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 131). LEANability PRESS. Kindle Edition.</em></p></blockquote>
+<h2 id="part-4-the-result">Part 4: The Result</h2>
+<p>It all ends well, and the organization that&rsquo;s described has the following results:</p>
+<ol>
+<li><strong>Reduced time to market</strong></li>
+<li><strong>Strategic alignment</strong></li>
+<li><strong>Greater efficiency</strong></li>
+<li><strong>Focus on outcome over output</strong></li>
+<li><strong>Increased financials:</strong> Increased revenue. Also found that increased time to marked saved &ldquo;ten Million Euros per year in delay costs.</li>
+</ol>
+<p><strong>How can we do the same?</strong></p>
+<ol>
+<li>&ldquo;Agility begins with the change process&rdquo;, so be an ambassador for agile ideas. Agility does not happen through a two-year plan, but through getting people on board and implementing practices. Lead by example.</li>
+<li>Focus on goal over method</li>
+<li>Focus on organizational process and generating value, rather than on the &ldquo;agile team&rdquo;</li>
+<li>Identify flight levels, and get them on board. We won&rsquo;t get the &ldquo;transformation&rdquo; further than the management level we have involved</li>
+<li>Manage and eliminate dependencies (not the other way around)</li>
+<li>Implement the drivers for lean business at every flight level, that is:
+<ol>
+<li>Make work and processes explicit, i.e. <a href="https://www.amazon.com/Making-Work-Visible-Exposing-Optimize/dp/1942788150">Making Work Visible</a></li>
+<li>Manage WIP</li>
+<li>Increase feedback loops</li>
+<li>Improve, i.e. use your feedback loops and implement improvements</li>
+</ol>
+</li>
+</ol>
+<h2 id="final-notes">Final notes</h2>
+<p>This was a great summary of both a typical agile transformation, and the causes of why it fails, and it introduces a concrete tool for how to handle organizational visualization of strategy, dependencies, and ongoing initiatives. It fits well with books such as Accelerate, Making Work Visible, Team Topologies,  The Fearless organization, Upstream, and A Seat at the Table.</p>
+<p>These quotes stuck with me, but didn&rsquo;t fit directly into the summary:</p>
+<blockquote>
+<p>Business agility is achieved when delivering value to the customer is optimized. Sooner or later, it becomes clear what needs to change in the organizational structure to support this. <em>- Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 102). LEANability PRESS. Kindle Edition.</em></p>
+<p>Business agility doesn&rsquo;t work if an organization is comprised of agile islands while the logic of the surrounding processes remains the same and certain groups exempt themselves from practicing agility. <em>- Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 126). LEANability PRESS. Kindle Edition.</em></p></blockquote>
+<blockquote>
+<p>The decision to &ldquo;work without a hierarchy&rdquo; has to be decided by someone—presumably it isn&rsquo;t the building maintenance person making this decision. <em>- Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 126). LEANability PRESS. Kindle Edition.</em></p>
+<p>Important meetings should be held frequently People in organizations like to complain about meetings, which is partly due to how they are set up. But I also take a close look at how often important meetings are actually held. Most likely, you will find that the meeting intervals are too long (also making the meetings longer). The decisions made in these meetings lose value because people are forced to make permanent (isolated) decisions in the meantime. - <em>Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 136). LEANability PRESS. Kindle Edition.</em></p></blockquote>
+<p>Thanks for reading!</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 41). LEANability PRESS. Kindle Edition.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 51). LEANability PRESS. Kindle Edition.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility (p. 56). LEANability PRESS. Kindle Edition.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content:encoded></item><item><title>My setup of filters in Todoist</title><link>https://www.svorstol.com/blog/2022/my-setup-of-filters-in-todoist/</link><pubDate>Tue, 21 Jun 2022 10:57:49 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/my-setup-of-filters-in-todoist/</guid><description>&lt;p>I&amp;rsquo;m a big fan of &lt;a href="www.todoist.com">Todoist&lt;/a>, and I&amp;rsquo;ve used it as my main to-do app for around 7 years. I picked it after some extensive research after Wunderlist was bought by Microsoft. Recently a colleague asked me about my setup, Here&amp;rsquo;s a short overview:&lt;/p>
 &lt;ul>
 &lt;li>I have one Todoist per project or context, and I sort these into two main projects: Work and Personal.
 &lt;ul>
@@ -162,19 +893,262 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>See &lt;a href="https://todoist.com/help/articles/introduction-to-filters">here&lt;/a> for more on how filters work in Todoist, and more &lt;a href="https://blog.doist.com/todoist-filters">suggestions on use&lt;/a>.&lt;/p></description></item><item><title>Communication and Education in an Agile Transition</title><link>https://www.svorstol.com/blog/2022/communication-and-education-in-an-agile-transition/</link><pubDate>Mon, 07 Mar 2022 17:49:03 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/communication-and-education-in-an-agile-transition/</guid><description>&lt;p>This week I am attending the &lt;a href="https://www.icagile.com/certification/coaching-agile-transitions">ICP-CAT course&lt;/a>. One of the assignments was regarding how to use education and communication in an agile transition. One of the discussions sparked my interest, and I thought more about it after the course. This brought me to a model of how I&amp;rsquo;d address the need for communication and education, that might be useful for others as well.&lt;/p>
-&lt;p>From &lt;a href="https://www.amazon.com/Rethinking-Agile-Nothing-Business-Agility/dp/3903205397">Rethinking Agile&lt;/a> we have three levels in an organization [^1]:&lt;/p></description></item><item><title>Roadmaps in an agile team</title><link>https://www.svorstol.com/blog/2022/using-a-roadmap-in-an-agile-team/</link><pubDate>Mon, 21 Feb 2022 06:00:00 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/using-a-roadmap-in-an-agile-team/</guid><description>&lt;p>A colleague and I recently discussed the role of roadmaps in an agile context. He pointed to some books and sources, saying roadmaps are useless or unimportant. This also plays into the #NoEstimates movement.&lt;/p>
+&lt;p>See &lt;a href="https://todoist.com/help/articles/introduction-to-filters">here&lt;/a> for more on how filters work in Todoist, and more &lt;a href="https://blog.doist.com/todoist-filters">suggestions on use&lt;/a>.&lt;/p></description><content:encoded><![CDATA[<p>I&rsquo;m a big fan of <a href="www.todoist.com">Todoist</a>, and I&rsquo;ve used it as my main to-do app for around 7 years. I picked it after some extensive research after Wunderlist was bought by Microsoft. Recently a colleague asked me about my setup, Here&rsquo;s a short overview:</p>
+<ul>
+<li>I have one Todoist per project or context, and I sort these into two main projects: Work and Personal.
+<ul>
+<li>E.g. two engagements become <code>Engagement 1</code> and <code>2</code> as subprojects in <code>Work</code>.</li>
+<li>If I have several actual projects/initiatives with that engagement, I might have multiple subprojects for that as well.</li>
+</ul>
+</li>
+<li>Each project has two sections: <code>Do Now</code> and <code>Backlog</code></li>
+<li>This enables me to have the following really useful filters:
+<ul>
+<li>Overdue first, then inbox, then all work items for today, and finally all personal items for today: <code>overdue, #Inbox, (##Work &amp; today), (##Personal &amp; today)</code></li>
+<li>Do Now or Backlog for a context: <code>(##Work ) &amp; /Do Now</code> or <code>(##Work ) &amp; /Backlog</code>, and similarly with <code>##Personal</code></li>
+</ul>
+</li>
+</ul>
+<p>See <a href="https://todoist.com/help/articles/introduction-to-filters">here</a> for more on how filters work in Todoist, and more <a href="https://blog.doist.com/todoist-filters">suggestions on use</a>.</p>
+<p>In addition, I have a separate main project for agendas with people, i.e. things I want to talk about with person X.</p>
+<p>It&rsquo;s also worth mentioning the tool <a href="https://www.tascaly.com/">Tascaly</a>, which creates a calendar event for tasks that has a scheduled time of day, as well as a label for how long it&rsquo;ll take. E.g. <code>today at 13 @1h</code> becomes a 1-hour slot at 13:00.</p>
+<p>I have also made it easy for me to send tasks to Todoist. So I&rsquo;ve added the Todoist extension for my email apps, and to Slack. This enables me to schedule/plan for everything in one place. Sadly, the Todoist extension for Slack only supports one Slack team at a time. To enable me to add tasks from multiple teams, I&rsquo;ve set up this <a href="https://zapier.com/apps/slack/integrations/todoist/1580/add-new-saved-slack-messages-to-todoist-as-tasks">zap from Zapier</a>.</p>
+<p>The next step for all this to be useful is having a process around that set up to put dates on your Do Now tasks, sort your inbox into projects, and move new items from your backlog into Do Now. That&rsquo;s a longer story for another time.</p>
+]]></content:encoded></item><item><title>Communication and Education in an Agile Transition</title><link>https://www.svorstol.com/blog/2022/communication-and-education-in-an-agile-transition/</link><pubDate>Mon, 07 Mar 2022 17:49:03 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/communication-and-education-in-an-agile-transition/</guid><description>&lt;p>This week I am attending the &lt;a href="https://www.icagile.com/certification/coaching-agile-transitions">ICP-CAT course&lt;/a>. One of the assignments was regarding how to use education and communication in an agile transition. One of the discussions sparked my interest, and I thought more about it after the course. This brought me to a model of how I&amp;rsquo;d address the need for communication and education, that might be useful for others as well.&lt;/p>
+&lt;p>From &lt;a href="https://www.amazon.com/Rethinking-Agile-Nothing-Business-Agility/dp/3903205397">Rethinking Agile&lt;/a> we have three levels in an organization [^1]:&lt;/p></description><content:encoded><![CDATA[<p>This week I am attending the <a href="https://www.icagile.com/certification/coaching-agile-transitions">ICP-CAT course</a>. One of the assignments was regarding how to use education and communication in an agile transition. One of the discussions sparked my interest, and I thought more about it after the course. This brought me to a model of how I&rsquo;d address the need for communication and education, that might be useful for others as well.</p>
+<p>From <a href="https://www.amazon.com/Rethinking-Agile-Nothing-Business-Agility/dp/3903205397">Rethinking Agile</a> we have three levels in an organization [^1]:</p>
+<ol>
+<li>Operational Level, e.g. team level</li>
+<li>Co-ordinational Level. e.g. heads of department or business area</li>
+<li>Strategic Portfolio Management, e.g. C-level executives.</li>
+</ol>
+<p>In some organizations, these levels might have multiple layers.</p>
+<p>Both education and communication has to be done at all these levels, and also between the  levels. My take is that in a large scale agile transition, I&rsquo;d guess that education primarily would be used to give an idea of what the ideal state might look like. One cannot do educational activities, such as asking everyone to watch a set of videos, to give a common understanding of where one is at. For that, facilitated workshops, and all levels of the organization, must be put in place.</p>
+<p>In practice, I am guessing it&rsquo;d look something like this:</p>
+<ol>
+<li>Various ways of two-way communication to assess where we are, which might be done through
+<ol>
+<li>Facilitated workshops at all levels to identify desired outcomes, and assess current situation</li>
+<li>Share desired outcomes at all levels, and findings, through townhalls, all hands meetings etc.</li>
+</ol>
+</li>
+<li>Educate to make people see where to go, which might be done through
+<ol>
+<li>Community of practice</li>
+<li>Book clubs and reading lists</li>
+<li>Sharing video material</li>
+<li>Agile coaching</li>
+</ol>
+</li>
+<li>Experiments to find out how to move forward</li>
+</ol>
+<p>This would bring us into a feedback loop between goals (education), and creating a common understanding of where we are. The relation between the two, is experiments, just like the general approach from  <a href="https://simonpowers.medium.com/change-the-awa-playbook-by-simon-powers-2c08c481361c">Adventures With Agile Playbook</a>. The learning and education would soon also be brought into the discussions on the current situation, providing another arena for challenging and developing the agile mindset.</p>
+<p>How would you balance communication and education in an agile transition? Does this relationship make sense?</p>
+<p>[^1]: Examples of roles are my own, not directly from the book</p>
+]]></content:encoded></item><item><title>Roadmaps in an agile team</title><link>https://www.svorstol.com/blog/2022/using-a-roadmap-in-an-agile-team/</link><pubDate>Mon, 21 Feb 2022 06:00:00 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/using-a-roadmap-in-an-agile-team/</guid><description>&lt;p>A colleague and I recently discussed the role of roadmaps in an agile context. He pointed to some books and sources, saying roadmaps are useless or unimportant. This also plays into the #NoEstimates movement.&lt;/p>
 &lt;p>Specifically, my colleague pointed to the book &amp;ldquo;Inspired&amp;rdquo; by Marty Cagan. I hadn&amp;rsquo;t read the book myself, but I went through the chapters on roadmaps. Here&amp;rsquo;s a relevant quote:&lt;/p>
 &lt;blockquote>
-&lt;p>The issue is that anytime you put a list of ideas on a document entitled “roadmap,” no matter how many disclaimers you put on it, people across the company will interpret the items as a commitment.&lt;/p></description></item><item><title>OKRs are not a silver bullet for tracking work</title><link>https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/</link><pubDate>Thu, 20 Jan 2022 20:19:02 +0100</pubDate><guid>https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/</guid><description>&lt;p>OKRs are becoming increasingly popular. Most business want to use them for
+&lt;p>The issue is that anytime you put a list of ideas on a document entitled “roadmap,” no matter how many disclaimers you put on it, people across the company will interpret the items as a commitment.&lt;/p></description><content:encoded><![CDATA[<p>A colleague and I recently discussed the role of roadmaps in an agile context. He pointed to some books and sources, saying roadmaps are useless or unimportant. This also plays into the #NoEstimates movement.</p>
+<p>Specifically, my colleague pointed to the book &ldquo;Inspired&rdquo; by Marty Cagan. I hadn&rsquo;t read the book myself, but I went through the chapters on roadmaps. Here&rsquo;s a relevant quote:</p>
+<blockquote>
+<p>The issue is that anytime you put a list of ideas on a document entitled “roadmap,” no matter how many disclaimers you put on it, people across the company will interpret the items as a commitment.</p>
+<p><em>- Cagan, Marty. Inspired (p. 111). Wiley. Kindle Edition.</em></p></blockquote>
+<p>He has also written about this online, such as <a href="https://svpg.com/the-alternative-to-roadmaps/">here</a>. His point is that roadmaps with defined features and deliveries, reduce the team to a feature factory. There&rsquo;s no leading by context.</p>
+<p>I agree with this, but I still do believe and experience that having an idea of what happens when, and being able to communicate this, is necessary in most organizations. The success of the roadmap in any context, depends on what it looks like and how it&rsquo;s communicated. In general, I find it useful to have a roadmap that gives teams and stakeholders an idea of:</p>
+<ol>
+<li>The overall business strategy and goals for your product (i.e. context)</li>
+<li>What are we working on right now, and how that links to goals and strategy</li>
+<li>Clues as to what problems are going to be addressed in the next iteration or time-box, based on that context. The clues might be suggestions for the OKRs to work on in the next iteration.</li>
+</ol>
+<p>In some cases, it also provides and idea of when that iteration/time-box is, approximately</p>
+<p>This does not have to be as rigid and difficult as one might associate with a roadmap in a traditional sense. A list of &ldquo;doing now&rdquo; and &ldquo;up next&rdquo;, with some business context for each item, might do the trick if stakeholders have a product-oriented understanding and mindset.</p>
+<p>For this to work, the roadmap must be:</p>
+<ol>
+<li>Updated continuously, i.e. be a living document</li>
+<li>In a position where it receives continuous feedback from users and stakeholders, and make sure they &ldquo;buy in&rdquo;</li>
+</ol>
+<p>When building the first roadmap for a new team or context, I&rsquo;ve found the approach described in <a href="https://productcoalition.com/creating-your-first-product-roadmap-ec1c57a5a407">this article</a> really useful. It also adresses how to identify the context your team operate in, which in turn will help you tell the story about why the current work items are the current work items.</p>
+]]></content:encoded></item><item><title>OKRs are not a silver bullet for tracking work</title><link>https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/</link><pubDate>Thu, 20 Jan 2022 20:19:02 +0100</pubDate><guid>https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/</guid><description>&lt;p>OKRs are becoming increasingly popular. Most business want to use them for
 creating focus, tracking if initiatives to decide if they hit on desired
 outcomes, as well as creating alignment in the organisation. Not only for new
 initiatives, but across the business. By some, it seems to be looked at as a
 silver bullet for tracking work. In my experience, OKRs are not suitable for
 everyone and everything. Being clear on when and how you use them, is far more
-important than being able to say that one uses them in marketing.&lt;/p></description></item><item><title>How I Work</title><link>https://www.svorstol.com/work/</link><pubDate>Thu, 20 Jan 2022 00:10:34 +0100</pubDate><guid>https://www.svorstol.com/work/</guid><description>&lt;h1 id="how-i-work-an-informational-manual">How I work, an informational manual&lt;/h1>
+important than being able to say that one uses them in marketing.&lt;/p></description><content:encoded><![CDATA[<p>OKRs are becoming increasingly popular. Most business want to use them for
+creating focus, tracking if initiatives to decide if they hit on desired
+outcomes, as well as creating alignment in the organisation. Not only for new
+initiatives, but across the business. By some, it seems to be looked at as a
+silver bullet for tracking work. In my experience, OKRs are not suitable for
+everyone and everything. Being clear on when and how you use them, is far more
+important than being able to say that one uses them in marketing.</p>
+<p>An example: A team who works on a specific feature, ordered by a customer the
+year before, will of course struggle with defining the
+<a href="https://www.whatmatters.com/series_entries/s1-3-how-to-write-good-okr">right</a>
+Key Results. To them, the result is delivering the feature, a binary goal. The
+desired outcome is not clear to them, and it’s not even clear if that initiative
+is the only or the best one to deliver the outcome <em>someone</em> desires. The teams
+I’ve worked in this context, feel that they’re trying to retrofit a model to thier
+context, solving problems that they might not agree exsist.</p>
+<p>Thankfully, I&rsquo;m not alone in seeintg this. Christina Wodtke who wrote the fantastic
+book <a href="https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028">Radical
+Focus</a>,
+recently wrote this
+<a href="https://cwodtke.medium.com/not-everyone-needs-okrs-a198db0c7bc8">article</a> about
+not everyone not needing OKRs. Where OKRs are great to track a <a href="https://medium.com/@meetfelipe/okr-vs-kpis-what-is-the-difference-ffa54673fcf1">desired change
+in a
+KPI</a>,
+not all work will contribute to that change. HR paying out wages does not need
+an OKR, it&rsquo;s just something that needs to get done. This is not only specific
+for HR. Most business areas have some parts that just needs to get done. For
+this OKRs are not the right tool. Wodtke calls this heartbeat work.</p>
+<p>With this in mind, and as I’ve seen the same problem a few times, I’ve worked on
+a model to explain how different metrics might fit together in a
+well-established organization with various types of work that needs to get done.
+It’s been useful to me; it might be useful to you too.</p>
+<p><img src="/2022/okr-metric-model.jpg" alt="Model"></p>
+<p>To add some explanation: The idea is that there are several levels of metrics,
+and needs for metrics. The levels would be something like:</p>
+<ol>
+<li>
+<p>The old school Key Performance Indicators shows what the business area or
+whole organization values as important in terms of business performance.
+What would be acceptable levels for each of them?</p>
+</li>
+<li>
+<p>Then you define one or more Objectives, that is meant to change performance
+in the KPI. You define several Key Results that might tell you if you’re on
+the right track.</p>
+</li>
+<li>
+<p>The OKRs might be broken down by other units/teams, so that they are more
+meaningful to them</p>
+</li>
+<li>
+<p>Finally, we define some initiatives, that is the actual work or output that
+can contribute to desired outcomes.</p>
+</li>
+<li>
+<p>In addition, teams with well-established responsibilities might also need to
+track indicators that shows if the “heartbeat” work is on track. If your app
+rating falls to the ground, that new feature might not matter. You’ll need
+to refocus.</p>
+</li>
+</ol>
+<p>Based on this, some teams might only work directly with OKRs, not even needing
+any task management as the team is so small, and things are moving fast. Other
+teams will have a few working directly to test hypotheses to move the needle on
+an OKR, while others work on an initiative that was promised to another
+department. I’ve found that it helps in building understanding, and in turn make OKRs useful,
+by being aware of the differences and track them appropriately. OKR, like agile,
+is not a silver bullet. We&rsquo;ll always need to tailor to context.</p>
+]]></content:encoded></item><item><title>How I Work</title><link>https://www.svorstol.com/work/</link><pubDate>Thu, 20 Jan 2022 00:10:34 +0100</pubDate><guid>https://www.svorstol.com/work/</guid><description>&lt;h1 id="how-i-work-an-informational-manual">How I work, an informational manual&lt;/h1>
 &lt;p>&lt;em>First written January 20, 2022.&lt;br>
 Last updated June 5, 2024.&lt;/em>&lt;/p>
 &lt;hr>
-&lt;p>Over the last couple of years, I&amp;rsquo;ve seen people share &amp;ldquo;instruction manuals&amp;rdquo; for themselves shared through their personal websites. I recognize that I&amp;rsquo;d value this instructional/informational overview from my manager, so I might as well provide it for those I manage, those I work with, and the managers I report to. &lt;a href="https://www.remotecompany.com/blog/how-to-work-with-me-manual">This article&lt;/a> summarizes my motivations for doing this nicely, and a few of those that have inspired me are &lt;a href="https://github.com/hepwori/wwi/">Isaac Hepworth&lt;/a> and &lt;a href="https://den.dev/how-i-work/">Den Delimarsky&lt;/a>.&lt;/p></description></item><item><title>Making decisions often for increased flow everywhere in your organization</title><link>https://www.svorstol.com/blog/2021/05-26-strategy-and-decisions/</link><pubDate>Wed, 26 May 2021 10:39:47 +0200</pubDate><guid>https://www.svorstol.com/blog/2021/05-26-strategy-and-decisions/</guid><description>&lt;p>At the yearly conference of my company (this year held digitally in April), I held a talk on how strategy is about making decisions. In short, I argue that to be able to continuously deliver business value, one must enable all parts of the organization to make small, incremental decisions that align with the whole. I.e. avoid big bang decisions, as well as big bang releases.&lt;/p>
-&lt;p>In short, I have four suggestions to enable your organization to make smaller decisions, faster and more often:&lt;/p></description></item><item><title>Solving complex problems as fast as possible</title><link>https://www.svorstol.com/blog/2021/02-27-solving-complex-problems/</link><pubDate>Sat, 27 Feb 2021 21:43:16 +0100</pubDate><guid>https://www.svorstol.com/blog/2021/02-27-solving-complex-problems/</guid><description>&lt;p>As agile methods for software development has been quite widely adopted, the fact that hitting the specification on software is hard, also has been generally accepted. It has been hard, but it is now quite widely accepted that smaller iterations and getting user feedback fast, is crucial to building software that covers actual needs. This means better software, and better products. This trend means that we are starting to recognize that both product and software development are in of itself are complex problems &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>, where the solution will be emerging over time. It cannot be defined up front. It will also be improved over time, through discovery. This means that it actually not a about the product, nor the software. It is not about business, or earning money. It is about solving complex problems, and doing it faster than anyone else. How?&lt;/p></description></item><item><title>Using Team Topologies to reorganize a consultant company</title><link>https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/</link><pubDate>Sun, 14 Feb 2021 18:03:29 +0100</pubDate><guid>https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/</guid><description>&lt;p>In the last year or so I have been involved in reorganizing the company where I work, Capra Consutling, based on the same prinicples as one would want to organize software development. In short, we had an organizations based on roles and hierarchies which made sense when we were no more than 50 employees. When we arrived at 100 employees, it was natural to do some changes, but we did not want to add an extra layer of hierarchy. Therefore, our goal instead was to build a team based organization. We want to create highly autonomous teams, while still maintaining alignment across teams.&lt;/p></description></item></channel></rss>
+&lt;p>Over the last couple of years, I&amp;rsquo;ve seen people share &amp;ldquo;instruction manuals&amp;rdquo; for themselves shared through their personal websites. I recognize that I&amp;rsquo;d value this instructional/informational overview from my manager, so I might as well provide it for those I manage, those I work with, and the managers I report to. &lt;a href="https://www.remotecompany.com/blog/how-to-work-with-me-manual">This article&lt;/a> summarizes my motivations for doing this nicely, and a few of those that have inspired me are &lt;a href="https://github.com/hepwori/wwi/">Isaac Hepworth&lt;/a> and &lt;a href="https://den.dev/how-i-work/">Den Delimarsky&lt;/a>.&lt;/p></description><content:encoded><![CDATA[<h1 id="how-i-work-an-informational-manual">How I work, an informational manual</h1>
+<p><em>First written January 20, 2022.<br>
+Last updated June 5, 2024.</em></p>
+<hr>
+<p>Over the last couple of years, I&rsquo;ve seen people share &ldquo;instruction manuals&rdquo; for themselves shared through their personal websites. I recognize that I&rsquo;d value this instructional/informational overview from my manager, so I might as well provide it for those I manage, those I work with, and the managers I report to. <a href="https://www.remotecompany.com/blog/how-to-work-with-me-manual">This article</a> summarizes my motivations for doing this nicely, and a few of those that have inspired me are <a href="https://github.com/hepwori/wwi/">Isaac Hepworth</a> and <a href="https://den.dev/how-i-work/">Den Delimarsky</a>.</p>
+<p>Please note, that this is a continuous work in progress, as I learn and improve. If it doesn’t make sense or doesn’t fit with your experience of me, please reach out.</p>
+<h2 id="principles">Principles</h2>
+<p>A couple of things I value and believe in:</p>
+<ul>
+<li><strong>Make everyone heard and trusted:</strong> People are knowledgeable, and will share their knowledge and thoughts when they feel trusted. With trust, we achieve even better results.</li>
+<li><strong>Lead by context:</strong> I aim to increase flow by giving trust and delegating decisions so that they can be made by those closest to their consequences. To make sure those decisions are the best they can be, I also have to make sure that people have as much relevant context and information as possible. This means I try to <strong>regularly communicate context and strategy</strong>. When people have the right context, they get a feel of the goals. Then it&rsquo;s easy to <strong>let people work how they want</strong>.</li>
+<li><strong>Bias towards action:</strong> Let&rsquo;s stop discussing, and try something out. That could be getting real data, or just trying one possible solution directly.</li>
+<li><strong>Build multi-disciplinary teams:</strong> Most problems are not one-sided, i.e. cannot in full be solved by an area of expertise. Neither is one person alone the best way to handle problems or workloads.</li>
+</ul>
+<h2 id="work-schedule">Work Schedule</h2>
+<p>I usually work from around 8-9 to 16-17. A few days a week I might work longer or get a few more hours in later in the evening. This might mean that you&rsquo;ll receive messages or emails from me outside working hours. This does not mean I expect an answer. You&rsquo;ll answer when you have time. If it&rsquo;s urgent, I&rsquo;ll call. It&rsquo;s almost never <em>that</em> urgent.</p>
+<h2 id="communication">Communication</h2>
+<p><strong>I prefer asynchronous communication via Slack/messaging tool, over emails.</strong> I do not expect instant replies, even during the regular workday. I like when my team uses open team Slack channels to ask questions or talk about ideas, because I believe it empowers the whole team.</p>
+<p><a href="https://blog.doist.com/inbox-zero/">Inbox Zero</a> is great, and I follow it. But, <strong>most emails are not urgent, so I do not handle them as such.</strong> I check my email around twice a day. This means that <strong>if you need a fast answer, call instead of emailing.</strong> Or call me after the email is sent. To me, an email can wait to be answered for two days. If not, one should tell the recipient about the urgency.</p>
+<p><strong>Discussions fit better in Slack or a meeting, rather than email.</strong> Usually, we have discussions over a particular decision. It&rsquo;s easier to have these discussions if we write out the alternatives, the arguments for each of them, beforehand. This helps us get to the details, and where we disagree, faster.</p>
+<p><a href="https://staysaasy.com/startups/2023/11/10/imprecise-asks.html">I try to be precise in my asks. Please ask if you feel that I am ambigous or unprecise in a request.</a></p>
+<h3 id="meetings">Meetings</h3>
+<p>When calling for a meeting, I try to be clear on:</p>
+<ul>
+<li>The goal of the meeting</li>
+<li>What the ideal result of the meeting would be</li>
+<li>An agenda, preferably with some <a href="https://en.wikipedia.org/wiki/Parkinson%27s_law" title="time boxing">time boxing</a></li>
+</ul>
+<p>I love when the people I work with follow the same format, as I believe it makes it easier to work and deliver value together.</p>
+<p>It&rsquo;s worth mentioning that I appreciate that some meetings need to be more ad hoc, and not as planned. It&rsquo;s nice to be clear on that need as well. This is crucial in these times of hybrid work.</p>
+<p>Speaking of hybrid work: I want to work asynchronously where possible and reduce the time we&rsquo;re in synchronous meetings. This enables us to do more <a href="https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=pocket&amp;utm_medium=email&amp;utm_campaign=pockethits&amp;cta=1&amp;src=ph">and saves our time off</a>.</p>
+<h3 id="feedback">Feedback</h3>
+<p>Feedback is highly appreciated. I love to improve continuously. It’s nice to know what I’m doing well, but it’s even better when I’m told what to do differently.</p>
+<p>If you feel I do not follow the principles and rule of thumb described here, please reach out.</p>
+<h2 id="other-notes">Other notes</h2>
+<ul>
+<li>Don&rsquo;t hesitate to reach out if you&rsquo;re blocked, or if something&rsquo;s bothering you</li>
+<li>I enjoy reading and discussing what I&rsquo;ve read. It&rsquo;s nice to get inspired by others&rsquo; experiences and see if one can use something from them. To get the time for reading, and trying things out, <a href="https://todoist.com/productivity-methods/time-blocking">I book time in my calendar</a>. The same goes for setting aside time to work on specific tasks.</li>
+<li>During vacations I am usually literally offline, i.e. I&rsquo;m in the mountains with no coverage</li>
+<li>I find <a href="https://todoist.com/productivity-methods/eisenhower-matrix">The Eisenhower matrix</a>, <a href="https://miro.com/templates/impact-effort-matrix/">Impact/Effort-matrix</a>, and <a href="https://en.wikipedia.org/wiki/Cynefin_framework">The Cynefin Framework</a> useful, and might refer to them a few times.</li>
+</ul>
+]]></content:encoded></item><item><title>Making decisions often for increased flow everywhere in your organization</title><link>https://www.svorstol.com/blog/2021/05-26-strategy-and-decisions/</link><pubDate>Wed, 26 May 2021 10:39:47 +0200</pubDate><guid>https://www.svorstol.com/blog/2021/05-26-strategy-and-decisions/</guid><description>&lt;p>At the yearly conference of my company (this year held digitally in April), I held a talk on how strategy is about making decisions. In short, I argue that to be able to continuously deliver business value, one must enable all parts of the organization to make small, incremental decisions that align with the whole. I.e. avoid big bang decisions, as well as big bang releases.&lt;/p>
+&lt;p>In short, I have four suggestions to enable your organization to make smaller decisions, faster and more often:&lt;/p></description><content:encoded><![CDATA[<p>At the yearly conference of my company (this year held digitally in April), I held a talk on how strategy is about making decisions. In short, I argue that to be able to continuously deliver business value, one must enable all parts of the organization to make small, incremental decisions that align with the whole. I.e. avoid big bang decisions, as well as big bang releases.</p>
+<p>In short, I have four suggestions to enable your organization to make smaller decisions, faster and more often:</p>
+<ol>
+<li>Build accountable teams, with full responsibilitiy for a business area</li>
+<li>Define interefaces between teams, inlcuding decision prosesses</li>
+<li>Build platforms that teams and individuals can build on. Both technical platforms and business platforms. Enable your people to make decisions that align, not just expect them to! This might include an updated company strategy, or simply the general requirements for a vendor.</li>
+<li>Be transparent! Make sure that everyone knows what each team is working on, and why. Why and how they make their decisions. And if a bigger decision really is needed, make sure the process for it is well defined and transparent.</li>
+</ol>
+<p>The talk is in Norwegian and can be seen below.  Slides may be read <a href="/2021/CC21.pdf">here</a></p>
+<p>Enjoy</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PV7WUHarQhA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
+
+]]></content:encoded></item><item><title>Solving complex problems as fast as possible</title><link>https://www.svorstol.com/blog/2021/02-27-solving-complex-problems/</link><pubDate>Sat, 27 Feb 2021 21:43:16 +0100</pubDate><guid>https://www.svorstol.com/blog/2021/02-27-solving-complex-problems/</guid><description>&lt;p>As agile methods for software development has been quite widely adopted, the fact that hitting the specification on software is hard, also has been generally accepted. It has been hard, but it is now quite widely accepted that smaller iterations and getting user feedback fast, is crucial to building software that covers actual needs. This means better software, and better products. This trend means that we are starting to recognize that both product and software development are in of itself are complex problems &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>, where the solution will be emerging over time. It cannot be defined up front. It will also be improved over time, through discovery. This means that it actually not a about the product, nor the software. It is not about business, or earning money. It is about solving complex problems, and doing it faster than anyone else. How?&lt;/p></description><content:encoded><![CDATA[<p>As agile methods for software development has been quite widely adopted, the fact that hitting the specification on software is hard, also has been generally accepted. It has been hard, but it is now quite widely accepted that smaller iterations and getting user feedback fast, is crucial to building software that covers actual needs. This means better software, and better products. This trend means that we are starting to recognize that both product and software development are in of itself are complex problems <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, where the solution will be emerging over time. It cannot be defined up front. It will also be improved over time, through discovery. This means that it actually not a about the product, nor the software. It is not about business, or earning money. It is about solving complex problems, and doing it faster than anyone else. How?</p>
+<h3 id="what-enables-us-to-solve-complex-problems">What enables us to solve complex problems?</h3>
+<p>To build &ldquo;business agility&rdquo;, I argue that one must build an organizations capability to solve problems, more importantly complex ones. Most problems will be:</p>
+<blockquote>
+<p>Most situations and decisions in organizations are complex because some major change — a bad quarter, a shift in management, a merger or acquisition—introduces unpredictability and flux. In this domain, we can understand why things happen only in retrospect. (Snowden and Boone, <a href="https://hbr.org/2007/11/a-leaders-framework-for-decision-making">here</a>)</p></blockquote>
+<p>Snowden and Boone writes about this type of problems to address how a leader might approach them. As autonomy increases, more decisions are done everywhere in the organization. I.e. more problems are solved further &ldquo;down&rdquo; in the hierarchy. How does not one approach such problems, and make the solution as good as it can? An example approach can be found <a href="https://txm.com/making-sense-problems-cynefin-framework/">here</a>. It reads:</p>
+<ol>
+<li>Explore to learn about the problem, as they require more creativity and innovative thinking skills</li>
+<li>Develop a theory and experiment to gather more knowledge</li>
+<li>Experimentation to discover patterns and gain more knowledge</li>
+<li>Repeat as necessary, with the goal of moving your problem into another category</li>
+<li>Execute and evaluate, following the Plan, Do, Check, Act cycle</li>
+</ol>
+<p>The premise here is that you ar e able to explore the problem thinking cratlively about it. You must develop theories and experiment. How might an organizatino best enable all teams to do those things?</p>
+<h3 id="real-cross-functional-teams">Real Cross-Functional Teams</h3>
+<p>What is capabilities does a team need to solve a complex problem?</p>
+<ol>
+<li>First, be able to see all parts of the problem they are trying to solve</li>
+<li>Second, see many possible experiments that might shed light on the prolem and the solution they might find</li>
+<li>Third, be able to act upon experiemnt, and roll out new changes</li>
+</ol>
+<p>Most teams, either in software development or otherwise, address one capabilitiy.
+A software delivery team <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> rolls out changes, while a business/strategy team is trying to see the whole of a high level problem.</p>
+<p>To adress all three,  the cross-functional cannot be cross-functional in the sense that it knows about devops, frontend/backend, infrastructure or even designing a UX. They must be capable of things like</p>
+<ol>
+<li>Developing the product, including building the tech and UX, and data pipelines to improve it</li>
+<li>Developing the product strategy, including selecting the next feature to build, users to build for, how to spend time and not spent time</li>
+<li>And building the market strategy</li>
+<li>.. And propably many other things that I with my background cannot even think of. And that is sort of my point.</li>
+</ol>
+<h3 id="bring-in-people-iterate-over-the-whole-problem">Bring in people, iterate over the whole problem</h3>
+<p>The recipe for building business agility seems to be the same as for building software agility. One could even argue that they are the exact same thing. And, it seems clear that the path to making value faster, is through solving the complex problems faster. This is, in turn, making sure that one has knowledge in the team that can adress the whole problem.</p>
+<p>We need to stop placing &ldquo;a representative for the business&rdquo; as a Product Owner in the development team. This goes for design, UX and marketing as well, and all the other areas we miss. Creating flow is making sure our problems are solved fast, and the problems are about more than software. Building organizations without silos is hard. <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> Can we come together, and try harder?</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>As defined in the <a href="https://en.wikipedia.org/wiki/Cynefin_framework">Cynefin Framework</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>A nickname for an organization based on <a href="https://svpg.com/product-vs-feature-teams/">feature teams</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Reserach tells us that it is really hard to build cross-functionl teams. Or it tells us that doing it in just a part of the business is hard. <a href="https://hbr.org/2015/06/75-of-cross-functional-teams-are-dysfunctional">https://hbr.org/2015/06/75-of-cross-functional-teams-are-dysfunctional</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content:encoded></item><item><title>Using Team Topologies to reorganize a consultant company</title><link>https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/</link><pubDate>Sun, 14 Feb 2021 18:03:29 +0100</pubDate><guid>https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/</guid><description>&lt;p>In the last year or so I have been involved in reorganizing the company where I work, Capra Consutling, based on the same prinicples as one would want to organize software development. In short, we had an organizations based on roles and hierarchies which made sense when we were no more than 50 employees. When we arrived at 100 employees, it was natural to do some changes, but we did not want to add an extra layer of hierarchy. Therefore, our goal instead was to build a team based organization. We want to create highly autonomous teams, while still maintaining alignment across teams.&lt;/p></description><content:encoded><![CDATA[<p>In the last year or so I have been involved in reorganizing the company where I work, Capra Consutling, based on the same prinicples as one would want to organize software development. In short, we had an organizations based on roles and hierarchies which made sense when we were no more than 50 employees. When we arrived at 100 employees, it was natural to do some changes, but we did not want to add an extra layer of hierarchy. Therefore, our goal instead was to build a team based organization. We want to create highly autonomous teams, while still maintaining alignment across teams.</p>
+<p>To have a common vocabulary, we based our work on the book <a href="https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819">Team Topologies</a>. One of the writers, Manuel Pais, joined us for a session earlier this February, to discuss his book, and using it for organizing other areas than software development. We also specifically discussed our current organizatinoal design. The session was recorded, you can see it <a href="https://youtu.be/lksI_2QL5Ww">here</a>.</p>
+<p>I&rsquo;ve previously written an article on how we, step by step, went from roles to teams. It is posted over at our <a href="https://www.capraconsulting.no/blogg/slik-reorganiserer-vi-capra">company blog</a>. The article is in Norwegian.</p>
+]]></content:encoded></item></channel></rss>

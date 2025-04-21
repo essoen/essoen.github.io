@@ -1,11 +1,170 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Okr on Stein-Otto Svorstøl</title><link>https://www.svorstol.com/tags/okr/</link><description>Recent content in Okr on Stein-Otto Svorstøl</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Mon, 08 Aug 2022 13:00:47 +0000</lastBuildDate><atom:link href="https://www.svorstol.com/tags/okr/index.xml" rel="self" type="application/rss+xml"/><item><title>OKRs when scaling your organization</title><link>https://www.svorstol.com/blog/2022/okrs-when-scaling/</link><pubDate>Mon, 08 Aug 2022 13:00:47 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/okrs-when-scaling/</guid><description>&lt;p>I recently held a short talk on OKRs, and how their usage develops over time when used in a scaling organization. Here&amp;rsquo;s a summary of the talk, which was in Norwegian. The original slide deck can be found &lt;a href="https://www.svorstol.com/2022/cc22.pdf">here&lt;/a>. Sadly, it wasn&amp;rsquo;t recorded, but here&amp;rsquo;s a summary in English.&lt;/p>
-&lt;p>So, the starting point here is that I saw a recently released old interview with Steve Jobs in which he talks about how Apple is organized. He says that he has one person responsible for each area and that the teamwork between these people at the top will spread to the rest of the company. The prerequisite for this to work, he says, is trust.&lt;/p></description></item><item><title>Roadmaps in an agile team</title><link>https://www.svorstol.com/blog/2022/using-a-roadmap-in-an-agile-team/</link><pubDate>Mon, 21 Feb 2022 06:00:00 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/using-a-roadmap-in-an-agile-team/</guid><description>&lt;p>A colleague and I recently discussed the role of roadmaps in an agile context. He pointed to some books and sources, saying roadmaps are useless or unimportant. This also plays into the #NoEstimates movement.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Okr on Stein-Otto Svorstøl</title><link>https://www.svorstol.com/tags/okr/</link><description>Recent content in Okr on Stein-Otto Svorstøl</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Mon, 08 Aug 2022 13:00:47 +0000</lastBuildDate><atom:link href="https://www.svorstol.com/tags/okr/index.xml" rel="self" type="application/rss+xml"/><item><title>OKRs when scaling your organization</title><link>https://www.svorstol.com/blog/2022/okrs-when-scaling/</link><pubDate>Mon, 08 Aug 2022 13:00:47 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/okrs-when-scaling/</guid><description>&lt;p>I recently held a short talk on OKRs, and how their usage develops over time when used in a scaling organization. Here&amp;rsquo;s a summary of the talk, which was in Norwegian. The original slide deck can be found &lt;a href="https://www.svorstol.com/2022/cc22.pdf">here&lt;/a>. Sadly, it wasn&amp;rsquo;t recorded, but here&amp;rsquo;s a summary in English.&lt;/p>
+&lt;p>So, the starting point here is that I saw a recently released old interview with Steve Jobs in which he talks about how Apple is organized. He says that he has one person responsible for each area and that the teamwork between these people at the top will spread to the rest of the company. The prerequisite for this to work, he says, is trust.&lt;/p></description><content:encoded><![CDATA[<p>I recently held a short talk on OKRs, and how their usage develops over time when used in a scaling organization. Here&rsquo;s a summary of the talk, which was in Norwegian. The original slide deck can be found <a href="/2022/cc22.pdf">here</a>. Sadly, it wasn&rsquo;t recorded, but here&rsquo;s a summary in English.</p>
+<p>So, the starting point here is that I saw a recently released old interview with Steve Jobs in which he talks about how Apple is organized. He says that he has one person responsible for each area and that the teamwork between these people at the top will spread to the rest of the company. The prerequisite for this to work, he says, is trust.</p>
+<blockquote>
+<p>[..] and teamwork is dependent on trusting the other folks to come through with their part, without watching them all the time.<br>
+- <a href="https://youtu.be/f60dheI4ARg">Steve Jobs</a></p></blockquote>
+<p>So this is obviously about culture, both within teams and in the organization as a whole. How might we build an organization where everyone trusts each other in delivering what&rsquo;s needed? That being said, despite trusting others we still might need to know what others are focusing on, and how that&rsquo;s going. In short, we all want to know:</p>
+<ol>
+<li>What&rsquo;s the main focus within my team?</li>
+<li>What&rsquo;s the focus of other teams?</li>
+<li>Are what we and other teams are focusing on aligned so that we are going in one direction?</li>
+<li>How are we all moving along in that direction?</li>
+</ol>
+<p>This is where management by objective with a model such as OKRs might be useful. It can be traced back to the 1950s with Peter Drucker&rsquo;s book &ldquo;Management by Objective&rdquo; His point was that you get more engagement and higher performance when employees and leaders set goals together. Later he made it clear that this is a tool, and it doesn&rsquo;t make it easier to set the goals themselves. Nevertheless: In 1974 Andy Grove implemented MBO at Intel when he was CEO there. He established it as OKRs -  Objectives and Key Results. John Doerr brought it to Goole around 1999 and wrote the book Measure What Matters which was released in 2018. This brought OKRs into companies in Silicon Valley, and over the last 2-3 years Norway as well.</p>
+<h2 id="whats-the-model-about">What&rsquo;s the model about?</h2>
+<p>Objectives and Key Results consist of:</p>
+<ul>
+<li>Objective – an ambitious, qualitative, and time-bound goal</li>
+<li>Key Results – measurements for knowing if we&rsquo;ve reached the goals</li>
+</ul>
+<p>Read more <a href="https://www.perdoo.com/okr-guide/">here</a>. That reference mentions something that in my experience is often forgotten: Initiatives. Where the Objectives give direction, Key Resultsmeasures progression, and the initiatives are the concrete actions we take to get us there. This is usually tracked in portfolio management or JIRA tasks for teams. One set of OKRs can have all its initiatives in one team or multiple initiatives across teams. Each team does not necessarily need its own OKRs.</p>
+<h2 id="whats-the-problem">What&rsquo;s the problem?</h2>
+<p>This would be a sort of boilerplate for how to implement OKRs:</p>
+<ol>
+<li>&ldquo;Someone&rdquo;, such as a management group or board, communicates an established strategy. It might consist of:
+<ol>
+<li>A description of the business the company is in</li>
+<li>The challenges/threats that the company has to overcome</li>
+<li>Some policies as to how those challenges are to be met</li>
+<li>And some high-level but quantified goals to reach for</li>
+</ol>
+</li>
+<li>Teams create their goals with that strategy as the context</li>
+<li>Leaders meet with teams where they do not see how the goals match with the strategy</li>
+</ol>
+<p>In my experience, the process becomes difficult because:</p>
+<ol>
+<li>Missing strategy, in the one or more sense of the word &ldquo;missing&rdquo;:
+<ol>
+<li>There is no strategy</li>
+<li>There is one, but it&rsquo;s too difficult to communicate</li>
+<li>It&rsquo;s not updated often enough, so it&rsquo;s not relevant to the business</li>
+<li>It&rsquo;s created in a waterfall manner, rather than <a href="https://www.svorstol.com/blog/2021/05-26-strategy-and-decisions/">as a platform others can build upon</a></li>
+</ol>
+</li>
+<li>The teams do not recognize themselves in the strategy, i.e. they cannot work on the goals they set based on the strategy because there&rsquo;s a delivery &ldquo;they just have to deliver&rdquo;</li>
+<li>If it&rsquo;s not in the OKRs, the team thinks it&rsquo;s out of scope, e.g. technical debt.</li>
+</ol>
+<p>This brings us to heartbeat work.</p>
+<h2 id="heartbeat-work-vs-strategic-work">Heartbeat work vs. strategic work</h2>
+<p>In her excellent article called <a href="https://cwodtke.medium.com/not-everyone-needs-okrs-a198db0c7bc8">&ldquo;Not Everyone Needs Objectives and Key Results (OKRs)&rdquo;</a> Christina Wodtke established the concept of <em>Heartbeat Work</em>.</p>
+<p>She places work into three categories:</p>
+<ol>
+<li><strong>Strategic work:</strong> Identified big-ticket challenges that will create necessary change within your company. Either to stay afloat, or capture a new market. To do this, we need to focus on, and measurement of, that improvement. Tracked with OKRs.</li>
+<li><strong>Continuous improvement work:</strong> Established products needs continuous improvement to make sure that you do not lose the market or the customers. This is everything from improved features to post-mortems. Best tracked with Kanban-boards, pipelines for improvement, roadmaps</li>
+<li><strong>Heartbeat work:</strong> Work that &ldquo;just needs to be done&rdquo;, or the business will stop. It can be associated with established revenue streams, but it also functions such as HR and law in large corporations. Operations and making sure IT systems run are a part of this. Some capabilities are so that we <em>need them</em>, and their work is continuous. The work can usually be tracked with dashboards, metrics, or kanban work.</li>
+</ol>
+<p>I find this model quite useful, as it explains why shoehorning your goals into the OKR model might be difficult. <a href="https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/">OKRs are not a silver bullet for tracking work</a>.</p>
+<h2 id="how-the-use-of-okrs-can-change-as-you-scale">How the use of OKRs can change as you scale</h2>
+<p>So, let&rsquo;s say you&rsquo;re a small startup company with a great business idea. You use OKRs to give direction and measure progress and might follow the processes described in <a href="https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028">Radical Focus</a>.</p>
+<p>Over time, the amount of heartbeat and improvement work will increase, as your company becomes more established. This is because it takes some resources to keep your established revenue streams. Within IT, this means that you&rsquo;re focus shifts away from finding product-market fit and building new features only, to maintaining</p>
+<p>A lot of that maintenance would be heartbeat work and continuous improvement. You&rsquo;ll struggle with your team and colleagues to fit &ldquo;everything&rdquo; into your OKRs. It&rsquo;s not just meant for that.</p>
+<p>So, as you scale, be mindful of how you use OKRs over time. It might be a good idea to establish Service-Level Objectives from the start, or at least make sure you can measure performance in the future. Sooner or later you&rsquo;ll have a discussion on the pros and cons of fixing <em>that</em> piece of technical debt when your OKRs say that&rsquo;s not in focus. You&rsquo;ll need some metrics that say that maintenance is needed.</p>
+<h2 id="advice-on-implementation-in-your-organization">Advice on implementation in your organization</h2>
+<p>So, based on my experience, the following advice might be useful for teams and organizations that want to implement the OKR model:</p>
+<ol>
+<li>Be clear on why you want to use OKRs in the first place. Hopefully, it&rsquo;s not just because of the hype.</li>
+<li>Connect OKRs directly to your strategy, i.e. make sure that Objectives are based on your strategy.</li>
+<li>Focus on what you can measure, instead of spending lots of time discussing whether it&rsquo;s the best measurement</li>
+<li>Don&rsquo;t fret too much about the framework, instead focus on why and how it&rsquo;s useful to you and your company</li>
+</ol>
+<p>Long story short: Make sure how you track work is fit for purpose. As I&rsquo;ve written before: <a href="https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/">OKRs are not a silver bullet for tracking work</a>.</p>
+<p>Good luck!</p>
+]]></content:encoded></item><item><title>Roadmaps in an agile team</title><link>https://www.svorstol.com/blog/2022/using-a-roadmap-in-an-agile-team/</link><pubDate>Mon, 21 Feb 2022 06:00:00 +0000</pubDate><guid>https://www.svorstol.com/blog/2022/using-a-roadmap-in-an-agile-team/</guid><description>&lt;p>A colleague and I recently discussed the role of roadmaps in an agile context. He pointed to some books and sources, saying roadmaps are useless or unimportant. This also plays into the #NoEstimates movement.&lt;/p>
 &lt;p>Specifically, my colleague pointed to the book &amp;ldquo;Inspired&amp;rdquo; by Marty Cagan. I hadn&amp;rsquo;t read the book myself, but I went through the chapters on roadmaps. Here&amp;rsquo;s a relevant quote:&lt;/p>
 &lt;blockquote>
-&lt;p>The issue is that anytime you put a list of ideas on a document entitled “roadmap,” no matter how many disclaimers you put on it, people across the company will interpret the items as a commitment.&lt;/p></description></item><item><title>OKRs are not a silver bullet for tracking work</title><link>https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/</link><pubDate>Thu, 20 Jan 2022 20:19:02 +0100</pubDate><guid>https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/</guid><description>&lt;p>OKRs are becoming increasingly popular. Most business want to use them for
+&lt;p>The issue is that anytime you put a list of ideas on a document entitled “roadmap,” no matter how many disclaimers you put on it, people across the company will interpret the items as a commitment.&lt;/p></description><content:encoded><![CDATA[<p>A colleague and I recently discussed the role of roadmaps in an agile context. He pointed to some books and sources, saying roadmaps are useless or unimportant. This also plays into the #NoEstimates movement.</p>
+<p>Specifically, my colleague pointed to the book &ldquo;Inspired&rdquo; by Marty Cagan. I hadn&rsquo;t read the book myself, but I went through the chapters on roadmaps. Here&rsquo;s a relevant quote:</p>
+<blockquote>
+<p>The issue is that anytime you put a list of ideas on a document entitled “roadmap,” no matter how many disclaimers you put on it, people across the company will interpret the items as a commitment.</p>
+<p><em>- Cagan, Marty. Inspired (p. 111). Wiley. Kindle Edition.</em></p></blockquote>
+<p>He has also written about this online, such as <a href="https://svpg.com/the-alternative-to-roadmaps/">here</a>. His point is that roadmaps with defined features and deliveries, reduce the team to a feature factory. There&rsquo;s no leading by context.</p>
+<p>I agree with this, but I still do believe and experience that having an idea of what happens when, and being able to communicate this, is necessary in most organizations. The success of the roadmap in any context, depends on what it looks like and how it&rsquo;s communicated. In general, I find it useful to have a roadmap that gives teams and stakeholders an idea of:</p>
+<ol>
+<li>The overall business strategy and goals for your product (i.e. context)</li>
+<li>What are we working on right now, and how that links to goals and strategy</li>
+<li>Clues as to what problems are going to be addressed in the next iteration or time-box, based on that context. The clues might be suggestions for the OKRs to work on in the next iteration.</li>
+</ol>
+<p>In some cases, it also provides and idea of when that iteration/time-box is, approximately</p>
+<p>This does not have to be as rigid and difficult as one might associate with a roadmap in a traditional sense. A list of &ldquo;doing now&rdquo; and &ldquo;up next&rdquo;, with some business context for each item, might do the trick if stakeholders have a product-oriented understanding and mindset.</p>
+<p>For this to work, the roadmap must be:</p>
+<ol>
+<li>Updated continuously, i.e. be a living document</li>
+<li>In a position where it receives continuous feedback from users and stakeholders, and make sure they &ldquo;buy in&rdquo;</li>
+</ol>
+<p>When building the first roadmap for a new team or context, I&rsquo;ve found the approach described in <a href="https://productcoalition.com/creating-your-first-product-roadmap-ec1c57a5a407">this article</a> really useful. It also adresses how to identify the context your team operate in, which in turn will help you tell the story about why the current work items are the current work items.</p>
+]]></content:encoded></item><item><title>OKRs are not a silver bullet for tracking work</title><link>https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/</link><pubDate>Thu, 20 Jan 2022 20:19:02 +0100</pubDate><guid>https://www.svorstol.com/blog/2022/01-20-okrs-and-metrics/</guid><description>&lt;p>OKRs are becoming increasingly popular. Most business want to use them for
 creating focus, tracking if initiatives to decide if they hit on desired
 outcomes, as well as creating alignment in the organisation. Not only for new
 initiatives, but across the business. By some, it seems to be looked at as a
 silver bullet for tracking work. In my experience, OKRs are not suitable for
 everyone and everything. Being clear on when and how you use them, is far more
-important than being able to say that one uses them in marketing.&lt;/p></description></item></channel></rss>
+important than being able to say that one uses them in marketing.&lt;/p></description><content:encoded><![CDATA[<p>OKRs are becoming increasingly popular. Most business want to use them for
+creating focus, tracking if initiatives to decide if they hit on desired
+outcomes, as well as creating alignment in the organisation. Not only for new
+initiatives, but across the business. By some, it seems to be looked at as a
+silver bullet for tracking work. In my experience, OKRs are not suitable for
+everyone and everything. Being clear on when and how you use them, is far more
+important than being able to say that one uses them in marketing.</p>
+<p>An example: A team who works on a specific feature, ordered by a customer the
+year before, will of course struggle with defining the
+<a href="https://www.whatmatters.com/series_entries/s1-3-how-to-write-good-okr">right</a>
+Key Results. To them, the result is delivering the feature, a binary goal. The
+desired outcome is not clear to them, and it’s not even clear if that initiative
+is the only or the best one to deliver the outcome <em>someone</em> desires. The teams
+I’ve worked in this context, feel that they’re trying to retrofit a model to thier
+context, solving problems that they might not agree exsist.</p>
+<p>Thankfully, I&rsquo;m not alone in seeintg this. Christina Wodtke who wrote the fantastic
+book <a href="https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028">Radical
+Focus</a>,
+recently wrote this
+<a href="https://cwodtke.medium.com/not-everyone-needs-okrs-a198db0c7bc8">article</a> about
+not everyone not needing OKRs. Where OKRs are great to track a <a href="https://medium.com/@meetfelipe/okr-vs-kpis-what-is-the-difference-ffa54673fcf1">desired change
+in a
+KPI</a>,
+not all work will contribute to that change. HR paying out wages does not need
+an OKR, it&rsquo;s just something that needs to get done. This is not only specific
+for HR. Most business areas have some parts that just needs to get done. For
+this OKRs are not the right tool. Wodtke calls this heartbeat work.</p>
+<p>With this in mind, and as I’ve seen the same problem a few times, I’ve worked on
+a model to explain how different metrics might fit together in a
+well-established organization with various types of work that needs to get done.
+It’s been useful to me; it might be useful to you too.</p>
+<p><img src="/2022/okr-metric-model.jpg" alt="Model"></p>
+<p>To add some explanation: The idea is that there are several levels of metrics,
+and needs for metrics. The levels would be something like:</p>
+<ol>
+<li>
+<p>The old school Key Performance Indicators shows what the business area or
+whole organization values as important in terms of business performance.
+What would be acceptable levels for each of them?</p>
+</li>
+<li>
+<p>Then you define one or more Objectives, that is meant to change performance
+in the KPI. You define several Key Results that might tell you if you’re on
+the right track.</p>
+</li>
+<li>
+<p>The OKRs might be broken down by other units/teams, so that they are more
+meaningful to them</p>
+</li>
+<li>
+<p>Finally, we define some initiatives, that is the actual work or output that
+can contribute to desired outcomes.</p>
+</li>
+<li>
+<p>In addition, teams with well-established responsibilities might also need to
+track indicators that shows if the “heartbeat” work is on track. If your app
+rating falls to the ground, that new feature might not matter. You’ll need
+to refocus.</p>
+</li>
+</ol>
+<p>Based on this, some teams might only work directly with OKRs, not even needing
+any task management as the team is so small, and things are moving fast. Other
+teams will have a few working directly to test hypotheses to move the needle on
+an OKR, while others work on an initiative that was promised to another
+department. I’ve found that it helps in building understanding, and in turn make OKRs useful,
+by being aware of the differences and track them appropriately. OKR, like agile,
+is not a silver bullet. We&rsquo;ll always need to tailor to context.</p>
+]]></content:encoded></item></channel></rss>

@@ -1,2 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coding on Stein-Otto Svorstøl</title><link>https://www.svorstol.com/tags/coding/</link><description>Recent content in Coding on Stein-Otto Svorstøl</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Wed, 24 Jul 2024 17:16:58 +0000</lastBuildDate><atom:link href="https://www.svorstol.com/tags/coding/index.xml" rel="self" type="application/rss+xml"/><item><title>Syncing articles between Readwise Reader and Pocket</title><link>https://www.svorstol.com/blog/2024/07-24-readwise-pocket/</link><pubDate>Wed, 24 Jul 2024 17:16:58 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/07-24-readwise-pocket/</guid><description>&lt;p>I&amp;rsquo;m a big reader and I&amp;rsquo;ve used Kindles to read for a long time. I now have a Oasis (best one there is) and Paperwhite (2021). What I don&amp;rsquo;t like is the lock-in, but what I also like is the ecosystem. There&amp;rsquo;s always tradeoffs.&lt;/p>
-&lt;p>Recently Amazons competitor Kobo released colour e-ink devices, with stylus support. Their styluses, unlike Kindle devices, can write directly in books (not in notes as the Kindle Scribe does). It&amp;rsquo;s more like the Remarkable (without the perfect tactile feel), but in a smaller form factor. Other noteable (fantastic) features are a Pocket-integration and OverDrive support (so one can get books from the library&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>) So I bought a Kobo Libra Colour.&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Coding on Stein-Otto Svorstøl</title><link>https://www.svorstol.com/tags/coding/</link><description>Recent content in Coding on Stein-Otto Svorstøl</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Wed, 24 Jul 2024 17:16:58 +0000</lastBuildDate><atom:link href="https://www.svorstol.com/tags/coding/index.xml" rel="self" type="application/rss+xml"/><item><title>Syncing articles between Readwise Reader and Pocket</title><link>https://www.svorstol.com/blog/2024/07-24-readwise-pocket/</link><pubDate>Wed, 24 Jul 2024 17:16:58 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/07-24-readwise-pocket/</guid><description>&lt;p>I&amp;rsquo;m a big reader and I&amp;rsquo;ve used Kindles to read for a long time. I now have a Oasis (best one there is) and Paperwhite (2021). What I don&amp;rsquo;t like is the lock-in, but what I also like is the ecosystem. There&amp;rsquo;s always tradeoffs.&lt;/p>
+&lt;p>Recently Amazons competitor Kobo released colour e-ink devices, with stylus support. Their styluses, unlike Kindle devices, can write directly in books (not in notes as the Kindle Scribe does). It&amp;rsquo;s more like the Remarkable (without the perfect tactile feel), but in a smaller form factor. Other noteable (fantastic) features are a Pocket-integration and OverDrive support (so one can get books from the library&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>) So I bought a Kobo Libra Colour.&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/p></description><content:encoded><![CDATA[<p>I&rsquo;m a big reader and I&rsquo;ve used Kindles to read for a long time. I now have a Oasis (best one there is) and Paperwhite (2021). What I don&rsquo;t like is the lock-in, but what I also like is the ecosystem. There&rsquo;s always tradeoffs.</p>
+<p>Recently Amazons competitor Kobo released colour e-ink devices, with stylus support. Their styluses, unlike Kindle devices, can write directly in books (not in notes as the Kindle Scribe does). It&rsquo;s more like the Remarkable (without the perfect tactile feel), but in a smaller form factor. Other noteable (fantastic) features are a Pocket-integration and OverDrive support (so one can get books from the library<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>) So I bought a Kobo Libra Colour.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<p>The device itself is nice <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, but that&rsquo;s not the point of this text. The Kobo community is more into hacking, and less into locked systems. This led my to reconsider my main RSS reader over the last few years, <a href="https://feedly.com/">Feedly</a>. It&rsquo;s quite costly for what it does. I pay for <a href="https://readwise.io">Readwise</a> as well, which originally collects all your highlights across services and exports them to you preferred note taking app <sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>. Now, they also have an extensive Reader app which has RSS support (and read it later support).</p>
+<p>This meant I could</p>
+<ol>
+<li>reduce my cost on this type of software with around 3000 NOK</li>
+<li>reduce the number of apps I use with 1</li>
+</ol>
+<p>.. which is nice.</p>
+<p>(Of course I should&rsquo;ve switched over to some of the fantastic open source offers out there, but as I haven&rsquo;t seen/found any realistic Readwise replacements I&rsquo;d have to stick to it anyway.)</p>
+<h2 id="the-challenge">The challenge</h2>
+<p>I still wanted to read articles on my Pocket integrated Kobo, and you don&rsquo;t need Pocket Premium if you&rsquo;re not using their &ldquo;library features&rdquo; but just read articles.</p>
+<p>The issue was that the &ldquo;sync&rdquo; between Pocket and Reader was one-way, and the Reader people don&rsquo;t plan to do anything with it.</p>
+<p>Of course, I could manually copy-paste links into Pocket. I could. But, you know.<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup></p>
+<h2 id="building-a-little-readwise-reader-pocket-integration">Building a little Readwise Reader-Pocket integration</h2>
+<p>So, I needed to build my own little integration. Thankfuly the services have public APIs, whoo!</p>
+<ol>
+<li><a href="https://readwise.io/reader_api">Readwise has an API</a> to fetch their articles (and add articles)</li>
+<li><a href="https://getpocket.com/developer/">Pocket has an API</a> that lets you create, read and change articles</li>
+</ol>
+<p>There&rsquo;s noe queue/triggering capabilites in the Reader APIs, so a scheduled check would have to do. For simple IFTTT-tasks I&rsquo;ve used Zapier for a couple of years. Their no code features work well for most things, while they also support code.</p>
+<p>So, I wrote some code and ended up with the following</p>
+<ol>
+<li>When I add articles to &ldquo;later&rdquo; in Reader they are also saved to Pocket</li>
+<li>When articles are archived in Reader, they are also archived in Pocket</li>
+</ol>
+<p>This is triggered every hour. The code is <a href="https://gist.github.com/essoen/5fddb415b531ad91759fbb2590b8927b">here</a>. The code step in Zapier is restricted so it cannot be shared as a template, but here&rsquo;s a picture:</p>
+<p><img src="/2024/readwise-pocket-zap.png" alt="graphic representation of Zap that handles data push from Readwise to Pocket and vice versa"></p>
+<p>Worth noting that the loop step will complain when given an empty list. <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup></p>
+<p>It&rsquo;s good to still be able to do some coding, although the code craftsmanship certainly isn&rsquo;t what it is. You improve the most on the things you do, I guess.</p>
+<h2 id="whats-missing">What&rsquo;s missing</h2>
+<p>Obviously I want archived Pocket-articles to be archived in Reader. That&rsquo;s not currently possible, as Reader doesn&rsquo;t offer an API to change articles. So, that&rsquo;s manual.</p>
+<p>Also, the orignal use case for Readwise (not Reader) was to collect highlights, so they have a Pocket integration. This is now causing  I am talking with the devs about all this, hopefully they can do small improvemenets on their API so my litte integration can improve.</p>
+<h2 id="so-what">So what?</h2>
+<p>It&rsquo;s nice to have a few weeks off in the summer, and have time to do some tinkering. Maybe my Reader-Pocket solution is useful to you? Or someone.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>This only works for english language books in Norway. For norwegian books we have to use BookBites, which replaced Allbok last year. Allbok supported Adobe Digital Editions export so one could transfer burrowed books to an ereader over cable. Bookbites doesn&rsquo;t have that, so there you&rsquo;ll have to read on a regular tablet or get an Android eink tablet. I&rsquo;ve also considered that, but I was put off by the fact that the most recent Android version offered on Boox devices (main actor in the business) was Android 12.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>I really enjoy ereaders.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>But the Kindle Oasis is still the best ereader I&rsquo;ve used (despite the micro-USB port)&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p><a href="https://obsidian.md/">Obisdian</a> is my preferred app for this right now, and I try to get all my notes to end up here. I still have a few things in Notion, overviews and such. Their tables are nice, their GDPR compliance not so much. Tradeoffs.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5">
+<p><a href="https://www.youtube.com/watch?v=GLrdrC1H6ZY">Whaddya gonna do?</a>&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content:encoded></item></channel></rss>
