@@ -1,6 +1,6 @@
 baseURL: 'https://www.svorstol.com'
 languageCode: en-US
-theme: hugo-bearblog
+theme: hugo-bearcub
 title: Stein-Otto Svorstøl
 
 parmas.author:
