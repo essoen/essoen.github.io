@@ -4,8 +4,8 @@ description: A informational overview of how to I like to work
 tags:
   - management
 date: 2022-01-20T00:10:34.000+01:00
-menu:
-  main: {}
+menu: "main"
+weight: 2
 draft: false
 ---
 # How I work, an informational manual
