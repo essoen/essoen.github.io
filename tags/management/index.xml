@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Management on Stein-Otto Svorstøl</title><link>https://www.svorstol.com/tags/management/</link><description>Recent content in Management on Stein-Otto Svorstøl</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Mon, 21 Apr 2025 15:31:10 +0000</lastBuildDate><atom:link href="https://www.svorstol.com/tags/management/index.xml" rel="self" type="application/rss+xml"/><item><title>Leverage waiting</title><link>https://www.svorstol.com/blog/2025/04-21-leverage-waiting/</link><pubDate>Mon, 21 Apr 2025 15:31:10 +0000</pubDate><guid>https://www.svorstol.com/blog/2025/04-21-leverage-waiting/</guid><description>&lt;p>The last 6 months I have experienced a lot of waiting in one of the teams I&amp;rsquo;m working with. We&amp;rsquo;ve been blocked on deliveries, by either third parties or other teams. Blocked means being unable to move forward as desired. This could things such as some API or software someone else has to develop, or testing on some physical hardware that is not available.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Management on Stein-Otto Svorstøl</title><link>https://www.svorstol.com/tags/management/</link><description>Recent content in Management on Stein-Otto Svorstøl</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Mon, 21 Apr 2025 15:31:10 +0000</lastBuildDate><atom:link href="https://www.svorstol.com/tags/management/index.xml" rel="self" type="application/rss+xml"/><item><title>How I Work</title><link>https://www.svorstol.com/work/</link><pubDate>Thu, 20 Jan 2022 00:10:34 +0100</pubDate><guid>https://www.svorstol.com/work/</guid><description>&lt;h1 id="how-i-work-an-informational-manual">How I work, an informational manual&lt;/h1>
+&lt;p>&lt;em>First written January 20, 2022.&lt;br>
+Last updated June 5, 2024.&lt;/em>&lt;/p>
+&lt;hr>
+&lt;p>Over the last couple of years, I&amp;rsquo;ve seen people share &amp;ldquo;instruction manuals&amp;rdquo; for themselves shared through their personal websites. I recognize that I&amp;rsquo;d value this instructional/informational overview from my manager, so I might as well provide it for those I manage, those I work with, and the managers I report to. &lt;a href="https://www.remotecompany.com/blog/how-to-work-with-me-manual">This article&lt;/a> summarizes my motivations for doing this nicely, and a few of those that have inspired me are &lt;a href="https://github.com/hepwori/wwi/">Isaac Hepworth&lt;/a> and &lt;a href="https://den.dev/how-i-work/">Den Delimarsky&lt;/a>.&lt;/p></description><content:encoded><![CDATA[<h1 id="how-i-work-an-informational-manual">How I work, an informational manual</h1>
+<p><em>First written January 20, 2022.<br>
+Last updated June 5, 2024.</em></p>
+<hr>
+<p>Over the last couple of years, I&rsquo;ve seen people share &ldquo;instruction manuals&rdquo; for themselves shared through their personal websites. I recognize that I&rsquo;d value this instructional/informational overview from my manager, so I might as well provide it for those I manage, those I work with, and the managers I report to. <a href="https://www.remotecompany.com/blog/how-to-work-with-me-manual">This article</a> summarizes my motivations for doing this nicely, and a few of those that have inspired me are <a href="https://github.com/hepwori/wwi/">Isaac Hepworth</a> and <a href="https://den.dev/how-i-work/">Den Delimarsky</a>.</p>
+<p>Please note, that this is a continuous work in progress, as I learn and improve. If it doesn’t make sense or doesn’t fit with your experience of me, please reach out.</p>
+<h2 id="principles">Principles</h2>
+<p>A couple of things I value and believe in:</p>
+<ul>
+<li><strong>Make everyone heard and trusted:</strong> People are knowledgeable, and will share their knowledge and thoughts when they feel trusted. With trust, we achieve even better results.</li>
+<li><strong>Lead by context:</strong> I aim to increase flow by giving trust and delegating decisions so that they can be made by those closest to their consequences. To make sure those decisions are the best they can be, I also have to make sure that people have as much relevant context and information as possible. This means I try to <strong>regularly communicate context and strategy</strong>. When people have the right context, they get a feel of the goals. Then it&rsquo;s easy to <strong>let people work how they want</strong>.</li>
+<li><strong>Bias towards action:</strong> Let&rsquo;s stop discussing, and try something out. That could be getting real data, or just trying one possible solution directly.</li>
+<li><strong>Build multi-disciplinary teams:</strong> Most problems are not one-sided, i.e. cannot in full be solved by an area of expertise. Neither is one person alone the best way to handle problems or workloads.</li>
+</ul>
+<h2 id="work-schedule">Work Schedule</h2>
+<p>I usually work from around 8-9 to 16-17. A few days a week I might work longer or get a few more hours in later in the evening. This might mean that you&rsquo;ll receive messages or emails from me outside working hours. This does not mean I expect an answer. You&rsquo;ll answer when you have time. If it&rsquo;s urgent, I&rsquo;ll call. It&rsquo;s almost never <em>that</em> urgent.</p>
+<h2 id="communication">Communication</h2>
+<p><strong>I prefer asynchronous communication via Slack/messaging tool, over emails.</strong> I do not expect instant replies, even during the regular workday. I like when my team uses open team Slack channels to ask questions or talk about ideas, because I believe it empowers the whole team.</p>
+<p><a href="https://blog.doist.com/inbox-zero/">Inbox Zero</a> is great, and I follow it. But, <strong>most emails are not urgent, so I do not handle them as such.</strong> I check my email around twice a day. This means that <strong>if you need a fast answer, call instead of emailing.</strong> Or call me after the email is sent. To me, an email can wait to be answered for two days. If not, one should tell the recipient about the urgency.</p>
+<p><strong>Discussions fit better in Slack or a meeting, rather than email.</strong> Usually, we have discussions over a particular decision. It&rsquo;s easier to have these discussions if we write out the alternatives, the arguments for each of them, beforehand. This helps us get to the details, and where we disagree, faster.</p>
+<p><a href="https://staysaasy.com/startups/2023/11/10/imprecise-asks.html">I try to be precise in my asks. Please ask if you feel that I am ambigous or unprecise in a request.</a></p>
+<h3 id="meetings">Meetings</h3>
+<p>When calling for a meeting, I try to be clear on:</p>
+<ul>
+<li>The goal of the meeting</li>
+<li>What the ideal result of the meeting would be</li>
+<li>An agenda, preferably with some <a href="https://en.wikipedia.org/wiki/Parkinson%27s_law" title="time boxing">time boxing</a></li>
+</ul>
+<p>I love when the people I work with follow the same format, as I believe it makes it easier to work and deliver value together.</p>
+<p>It&rsquo;s worth mentioning that I appreciate that some meetings need to be more ad hoc, and not as planned. It&rsquo;s nice to be clear on that need as well. This is crucial in these times of hybrid work.</p>
+<p>Speaking of hybrid work: I want to work asynchronously where possible and reduce the time we&rsquo;re in synchronous meetings. This enables us to do more <a href="https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=pocket&amp;utm_medium=email&amp;utm_campaign=pockethits&amp;cta=1&amp;src=ph">and saves our time off</a>.</p>
+<h3 id="feedback">Feedback</h3>
+<p>Feedback is highly appreciated. I love to improve continuously. It’s nice to know what I’m doing well, but it’s even better when I’m told what to do differently.</p>
+<p>If you feel I do not follow the principles and rule of thumb described here, please reach out.</p>
+<h2 id="other-notes">Other notes</h2>
+<ul>
+<li>Don&rsquo;t hesitate to reach out if you&rsquo;re blocked, or if something&rsquo;s bothering you</li>
+<li>I enjoy reading and discussing what I&rsquo;ve read. It&rsquo;s nice to get inspired by others&rsquo; experiences and see if one can use something from them. To get the time for reading, and trying things out, <a href="https://todoist.com/productivity-methods/time-blocking">I book time in my calendar</a>. The same goes for setting aside time to work on specific tasks.</li>
+<li>During vacations I am usually literally offline, i.e. I&rsquo;m in the mountains with no coverage</li>
+<li>I find <a href="https://todoist.com/productivity-methods/eisenhower-matrix">The Eisenhower matrix</a>, <a href="https://miro.com/templates/impact-effort-matrix/">Impact/Effort-matrix</a>, and <a href="https://en.wikipedia.org/wiki/Cynefin_framework">The Cynefin Framework</a> useful, and might refer to them a few times.</li>
+</ul>
+]]></content:encoded></item><item><title>Leverage waiting</title><link>https://www.svorstol.com/blog/2025/04-21-leverage-waiting/</link><pubDate>Mon, 21 Apr 2025 15:31:10 +0000</pubDate><guid>https://www.svorstol.com/blog/2025/04-21-leverage-waiting/</guid><description>&lt;p>The last 6 months I have experienced a lot of waiting in one of the teams I&amp;rsquo;m working with. We&amp;rsquo;ve been blocked on deliveries, by either third parties or other teams. Blocked means being unable to move forward as desired. This could things such as some API or software someone else has to develop, or testing on some physical hardware that is not available.&lt;/p>
 &lt;p>Being blocked has forced us to reflect and evaluate our approach. Of course we must maintain pressure on those we wait for. This can be done by:&lt;/p></description><content:encoded><![CDATA[<p>The last 6 months I have  experienced a lot of waiting in one of the teams I&rsquo;m working with. We&rsquo;ve been blocked on deliveries, by either third parties or other teams. Blocked means being unable to move forward as desired. This could things such as some API or software someone else has to develop, or testing on some physical hardware that is not available.</p>
 <p>Being blocked has forced us to reflect and evaluate our approach. Of course we  must maintain pressure on those we wait for. This can be done by:</p>
 <ul>
@@ -248,49 +293,4 @@ an OKR, while others work on an initiative that was promised to another
 department. I’ve found that it helps in building understanding, and in turn make OKRs useful,
 by being aware of the differences and track them appropriately. OKR, like agile,
 is not a silver bullet. We&rsquo;ll always need to tailor to context.</p>
-]]></content:encoded></item><item><title>How I Work</title><link>https://www.svorstol.com/work/</link><pubDate>Thu, 20 Jan 2022 00:10:34 +0100</pubDate><guid>https://www.svorstol.com/work/</guid><description>&lt;h1 id="how-i-work-an-informational-manual">How I work, an informational manual&lt;/h1>
-&lt;p>&lt;em>First written January 20, 2022.&lt;br>
-Last updated June 5, 2024.&lt;/em>&lt;/p>
-&lt;hr>
-&lt;p>Over the last couple of years, I&amp;rsquo;ve seen people share &amp;ldquo;instruction manuals&amp;rdquo; for themselves shared through their personal websites. I recognize that I&amp;rsquo;d value this instructional/informational overview from my manager, so I might as well provide it for those I manage, those I work with, and the managers I report to. &lt;a href="https://www.remotecompany.com/blog/how-to-work-with-me-manual">This article&lt;/a> summarizes my motivations for doing this nicely, and a few of those that have inspired me are &lt;a href="https://github.com/hepwori/wwi/">Isaac Hepworth&lt;/a> and &lt;a href="https://den.dev/how-i-work/">Den Delimarsky&lt;/a>.&lt;/p></description><content:encoded><![CDATA[<h1 id="how-i-work-an-informational-manual">How I work, an informational manual</h1>
-<p><em>First written January 20, 2022.<br>
-Last updated June 5, 2024.</em></p>
-<hr>
-<p>Over the last couple of years, I&rsquo;ve seen people share &ldquo;instruction manuals&rdquo; for themselves shared through their personal websites. I recognize that I&rsquo;d value this instructional/informational overview from my manager, so I might as well provide it for those I manage, those I work with, and the managers I report to. <a href="https://www.remotecompany.com/blog/how-to-work-with-me-manual">This article</a> summarizes my motivations for doing this nicely, and a few of those that have inspired me are <a href="https://github.com/hepwori/wwi/">Isaac Hepworth</a> and <a href="https://den.dev/how-i-work/">Den Delimarsky</a>.</p>
-<p>Please note, that this is a continuous work in progress, as I learn and improve. If it doesn’t make sense or doesn’t fit with your experience of me, please reach out.</p>
-<h2 id="principles">Principles</h2>
-<p>A couple of things I value and believe in:</p>
-<ul>
-<li><strong>Make everyone heard and trusted:</strong> People are knowledgeable, and will share their knowledge and thoughts when they feel trusted. With trust, we achieve even better results.</li>
-<li><strong>Lead by context:</strong> I aim to increase flow by giving trust and delegating decisions so that they can be made by those closest to their consequences. To make sure those decisions are the best they can be, I also have to make sure that people have as much relevant context and information as possible. This means I try to <strong>regularly communicate context and strategy</strong>. When people have the right context, they get a feel of the goals. Then it&rsquo;s easy to <strong>let people work how they want</strong>.</li>
-<li><strong>Bias towards action:</strong> Let&rsquo;s stop discussing, and try something out. That could be getting real data, or just trying one possible solution directly.</li>
-<li><strong>Build multi-disciplinary teams:</strong> Most problems are not one-sided, i.e. cannot in full be solved by an area of expertise. Neither is one person alone the best way to handle problems or workloads.</li>
-</ul>
-<h2 id="work-schedule">Work Schedule</h2>
-<p>I usually work from around 8-9 to 16-17. A few days a week I might work longer or get a few more hours in later in the evening. This might mean that you&rsquo;ll receive messages or emails from me outside working hours. This does not mean I expect an answer. You&rsquo;ll answer when you have time. If it&rsquo;s urgent, I&rsquo;ll call. It&rsquo;s almost never <em>that</em> urgent.</p>
-<h2 id="communication">Communication</h2>
-<p><strong>I prefer asynchronous communication via Slack/messaging tool, over emails.</strong> I do not expect instant replies, even during the regular workday. I like when my team uses open team Slack channels to ask questions or talk about ideas, because I believe it empowers the whole team.</p>
-<p><a href="https://blog.doist.com/inbox-zero/">Inbox Zero</a> is great, and I follow it. But, <strong>most emails are not urgent, so I do not handle them as such.</strong> I check my email around twice a day. This means that <strong>if you need a fast answer, call instead of emailing.</strong> Or call me after the email is sent. To me, an email can wait to be answered for two days. If not, one should tell the recipient about the urgency.</p>
-<p><strong>Discussions fit better in Slack or a meeting, rather than email.</strong> Usually, we have discussions over a particular decision. It&rsquo;s easier to have these discussions if we write out the alternatives, the arguments for each of them, beforehand. This helps us get to the details, and where we disagree, faster.</p>
-<p><a href="https://staysaasy.com/startups/2023/11/10/imprecise-asks.html">I try to be precise in my asks. Please ask if you feel that I am ambigous or unprecise in a request.</a></p>
-<h3 id="meetings">Meetings</h3>
-<p>When calling for a meeting, I try to be clear on:</p>
-<ul>
-<li>The goal of the meeting</li>
-<li>What the ideal result of the meeting would be</li>
-<li>An agenda, preferably with some <a href="https://en.wikipedia.org/wiki/Parkinson%27s_law" title="time boxing">time boxing</a></li>
-</ul>
-<p>I love when the people I work with follow the same format, as I believe it makes it easier to work and deliver value together.</p>
-<p>It&rsquo;s worth mentioning that I appreciate that some meetings need to be more ad hoc, and not as planned. It&rsquo;s nice to be clear on that need as well. This is crucial in these times of hybrid work.</p>
-<p>Speaking of hybrid work: I want to work asynchronously where possible and reduce the time we&rsquo;re in synchronous meetings. This enables us to do more <a href="https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=pocket&amp;utm_medium=email&amp;utm_campaign=pockethits&amp;cta=1&amp;src=ph">and saves our time off</a>.</p>
-<h3 id="feedback">Feedback</h3>
-<p>Feedback is highly appreciated. I love to improve continuously. It’s nice to know what I’m doing well, but it’s even better when I’m told what to do differently.</p>
-<p>If you feel I do not follow the principles and rule of thumb described here, please reach out.</p>
-<h2 id="other-notes">Other notes</h2>
-<ul>
-<li>Don&rsquo;t hesitate to reach out if you&rsquo;re blocked, or if something&rsquo;s bothering you</li>
-<li>I enjoy reading and discussing what I&rsquo;ve read. It&rsquo;s nice to get inspired by others&rsquo; experiences and see if one can use something from them. To get the time for reading, and trying things out, <a href="https://todoist.com/productivity-methods/time-blocking">I book time in my calendar</a>. The same goes for setting aside time to work on specific tasks.</li>
-<li>During vacations I am usually literally offline, i.e. I&rsquo;m in the mountains with no coverage</li>
-<li>I find <a href="https://todoist.com/productivity-methods/eisenhower-matrix">The Eisenhower matrix</a>, <a href="https://miro.com/templates/impact-effort-matrix/">Impact/Effort-matrix</a>, and <a href="https://en.wikipedia.org/wiki/Cynefin_framework">The Cynefin Framework</a> useful, and might refer to them a few times.</li>
-</ul>
 ]]></content:encoded></item></channel></rss>
