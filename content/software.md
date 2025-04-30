@@ -1,13 +1,14 @@
 ---
-title: "Software I use"
-date: 2025-04-17T10:57:04Z
-menu: "" # hide from menu, link fronm frontpage
-description: "Which software I use, and thereby support."
+title: Software I use
+date: 2025-04-17T10:57:04.000Z
+menu: ""
+description: Which software I use, and thereby support.
 hideReachoutFooter: true
+draft: false
 ---
 
 ## Software I use
-*Last updated April 17 2025* 
+*Last updated April 30 2025* 
 
 I've recently done a clean-up of licenses that I have, and thought about what software I use. Here's what I'm currently using and am subscribed to (and thereby support):  
 
@@ -16,7 +17,7 @@ I've recently done a clean-up of licenses that I have, and thought about what so
 | App                                     | Description                       | Usage/comment                                                                                                                                                                                                                                                                                                                                                |
 | :-------------------------------------- | :-------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Productivity**                        |                                   |                                                                                                                                                                                                                                                                                                                                                              |
-| Firefox and DuckDuckGo                  | Web browsing and search           | Currently evaluating Kagi (subscription based search) as a replacement for DuckDuckGo.                                                                                                                                                                                                                                                                       |
+| Firefox and Kagi                  | Web browsing and search           | Currently switched to Kagi for search. It subscription based, and I find it gives much better results than DuckDuckGo and Brave. Talking about Brave, I use their browser when I need a Chromium based one.  
 | Obsidian                                | Notes                             | Local and markdown based. Their Sync service works really well across devices. Moved away from Notion for this.                                                                                                                                                                                                                                              |
 | Remarkable                              | Notes                             | Used with my Remarkable, which is mostly for quick capture and thinking. I send my notes to myself by email, or gather them from the app, and dump them into Obisidan                                                                                                                                                                                        |
 | Todoist                                 | Todo application                  | Fantastic application: Easy to use, highly customizeable and cheap. Long term user.                                                                                                                                                                                                                                                                          |
