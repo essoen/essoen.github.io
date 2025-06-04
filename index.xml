@@ -99,7 +99,7 @@ Last updated June 5, 2024.</em></p>
  &lt;tr>
  &lt;td style="text-align: left">Firefox and Kagi&lt;/td>
  &lt;td style="text-align: left">Web browsing and search&lt;/td>
- &lt;td style="text-align: left">Currently switched to Kagi for search. It subscription based, and I find it gives much better results than DuckDuckGo and Brave. Talking about Brave, I use their browser when I need a Chromium based one.&lt;/td>
+ &lt;td style="text-align: left">Kagi is a search engine that values privacy by having no ads. It&amp;rsquo;s supported with a subcription. Paying for search was a bit weird in the beginning, but after a while I was hooked. Their results are better and much less cluttered than DuckDuckGo, Brave and Google. Talking about Brave, I use their browser when I need a Chromium based one. Firefox for everything else. Love their extensions.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Obsidian&lt;/td>
@@ -127,9 +127,9 @@ Last updated June 5, 2024.</em></p>
  &lt;td style="text-align: left">Mostly used to improve/save time on work email.&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Notion&lt;/td>
- &lt;td style="text-align: left">Notes&lt;/td>
- &lt;td style="text-align: left">Mostly used with my wife for collaborative notes about the home and such. A lot of kanban boards. We also use it at work.&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Proton Mail, Drive, VPN and SimpleLogin&lt;/td>
@@ -137,9 +137,9 @@ Last updated June 5, 2024.</em></p>
  &lt;td style="text-align: left">Recently bought 2 years of Proton Duo (with my wife) to handle mail with a custom domain, and get some long-term storage. In addition, it feels good to support a privacy oriented ethos. Some limitations in usability but it works well enough. Great value.&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Google Drive and Photos&lt;/td>
- &lt;td style="text-align: left">Storage and photos&lt;/td>
- &lt;td style="text-align: left">Because of interoperability I use Google for everyday storage and collaboration, both privately and at work. It works well enough, but I&amp;rsquo;m trying to move to alternatives. The user experience of Google Photos in particular is fantastic, so it&amp;rsquo;s been hard to find good alternatives that are credible and value privacy. I am currently evaluating Ente.&lt;/td>
+ &lt;td style="text-align: left">Ente&lt;/td>
+ &lt;td style="text-align: left">Photo storage&lt;/td>
+ &lt;td style="text-align: left">Encrypted photo storage, with a user experience liking that of Google Photos but with on-device AI features for the moments/on this day thing. Easy to let others add photos to an album, without them having an account.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">&lt;strong>Content&lt;/strong>&lt;/td>
@@ -222,7 +222,7 @@ Last updated June 5, 2024.</em></p>
       <tr>
           <td style="text-align: left">Firefox and Kagi</td>
           <td style="text-align: left">Web browsing and search</td>
-          <td style="text-align: left">Currently switched to Kagi for search. It subscription based, and I find it gives much better results than DuckDuckGo and Brave. Talking about Brave, I use their browser when I need a Chromium based one.</td>
+          <td style="text-align: left">Kagi is a search engine that values privacy by having no ads. It&rsquo;s supported with a subcription. Paying for search was a bit weird in the beginning, but after a while I was hooked. Their results are better and much less cluttered than DuckDuckGo, Brave and Google. Talking about Brave, I use their browser when I need a Chromium based one. Firefox for everything else. Love their extensions.</td>
       </tr>
       <tr>
           <td style="text-align: left">Obsidian</td>
@@ -250,9 +250,9 @@ Last updated June 5, 2024.</em></p>
           <td style="text-align: left">Mostly used to improve/save time on work email.</td>
       </tr>
       <tr>
-          <td style="text-align: left">Notion</td>
-          <td style="text-align: left">Notes</td>
-          <td style="text-align: left">Mostly used with my wife for collaborative notes about the home and such. A lot of kanban boards. We also use it at work.</td>
+          <td></td>
+          <td></td>
+          <td></td>
       </tr>
       <tr>
           <td style="text-align: left">Proton Mail, Drive, VPN and SimpleLogin</td>
@@ -260,9 +260,9 @@ Last updated June 5, 2024.</em></p>
           <td style="text-align: left">Recently bought 2 years of Proton Duo (with my wife) to handle mail with a custom domain, and get some long-term storage. In addition, it feels good to support a privacy oriented ethos. Some limitations in usability but it works well enough. Great value.</td>
       </tr>
       <tr>
-          <td style="text-align: left">Google Drive and Photos</td>
-          <td style="text-align: left">Storage and photos</td>
-          <td style="text-align: left">Because of interoperability I use Google for everyday storage and collaboration, both privately and at work. It works well enough, but I&rsquo;m trying to move to alternatives. The user experience of Google Photos in particular is fantastic, so it&rsquo;s been hard to find good alternatives that are credible and value privacy. I am currently evaluating Ente.</td>
+          <td style="text-align: left">Ente</td>
+          <td style="text-align: left">Photo storage</td>
+          <td style="text-align: left">Encrypted photo storage, with a user experience liking that of Google Photos but with on-device AI features for the moments/on this day thing. Easy to let others add photos to an album, without them having an account.</td>
       </tr>
       <tr>
           <td style="text-align: left"><strong>Content</strong></td>
