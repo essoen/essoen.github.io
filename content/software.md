@@ -8,7 +8,7 @@ draft: false
 ---
 
 ## Software I use
-*Last updated April 30 2025* 
+*Last updated June 6 2025* 
 
 I've recently done a clean-up of licenses that I have, and thought about what software I use. Here's what I'm currently using and am subscribed to (and thereby support):  
 
