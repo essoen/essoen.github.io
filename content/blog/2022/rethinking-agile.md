@@ -93,7 +93,7 @@ The upstream is the number of steps from the idea to when the developers can sta
 
 Leopold describes three time traps in the upstream processes: 
 
-1. The annual budget created batch sizes that were too large, i.e. what's committed in the budget is more than the teams can deliver. If what's to be built is decided a year ahead, agility is not pssobløe The longer one collects ideas, the lower the possibility of agility. To increase reaction time to market needs, you need a new budgeting process. Leopold suggests a monthly review and possible replenishment of money.
+1. The annual budget created batch sizes that were too large, i.e. what's committed in the budget is more than the teams can deliver. If what's to be built is decided a year ahead, agility is not possible. The longer one collects ideas, the lower the possibility of agility. To increase reaction time to market needs, you need a new budgeting process. Leopold suggests a monthly review and possible replenishment of money.
 2. Colleagues as suppliers, i.e. if the IT department is considered a supplier that limits the possibility of a positive relationship. This means that we do not have one large process of estimates and approvals like you would see with an external contractor.  
 3. Making an estimate for something that must be done anyway, i.e. doing estimates for things that the company is legally bound to do anyway.
 
@@ -113,7 +113,7 @@ Meeting more often for reviewing business cases made the development and busines
 Get the executive management on board so that strategy, operations, development, and delivery can work closely together towards a clearly defined goal. This means establishing flight level 3. Leopold recommends the same steps for including upper executive management as for the two other levels:
 
 1. Visualize 
-   1. .. by making a strategy board that visualizes everything that's going on, and what's planned. Make one that fits your context. In Leopold's example, they idenfited two types of work with upper management: initiatives (makes money), and investments ("necessary but not urgent projects"). To focus on outcomes and ensure continuous evaluation, there's no "finished" column but "Measuer & Improve success", "Adjust & Improve", "Result Achieved" and "Result not achieved".
+   1. .. by making a strategy board that visualizes everything that's going on, and what's planned. Make one that fits your context. In Leopold's example, they identified two types of work with upper management: initiatives (makes money), and investments ("necessary but not urgent projects"). To focus on outcomes and ensure continuous evaluation, there's no "finished" column but "Measuer & Improve success", "Adjust & Improve", "Result Achieved" and "Result not achieved".
    2. .. by making the processes and criteria from idea to implementation explicit
 2. Limit the WIP. Find the right WIP limit for your organization. 
 3. Establish feedback loops by making sure there's a meeting around the board often enough, and that decision are actually made. Leopold recommends doing a Strategic Portfolio Standup weekly.  Also, run retros and strategy reviews. He recommends running these more often in the beginning and getting a sense of the necessary cadence over time. 

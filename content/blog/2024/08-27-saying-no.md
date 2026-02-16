@@ -10,7 +10,7 @@ tags:
 date: 2024-08-27T06:00:29.209Z
 ---
 
-When working as a leader, and espeically in roles where you handle priorities (such as product management roles), one must be able to say no requests, while at the same time being emptathic to what's being asked. There are many great ideas out there, but we cannot do them all at once. So, let's say you get a big request that your team does not have the bandwith to jump on. How do you respond?
+When working as a leader, and especially in roles where you handle priorities (such as product management roles), one must be able to say no requests, while at the same time being empathetic to what's being asked. There are many great ideas out there, but we cannot do them all at once. So, let's say you get a big request that your team does not have the bandwidth to jump on. How do you respond?
 
 What you don't want to do, is straight out say no. That's too hard, and won't come across as empathetic. We rather want to build a story about what we are building or doing , and how that might benefit the organization.  My first steps when asked to deliver on something, I usually do this:
 

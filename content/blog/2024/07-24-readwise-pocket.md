@@ -40,7 +40,7 @@ So, I needed to build my own little integration. Thankfuly the services have pub
 2. [Pocket has an API](https://getpocket.com/developer/) that lets you create, read and change articles
 
 
-There's noe queue/triggering capabilites in the Reader APIs, so a scheduled check would have to do. For simple IFTTT-tasks I've used Zapier for a couple of years. Their no code features work well for most things, while they also support code.
+There's no queue/triggering capabilites in the Reader APIs, so a scheduled check would have to do. For simple IFTTT-tasks I've used Zapier for a couple of years. Their no code features work well for most things, while they also support code.
 
 So, I wrote some code and ended up with the following 
 
@@ -61,7 +61,7 @@ It's good to still be able to do some coding, although the code craftsmanship ce
 
 Obviously I want archived Pocket-articles to be archived in Reader. That's not currently possible, as Reader doesn't offer an API to change articles. So, that's manual.
 
-Also, the orignal use case for Readwise (not Reader) was to collect highlights, so they have a Pocket integration. This is now causing  I am talking with the devs about all this, hopefully they can do small improvemenets on their API so my litte integration can improve.
+Also, the original use case for Readwise (not Reader) was to collect highlights, so they have a Pocket integration. This is now causing  I am talking with the devs about all this, hopefully they can do small improvements on their API so my little integration can improve.
 
 
 ## So what?
@@ -70,5 +70,5 @@ It's nice to have a few weeks off in the summer, and have time to do some tinker
 [^1]: This only works for english language books in Norway. For norwegian books we have to use BookBites, which replaced Allbok last year. Allbok supported Adobe Digital Editions export so one could transfer burrowed books to an ereader over cable. Bookbites doesn't have that, so there you'll have to read on a regular tablet or get an Android eink tablet. I've also considered that, but I was put off by the fact that the most recent Android version offered on Boox devices (main actor in the business) was Android 12. 
 [^2]: I really enjoy ereaders.
 [^3]: But the Kindle Oasis is still the best ereader I've used (despite the micro-USB port)
-[^4]: [Obisdian](https://obsidian.md/) is my preferred app for this right now, and I try to get all my notes to end up here. I still have a few things in Notion, overviews and such. Their tables are nice, their GDPR compliance not so much. Tradeoffs. 
+[^4]: [Obsidian](https://obsidian.md/) is my preferred app for this right now, and I try to get all my notes to end up here. I still have a few things in Notion, overviews and such. Their tables are nice, their GDPR compliance not so much. Tradeoffs. 
 [^5]: [Whaddya gonna do?](https://www.youtube.com/watch?v=GLrdrC1H6ZY)

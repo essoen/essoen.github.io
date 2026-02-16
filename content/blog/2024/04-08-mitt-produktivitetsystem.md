@@ -113,7 +113,7 @@ Når jeg jobber forsøker jeg å bruke Pomodoro med cirka 30 minutter jobbing og
 - Har stort sett Slack-programmet alltid oppe, men bruker «Do not disturb»-funksjonen om det er mye aktivitet. Da sjekker jeg kun i pauser.
 - Telefonen er alltid på lydløs.
 
-Om du sliter med å koble av ting kan du for eksmepel sjekke ut Strict Workflow som er en extension til Chrome, som kjører Pomodoro-teknikken + blokker nettsider du spesifiserer.
+Om du sliter med å koble av ting kan du for eksempel sjekke ut Strict Workflow som er en extension til Chrome, som kjører Pomodoro-teknikken + blokker nettsider du spesifiserer.
 
 ## Videre lesning
 

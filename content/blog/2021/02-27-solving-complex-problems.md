@@ -20,19 +20,19 @@ As agile methods for software development has been quite widely adopted, the fac
 4. Repeat as necessary, with the goal of moving your problem into another category
 5. Execute and evaluate, following the Plan, Do, Check, Act cycle
 
-The premise here is that you ar e able to explore the problem thinking cratlively about it. You must develop theories and experiment. How might an organizatino best enable all teams to do those things? 
+The premise here is that you are able to explore the problem thinking creatively about it. You must develop theories and experiment. How might an organization best enable all teams to do those things? 
 
  ### Real Cross-Functional Teams
 What is capabilities does a team need to solve a complex problem?
 
 1. First, be able to see all parts of the problem they are trying to solve
-2. Second, see many possible experiments that might shed light on the prolem and the solution they might find
-3. Third, be able to act upon experiemnt, and roll out new changes
+2. Second, see many possible experiments that might shed light on the problem and the solution they might find
+3. Third, be able to act upon experiment, and roll out new changes
 
-Most teams, either in software development or otherwise, address one capabilitiy.
+Most teams, either in software development or otherwise, address one capability.
 A software delivery team [^4] rolls out changes, while a business/strategy team is trying to see the whole of a high level problem.
 
-To adress all three,  the cross-functional cannot be cross-functional in the sense that it knows about devops, frontend/backend, infrastructure or even designing a UX. They must be capable of things like
+To address all three,  the cross-functional cannot be cross-functional in the sense that it knows about devops, frontend/backend, infrastructure or even designing a UX. They must be capable of things like
 1. Developing the product, including building the tech and UX, and data pipelines to improve it
 2. Developing the product strategy, including selecting the next feature to build, users to build for, how to spend time and not spent time
 3. And building the market strategy
@@ -40,11 +40,11 @@ To adress all three,  the cross-functional cannot be cross-functional in the sen
 
 
  ### Bring in people, iterate over the whole problem
-The recipe for building business agility seems to be the same as for building software agility. One could even argue that they are the exact same thing. And, it seems clear that the path to making value faster, is through solving the complex problems faster. This is, in turn, making sure that one has knowledge in the team that can adress the whole problem.
+The recipe for building business agility seems to be the same as for building software agility. One could even argue that they are the exact same thing. And, it seems clear that the path to making value faster, is through solving the complex problems faster. This is, in turn, making sure that one has knowledge in the team that can address the whole problem.
 
 We need to stop placing "a representative for the business" as a Product Owner in the development team. This goes for design, UX and marketing as well, and all the other areas we miss. Creating flow is making sure our problems are solved fast, and the problems are about more than software. Building organizations without silos is hard. [^3] Can we come together, and try harder?
 
 
 [^1]: As defined in the [Cynefin Framework](https://en.wikipedia.org/wiki/Cynefin_framework)
-[^3]: Reserach tells us that it is really hard to build cross-functionl teams. Or it tells us that doing it in just a part of the business is hard. https://hbr.org/2015/06/75-of-cross-functional-teams-are-dysfunctional
+[^3]: Research tells us that it is really hard to build cross-functionl teams. Or it tells us that doing it in just a part of the business is hard. https://hbr.org/2015/06/75-of-cross-functional-teams-are-dysfunctional
 [^4]: A nickname for an organization based on [feature teams](https://svpg.com/product-vs-feature-teams/)

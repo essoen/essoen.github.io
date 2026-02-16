@@ -32,4 +32,4 @@ For this to work, the roadmap must be:
 1. Updated continuously, i.e. be a living document
 2. In a position where it receives continuous feedback from users and stakeholders, and make sure they "buy in"
 
-When building the first roadmap for a new team or context, I've found the approach described in [this article](https://productcoalition.com/creating-your-first-product-roadmap-ec1c57a5a407) really useful. It also adresses how to identify the context your team operate in, which in turn will help you tell the story about why the current work items are the current work items.
+When building the first roadmap for a new team or context, I've found the approach described in [this article](https://productcoalition.com/creating-your-first-product-roadmap-ec1c57a5a407) really useful. It also addresses how to identify the context your team operate in, which in turn will help you tell the story about why the current work items are the current work items.

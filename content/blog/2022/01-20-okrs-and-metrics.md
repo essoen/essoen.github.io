@@ -23,10 +23,10 @@ year before, will of course struggle with defining the
 Key Results. To them, the result is delivering the feature, a binary goal. The
 desired outcome is not clear to them, and it’s not even clear if that initiative
 is the only or the best one to deliver the outcome *someone* desires. The teams
-I’ve worked in this context, feel that they’re trying to retrofit a model to thier
-context, solving problems that they might not agree exsist.
+I’ve worked in this context, feel that they’re trying to retrofit a model to their
+context, solving problems that they might not agree exist.
 
-Thankfully, I'm not alone in seeintg this. Christina Wodtke who wrote the fantastic
+Thankfully, I'm not alone in seeing this. Christina Wodtke who wrote the fantastic
 book [Radical
 Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028),
 recently wrote this
