@@ -19,7 +19,7 @@
 <li><a href="https://readwise.io/reader_api">Readwise has an API</a> to fetch their articles (and add articles)</li>
 <li><a href="https://getpocket.com/developer/">Pocket has an API</a> that lets you create, read and change articles</li>
 </ol>
-<p>There&rsquo;s noe queue/triggering capabilites in the Reader APIs, so a scheduled check would have to do. For simple IFTTT-tasks I&rsquo;ve used Zapier for a couple of years. Their no code features work well for most things, while they also support code.</p>
+<p>There&rsquo;s no queue/triggering capabilites in the Reader APIs, so a scheduled check would have to do. For simple IFTTT-tasks I&rsquo;ve used Zapier for a couple of years. Their no code features work well for most things, while they also support code.</p>
 <p>So, I wrote some code and ended up with the following</p>
 <ol>
 <li>When I add articles to &ldquo;later&rdquo; in Reader they are also saved to Pocket</li>
@@ -31,7 +31,7 @@
 <p>It&rsquo;s good to still be able to do some coding, although the code craftsmanship certainly isn&rsquo;t what it is. You improve the most on the things you do, I guess.</p>
 <h2 id="whats-missing">What&rsquo;s missing</h2>
 <p>Obviously I want archived Pocket-articles to be archived in Reader. That&rsquo;s not currently possible, as Reader doesn&rsquo;t offer an API to change articles. So, that&rsquo;s manual.</p>
-<p>Also, the orignal use case for Readwise (not Reader) was to collect highlights, so they have a Pocket integration. This is now causing  I am talking with the devs about all this, hopefully they can do small improvemenets on their API so my litte integration can improve.</p>
+<p>Also, the original use case for Readwise (not Reader) was to collect highlights, so they have a Pocket integration. This is now causing  I am talking with the devs about all this, hopefully they can do small improvements on their API so my little integration can improve.</p>
 <h2 id="so-what">So what?</h2>
 <p>It&rsquo;s nice to have a few weeks off in the summer, and have time to do some tinkering. Maybe my Reader-Pocket solution is useful to you? Or someone.</p>
 <div class="footnotes" role="doc-endnotes">
@@ -47,7 +47,7 @@
 <p>But the Kindle Oasis is still the best ereader I&rsquo;ve used (despite the micro-USB port)&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:4">
-<p><a href="https://obsidian.md/">Obisdian</a> is my preferred app for this right now, and I try to get all my notes to end up here. I still have a few things in Notion, overviews and such. Their tables are nice, their GDPR compliance not so much. Tradeoffs.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p><a href="https://obsidian.md/">Obsidian</a> is my preferred app for this right now, and I try to get all my notes to end up here. I still have a few things in Notion, overviews and such. Their tables are nice, their GDPR compliance not so much. Tradeoffs.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:5">
 <p><a href="https://www.youtube.com/watch?v=GLrdrC1H6ZY">Whaddya gonna do?</a>&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
@@ -148,7 +148,7 @@
 <li>Har stort sett Slack-programmet alltid oppe, men bruker «Do not disturb»-funksjonen om det er mye aktivitet. Da sjekker jeg kun i pauser.</li>
 <li>Telefonen er alltid på lydløs.</li>
 </ul>
-<p>Om du sliter med å koble av ting kan du for eksmepel sjekke ut Strict Workflow som er en extension til Chrome, som kjører Pomodoro-teknikken + blokker nettsider du spesifiserer.</p>
+<p>Om du sliter med å koble av ting kan du for eksempel sjekke ut Strict Workflow som er en extension til Chrome, som kjører Pomodoro-teknikken + blokker nettsider du spesifiserer.</p>
 <h2 id="videre-lesning">Videre lesning</h2>
 <ul>
 <li>Om det med verktøy og ha et system rundt alt som kommer inn av ideer, oppgaver osv. slik at du ikke trenger tenke på det: <a href="https://www.amazon.co.uk/How-Productivity-Ninja-Worry-Achieve/dp/178578028X">https://www.amazon.co.uk/How-Productivity-Ninja-Worry-Achieve/dp/178578028X</a> Denne er basically en moderne versjon av Getting Things Done hvis du har hørt om det. Ikke for lang, og gir deg noen ideer om hvordan du kan lage et system. Den inspirerte meg veldig til å endre systemet mitt i alle fall.</li>

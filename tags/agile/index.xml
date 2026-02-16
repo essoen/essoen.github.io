@@ -15,7 +15,7 @@
 <li>move on to other things, without dependencies, and rework your goals and roadmap</li>
 </ul>
 <p>It&rsquo;s an awareness thing. We all know we&rsquo;re blocked, but we can leverage the waiting time for something useful and valuable.</p>
-]]></content:encoded></item><item><title>Saying no</title><link>https://www.svorstol.com/blog/2024/08-27-saying-no/</link><pubDate>Tue, 27 Aug 2024 06:00:29 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/08-27-saying-no/</guid><description>&lt;p&gt;When working as a leader, and espeically in roles where you handle priorities (such as product management roles), one must be able to say no requests, while at the same time being emptathic to what&amp;rsquo;s being asked. There are many great ideas out there, but we cannot do them all at once. So, let&amp;rsquo;s say you get a big request that your team does not have the bandwith to jump on. How do you respond?&lt;/p&gt;</description><content:encoded><![CDATA[<p>When working as a leader, and espeically in roles where you handle priorities (such as product management roles), one must be able to say no requests, while at the same time being emptathic to what&rsquo;s being asked. There are many great ideas out there, but we cannot do them all at once. So, let&rsquo;s say you get a big request that your team does not have the bandwith to jump on. How do you respond?</p>
+]]></content:encoded></item><item><title>Saying no</title><link>https://www.svorstol.com/blog/2024/08-27-saying-no/</link><pubDate>Tue, 27 Aug 2024 06:00:29 +0000</pubDate><guid>https://www.svorstol.com/blog/2024/08-27-saying-no/</guid><description>&lt;p&gt;When working as a leader, and especially in roles where you handle priorities (such as product management roles), one must be able to say no requests, while at the same time being empathetic to what&amp;rsquo;s being asked. There are many great ideas out there, but we cannot do them all at once. So, let&amp;rsquo;s say you get a big request that your team does not have the bandwidth to jump on. How do you respond?&lt;/p&gt;</description><content:encoded><![CDATA[<p>When working as a leader, and especially in roles where you handle priorities (such as product management roles), one must be able to say no requests, while at the same time being empathetic to what&rsquo;s being asked. There are many great ideas out there, but we cannot do them all at once. So, let&rsquo;s say you get a big request that your team does not have the bandwidth to jump on. How do you respond?</p>
 <p>What you don&rsquo;t want to do, is straight out say no. That&rsquo;s too hard, and won&rsquo;t come across as empathetic. We rather want to build a story about what we are building or doing , and how that might benefit the organization.  My first steps when asked to deliver on something, I usually do this:</p>
 <ol>
 <li><strong>Show our goals</strong>: What are we currently trying to achieve.</li>
@@ -40,7 +40,7 @@ the right, we value the items on the left more.
 <p>To combine the two means</p>
 <ol>
 <li>Being organized for flow into product teams that have what they need to deliver, i.e. utilize tools such as <a href="https://en.wikipedia.org/wiki/Domain-driven_design">Domain-Driven Design</a> and <a href="https://www.svorstol.com/blog/2021/02-14-team-top-at-capra/">Team Topologies</a></li>
-<li>Have effective prioritzation that does not isolate Time-To-Market-calculations to development teams, but rather a organization wide effort. See <a href="https://www.svorstol.com/blog/2022/rethinking-agile/">Flight Levels and Rethinking Agile</a></li>
+<li>Have effective prioritization that does not isolate Time-To-Market-calculations to development teams, but rather a organization wide effort. See <a href="https://www.svorstol.com/blog/2022/rethinking-agile/">Flight Levels and Rethinking Agile</a></li>
 <li>Utilize tools such as  <a href="https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309">Product Discovery Habits</a>, and develop product-market fit</li>
 </ol>
 <p>The product-mindset comes into play in the product teams. It can also happen in dedicated business development departments or teams, as long as those are viewed as a part of a complete value chain for the company.</p>
@@ -121,7 +121,7 @@ Regardless, whether Scrum or Kanban—it was clear that ability of the teams to 
 </blockquote>
 <p>Leopold describes three time traps in the upstream processes:</p>
 <ol>
-<li>The annual budget created batch sizes that were too large, i.e. what&rsquo;s committed in the budget is more than the teams can deliver. If what&rsquo;s to be built is decided a year ahead, agility is not pssobløe The longer one collects ideas, the lower the possibility of agility. To increase reaction time to market needs, you need a new budgeting process. Leopold suggests a monthly review and possible replenishment of money.</li>
+<li>The annual budget created batch sizes that were too large, i.e. what&rsquo;s committed in the budget is more than the teams can deliver. If what&rsquo;s to be built is decided a year ahead, agility is not possible. The longer one collects ideas, the lower the possibility of agility. To increase reaction time to market needs, you need a new budgeting process. Leopold suggests a monthly review and possible replenishment of money.</li>
 <li>Colleagues as suppliers, i.e. if the IT department is considered a supplier that limits the possibility of a positive relationship. This means that we do not have one large process of estimates and approvals like you would see with an external contractor.</li>
 <li>Making an estimate for something that must be done anyway, i.e. doing estimates for things that the company is legally bound to do anyway.</li>
 </ol>
@@ -141,7 +141,7 @@ Regardless, whether Scrum or Kanban—it was clear that ability of the teams to 
 <ol>
 <li>Visualize
 <ol>
-<li>.. by making a strategy board that visualizes everything that&rsquo;s going on, and what&rsquo;s planned. Make one that fits your context. In Leopold&rsquo;s example, they idenfited two types of work with upper management: initiatives (makes money), and investments (&ldquo;necessary but not urgent projects&rdquo;). To focus on outcomes and ensure continuous evaluation, there&rsquo;s no &ldquo;finished&rdquo; column but &ldquo;Measuer &amp; Improve success&rdquo;, &ldquo;Adjust &amp; Improve&rdquo;, &ldquo;Result Achieved&rdquo; and &ldquo;Result not achieved&rdquo;.</li>
+<li>.. by making a strategy board that visualizes everything that&rsquo;s going on, and what&rsquo;s planned. Make one that fits your context. In Leopold&rsquo;s example, they identified two types of work with upper management: initiatives (makes money), and investments (&ldquo;necessary but not urgent projects&rdquo;). To focus on outcomes and ensure continuous evaluation, there&rsquo;s no &ldquo;finished&rdquo; column but &ldquo;Measuer &amp; Improve success&rdquo;, &ldquo;Adjust &amp; Improve&rdquo;, &ldquo;Result Achieved&rdquo; and &ldquo;Result not achieved&rdquo;.</li>
 <li>.. by making the processes and criteria from idea to implementation explicit</li>
 </ol>
 </li>
@@ -247,17 +247,17 @@ Regardless, whether Scrum or Kanban—it was clear that ability of the teams to 
 <li>Repeat as necessary, with the goal of moving your problem into another category</li>
 <li>Execute and evaluate, following the Plan, Do, Check, Act cycle</li>
 </ol>
-<p>The premise here is that you ar e able to explore the problem thinking cratlively about it. You must develop theories and experiment. How might an organizatino best enable all teams to do those things?</p>
+<p>The premise here is that you are able to explore the problem thinking creatively about it. You must develop theories and experiment. How might an organization best enable all teams to do those things?</p>
 <h3 id="real-cross-functional-teams">Real Cross-Functional Teams</h3>
 <p>What is capabilities does a team need to solve a complex problem?</p>
 <ol>
 <li>First, be able to see all parts of the problem they are trying to solve</li>
-<li>Second, see many possible experiments that might shed light on the prolem and the solution they might find</li>
-<li>Third, be able to act upon experiemnt, and roll out new changes</li>
+<li>Second, see many possible experiments that might shed light on the problem and the solution they might find</li>
+<li>Third, be able to act upon experiment, and roll out new changes</li>
 </ol>
-<p>Most teams, either in software development or otherwise, address one capabilitiy.
+<p>Most teams, either in software development or otherwise, address one capability.
 A software delivery team <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> rolls out changes, while a business/strategy team is trying to see the whole of a high level problem.</p>
-<p>To adress all three,  the cross-functional cannot be cross-functional in the sense that it knows about devops, frontend/backend, infrastructure or even designing a UX. They must be capable of things like</p>
+<p>To address all three,  the cross-functional cannot be cross-functional in the sense that it knows about devops, frontend/backend, infrastructure or even designing a UX. They must be capable of things like</p>
 <ol>
 <li>Developing the product, including building the tech and UX, and data pipelines to improve it</li>
 <li>Developing the product strategy, including selecting the next feature to build, users to build for, how to spend time and not spent time</li>
@@ -265,7 +265,7 @@ A software delivery team <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" 
 <li>.. And propably many other things that I with my background cannot even think of. And that is sort of my point.</li>
 </ol>
 <h3 id="bring-in-people-iterate-over-the-whole-problem">Bring in people, iterate over the whole problem</h3>
-<p>The recipe for building business agility seems to be the same as for building software agility. One could even argue that they are the exact same thing. And, it seems clear that the path to making value faster, is through solving the complex problems faster. This is, in turn, making sure that one has knowledge in the team that can adress the whole problem.</p>
+<p>The recipe for building business agility seems to be the same as for building software agility. One could even argue that they are the exact same thing. And, it seems clear that the path to making value faster, is through solving the complex problems faster. This is, in turn, making sure that one has knowledge in the team that can address the whole problem.</p>
 <p>We need to stop placing &ldquo;a representative for the business&rdquo; as a Product Owner in the development team. This goes for design, UX and marketing as well, and all the other areas we miss. Creating flow is making sure our problems are solved fast, and the problems are about more than software. Building organizations without silos is hard. <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> Can we come together, and try harder?</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
@@ -277,7 +277,7 @@ A software delivery team <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" 
 <p>A nickname for an organization based on <a href="https://svpg.com/product-vs-feature-teams/">feature teams</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:3">
-<p>Reserach tells us that it is really hard to build cross-functionl teams. Or it tells us that doing it in just a part of the business is hard. <a href="https://hbr.org/2015/06/75-of-cross-functional-teams-are-dysfunctional">https://hbr.org/2015/06/75-of-cross-functional-teams-are-dysfunctional</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Research tells us that it is really hard to build cross-functionl teams. Or it tells us that doing it in just a part of the business is hard. <a href="https://hbr.org/2015/06/75-of-cross-functional-teams-are-dysfunctional">https://hbr.org/2015/06/75-of-cross-functional-teams-are-dysfunctional</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </div>
