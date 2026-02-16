@@ -9,3 +9,5 @@ parmas.author:
 
 params:
   goatcounterID: svorstol
+
+ignoreLogs: ['warning-goldmark-raw-html']
