@@ -3,11 +3,10 @@ languageCode: en-US
 theme: hugo-bearcub
 title: Stein-Otto Svorstøl
 
-parmas.author:
-  name: Stein-Otto Svorstøl
-  email: stein-otto@svorstol.com
-
 params:
+  author:
+    name: Stein-Otto Svorstøl
+    email: stein-otto@svorstol.com
   goatcounterID: svorstol
 
 ignoreLogs: ['warning-goldmark-raw-html']

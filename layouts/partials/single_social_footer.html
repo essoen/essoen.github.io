@@ -1,4 +1,4 @@
 <hr>
 <p style="text-align: right;">
-        <a href="mailto:{{ $.Site.Author.email }}?subject={{ replace (printf "Re: %s" .Page.Title) "\"" "'" }}">Reply to this post by email</a>
+        <a href="mailto:{{ $.Site.Params.author.email }}?subject={{ replace (printf "Re: %s" .Page.Title) "\"" "'" }}">Reply to this post by email</a>
 </p>
