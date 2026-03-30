@@ -4,7 +4,6 @@ description: Refleksjoner rundt hva som skjer når AI-agenter tar over administr
 draft: false
 tags:
   - leadership
-  - management
   - ai
   - product
 date: 2026-03-30T12:00:00.000Z

@@ -5,7 +5,6 @@ description: How do I approach saying no to stakeholders when operating in a
 draft: false
 tags:
   - agile
-  - management
   - product
 date: 2024-08-27T06:00:29.209Z
 ---

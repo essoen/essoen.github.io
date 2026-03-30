@@ -6,7 +6,6 @@ description: A short post on how a development team can change their apporach
 draft: false
 tags:
   - product
-  - management
   - agile
 date: 2025-04-21T15:31:10.276Z
 ---
