@@ -1,11 +1,11 @@
 ---
-title: "Gir LLMer mindre administrasjon, og mer ledelse?"
-description: Refleksjoner rundt hva som skjer når AI-agenter tar over administrasjonsoppgavene til en leder
+title: Gir LLMer mindre administrasjon, og mer ledelse?
+description: Refleksjoner rundt hva som skjer når AI-agenter tar over
+  administrasjonsoppgavene til en leder
 draft: false
 tags:
   - leadership
   - ai
-  - product
 date: 2026-03-30T12:00:00.000Z
 ---
 
