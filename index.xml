@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Stein-Otto Svorstøl</title><link>https://www.svorstol.com/</link><description>Recent content on Stein-Otto Svorstøl</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><managingEditor>stein-otto@svorstol.com (Stein-Otto Svorstøl)</managingEditor><webMaster>stein-otto@svorstol.com (Stein-Otto Svorstøl)</webMaster><lastBuildDate>Mon, 30 Mar 2026 12:00:00 +0000</lastBuildDate><atom:link href="https://www.svorstol.com/index.xml" rel="self" type="application/rss+xml"/><item><title>How I Work</title><link>https://www.svorstol.com/work/</link><pubDate>Thu, 20 Jan 2022 00:10:34 +0100</pubDate><author>stein-otto@svorstol.com (Stein-Otto Svorstøl)</author><guid>https://www.svorstol.com/work/</guid><description>&lt;h1 id="how-i-work-an-informational-manual"&gt;How I work, an informational manual&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Stein-Otto Svorstøl</title><link>https://www.svorstol.com/</link><description>Recent content on Stein-Otto Svorstøl</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><managingEditor>stein-otto@svorstol.com (Stein-Otto Svorstøl)</managingEditor><webMaster>stein-otto@svorstol.com (Stein-Otto Svorstøl)</webMaster><lastBuildDate>Sun, 05 Apr 2026 12:00:00 +0000</lastBuildDate><atom:link href="https://www.svorstol.com/index.xml" rel="self" type="application/rss+xml"/><item><title>How I Work</title><link>https://www.svorstol.com/work/</link><pubDate>Thu, 20 Jan 2022 00:10:34 +0100</pubDate><author>stein-otto@svorstol.com (Stein-Otto Svorstøl)</author><guid>https://www.svorstol.com/work/</guid><description>&lt;h1 id="how-i-work-an-informational-manual"&gt;How I work, an informational manual&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;First written January 20, 2022.&lt;br&gt;
 Last updated June 5, 2024.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -62,6 +62,51 @@ Last updated June 5, 2024.</em></p>
   limit="5"
 >
 </bsky-embed>
+]]></content:encoded></item><item><title>GLaDOS: My Always-On AI Assistant</title><link>https://www.svorstol.com/blog/2026/04-05-glados-my-always-on-ai-assistant/</link><pubDate>Sun, 05 Apr 2026 12:00:00 +0000</pubDate><author>stein-otto@svorstol.com (Stein-Otto Svorstøl)</author><guid>https://www.svorstol.com/blog/2026/04-05-glados-my-always-on-ai-assistant/</guid><description>&lt;p&gt;First off: I find the AI hype pretty exhausting, the second-order effects of AI jobs and energy and copyright are real, and most companies still report no measurable productivity gains from AI. I&amp;rsquo;m still a sceptic. But over the last few months something changed for me: The models have gotten better, but in particular I&amp;rsquo;ve found the the integrations around them has gotten good enough to be useful in my own daily life.&lt;/p&gt;</description><content:encoded><![CDATA[<p>First off: I find the AI hype pretty exhausting, the second-order effects of AI jobs and energy and copyright are real, and most companies still report no measurable productivity gains from AI. I&rsquo;m still a sceptic. But over the last few months something changed for me: The models have gotten better, but in particular I&rsquo;ve found the the integrations around them has gotten good enough to be useful in my own daily life.</p>
+<p>So I stopped trying to evaluate AI as a category and started steering based on my own quality of life instead. The goal isn&rsquo;t to make Claude do my thinking, but improve my own daily life by <a href="https://www.svorstol.com/blog/2026/hva-betyr-det-for-oss-at-llmer-reduserer-administrasjonskostnaden/"><em>reducing administration and free up time</em></a>. In practice this means that I push the routine, low-judgment work onto an assistant, and keep the thinking for myself. <a href="https://leehanchung.github.io/blogs/2026/05/01/dont-outsource-your-understanding/">Cognitive offloading, rather than cognitive surrender.</a></p>
+<p>To work towards that, I set up a small, cheap VPS with <a href="https://shrpt.no">Shrp in Norway</a>. It runs an always-on Claude Code instance connected to my productivity tools, accessible from my phone via Telegram and from any browser via Claude Code&rsquo;s remote control feature. I call the assistant <a href="https://en.wikipedia.org/wiki/GLaDOS">GLaDOS</a>.</p>
+<h2 id="why-a-vps-over-claudeai-and-cowork">Why a VPS over Claude.ai and CoWork?</h2>
+<p>Claude already has a chat interface at claude.ai, MCP integrations for tools like Google Calendar and Slack, and CoWork for scheduling tasks against local files. There&rsquo;s also Claude Code, a CLI for working with code and files directly. Nevertheless I wanted a server running Claude all the time for three reasons:</p>
+<ol>
+<li><strong>Availability.</strong> Local MCPs only work when my laptop is open. A VPS is always on, which means the assistant is reachable from my phone while I&rsquo;m walking the dog, between meetings, or away from the desk. A quick Telegram message to check tomorrow&rsquo;s calendar or draft a reply saves real time.</li>
+<li><strong>Context.</strong> Chat conversations are stateless. Each session starts from scratch with no memory of yesterday, no persistent file system, no long-running processes. Projects help, but only inside the chat surface. On the VPS, Claude works directly in my Obsidian vault, so notes, meeting logs, and project files are always one read away.</li>
+<li><strong>Workflow fit.</strong> For this to be worth the effort, it had to augment the tools I already use rather than introduce a parallel one. The VPS lets me orchestrate MCPs, chain them into skills, schedule them with cron, and expose Claude through whatever interface I want (Telegram, web, soon probably more).</li>
+</ol>
+<h2 id="the-architecture">The architecture</h2>
+<p>The VPS is the hub. Inputs come in from Telegram, the browser, or scheduled cron jobs. Claude operates on the vault and reaches out through MCP servers to the services I actually use day to day. Everything important is backed up to Backblaze B2 overnight. The follwing services are running:</p>
+<ul>
+<li>
+<p><strong>Claude Remote</strong> is the core. It runs <code>claude remote-control</code>, which makes the Claude session accessible from claude.ai and the Claude apps. The working directory is my Obsidian vault, so Claude has full context of my notes, meeting logs, and project files.</p>
+</li>
+<li>
+<p><strong>Claude Telegram</strong> exposes the same session as a Telegram bot via a Python PTY wrapper. I message the bot, Claude processes it, replies in the chat. Quick questions, calendar checks, task management, drafting messages — all from my phone.</p>
+</li>
+<li>
+<p><strong>Obsidian Sync</strong> runs the <code>ob</code> CLI in continuous mode, keeping the server-side vault in sync with Obsidian&rsquo;s sync servers. This bidirectional sync is what makes the whole thing work: Claude operates on the same vault I use every day.</p>
+</li>
+<li>
+<p><strong>AssemblyAI Watcher</strong> monitors a folder in the vault for audio files. When I record a voice memo on my phone, Obsidian Sync pushes it to the server, the watcher picks it up, sends it to AssemblyAI with speaker diarization and language detection, and writes a structured markdown transcript back into the vault. Original audio is archived automatically. Set it up so the service is independent of the workflow, in case I want to switch to another transcription service later on. For client meetings etc. I do not use this though, but rather MacWhisper with local transcritpion on my Mac. I use the LLM model and harness approved by the client, for cleanup.</p>
+</li>
+<li>
+<p><strong>Meeting Watcher</strong> is the same idea for meeting transcripts dropped into a different folder. It runs the <code>/meeting-summary</code> skill automatically and turns raw transcripts into structured notes in the right place.</p>
+</li>
+<li>
+<p><strong>Kopia Backup</strong> runs nightly at 03:00, backing up the server to Backblaze B2 with zstd compression. Retention is 7 daily, 4 weekly, 24 monthly, 3 annual. After each backup it restarts the Claude Remote service so that new skills, agent definitions, or MCP config changes get picked up overnight without manual intervention.</p>
+</li>
+<li>
+<p><strong>System Monitor</strong> checks CPU, RAM, and disk every 60 seconds and pings me on Telegram if anything looks off.</p>
+</li>
+</ul>
+<p>Other than logging in, all these services was set up by Claude.</p>
+<h2 id="mcp-integrations">MCP integrations</h2>
+<p>Claude connects to external services through MCP (Model Context Protocol). Currently: Gmail, Google Calendar, Slack, Notion, Miro, Todoist, Tripletex, LastFM, PocketCasts, NotebookLM, and a self-hosted Open Notebook. Some are cloud-side, others run locally on the VPS.</p>
+<p>All these integrations makes it an assistant, where I can ask things like &ldquo;What&rsquo;s on my calendar tomorrow?&rdquo; is a Telegram message. &ldquo;Summarize unread threads on Slack&rdquo; is a Telegram message. &ldquo;Create a Todoist task for the quarterly review, priority 2, due next Friday&rdquo; is a Telegram message.</p>
+<h2 id="skills-and-agents">Skills and agents</h2>
+<p>Claude Code supports custom skills, reusable prompts for specific tasks. I have skills for cleaning up transcriptions, editing blog posts, processing Readwise highlights, logging hours in Tripletex, and a dozen other things. The definitions live in a <code>CLAUDE/</code> folder in the vault with symlinks into the directory Claude Code expects.</p>
+<p>Because they&rsquo;re in the vault, any change I make on my laptop syncs to the server automatically through Obsidian Sync. This means I also can use</p>
+<p>Cron can run Claude as a <strong>scheduled agent</strong> through <code>claude -p &quot;prompt&quot; --allowedTools &quot;tools&quot;</code>. I have a daily morning brief that checks Slack, Gmail, and calendar, and a weekly review that summarizes open Todoist tasks and surfaces what slipped. Output gets piped to my Telegram session, so the briefing shows up like any other message. I&rsquo;ve learned that from June 15, 2026, programmatic <code>claude -p</code> and Agent SDK usage <a href="https://support.claude.com/en/articles/15036540-use-the-claude-agent-sdk-with-your-claude-plan">draws from a separate monthly credit billed at full API rates</a>, which means I might adjust this approach.</p>
+<p>I&rsquo;ve been skeptical of AI tools for years. What changed my mind was not the language models themselves. It was the integrations. An LLM that can read and write to the tools I already use is fundamentally different from one that just generates text. As <a href="https://mht.wtf">one writer put it</a>, LLMs become useful when they can actually <em>do things</em>.</p>
+<p>There&rsquo;s a related point I keep coming back to: <a href="https://www.reddit.com/r/ChatGPT/comments/1jxqzjy/ais_real_superpower_consuming_not_creating/">AI&rsquo;s real superpower is consuming, not creating</a>. The value isn&rsquo;t in having Claude generate text for me. It&rsquo;s in having it read my calendar, cross-reference my notes, and surface what I need to know right now. The consuming side, parsing, connecting, summarizing across sources, is where the leverage sits.</p>
 ]]></content:encoded></item><item><title>Gir LLMer mindre administrasjon, og mer ledelse?</title><link>https://www.svorstol.com/blog/2026/03-30-less-admin-more-leadership/</link><pubDate>Mon, 30 Mar 2026 12:00:00 +0000</pubDate><author>stein-otto@svorstol.com (Stein-Otto Svorstøl)</author><guid>https://www.svorstol.com/blog/2026/03-30-less-admin-more-leadership/</guid><description>&lt;p&gt;Etter noen år som skeptisk til LLMer, har det de siste månedene skjedd et skifte. Fra ChatGPT som kun produserte grenseløst mye tekst, og hvis største nytte var å håndtere e-postskriving med engelsktalende leverandører, er de nye verktøyene faktisk nyttige. De har nemlig integrasjoner med produktivitetsverktøy, og det virker. Dermed kan e-post, gjøremålsliste, kalender, dokumentasjonsystemer, notatløsninger som Obsidian og mye annet faktisk organiseres av en agent. Prosesser med flere steg kan gjennomføres, og den kan bruke verktøy. Det sparer tid og er veldig nyttig. Det reduserer tid brukt på administrasjon. Administrasjon er jo den delen av enhver lederjobb som er minst interessant. Jeg kan bruke mer tid på faktisk ledelse.&lt;/p&gt;</description><content:encoded><![CDATA[<p>Etter noen år som skeptisk til LLMer, har det de siste månedene skjedd et skifte. Fra ChatGPT som kun produserte grenseløst mye tekst, og hvis største nytte var å håndtere e-postskriving med engelsktalende leverandører, er de nye verktøyene faktisk nyttige. De har nemlig integrasjoner med produktivitetsverktøy, og det virker. Dermed kan e-post, gjøremålsliste, kalender, dokumentasjonsystemer, notatløsninger som Obsidian og mye annet faktisk organiseres av en agent. Prosesser med flere steg kan gjennomføres, og den kan bruke verktøy. Det sparer tid og er veldig nyttig. Det reduserer tid brukt på administrasjon. Administrasjon er jo den delen av enhver lederjobb som er minst interessant. Jeg kan bruke mer tid på faktisk ledelse.</p>
 <p>Hva er så ledelse? For meg består det av tre steg:</p>
 <ol>
@@ -128,258 +173,258 @@ Last updated June 5, 2024.</em></p>
 &lt;p&gt;&lt;em&gt;Last updated March 14 2026&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve recently done a clean-up of licenses that I have, and thought about what software I use. Here&amp;rsquo;s what I&amp;rsquo;m currently using and am subscribed to (and thereby support):&lt;/p&gt;
 &lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th style="text-align: left"&gt;App&lt;/th&gt;
- &lt;th style="text-align: left"&gt;Description&lt;/th&gt;
- &lt;th style="text-align: left"&gt;Usage/comment&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;&lt;strong&gt;Productivity&lt;/strong&gt;&lt;/td&gt;
- &lt;td style="text-align: left"&gt;&lt;/td&gt;
- &lt;td style="text-align: left"&gt;&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Firefox and Kagi&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Web browsing and search&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Kagi is a search engine that values privacy by having no ads. It&amp;rsquo;s supported with a subcription. Paying for search felt a bit weird in the beginning, but after a while I was hooked. Their results are better and much less cluttered than DuckDuckGo, Brave and Google. Talking about Brave, I use their browser when I need a Chromium based one. Firefox for everything else. Love their extensions.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Obsidian&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Notes&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Local and markdown based. Their Sync service works really well across devices. Moved away from Notion for this.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Remarkable&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Notes&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Used with my Remarkable, which is mostly for quick capture and thinking. I send my notes to myself by email, or gather them from the app, and dump them into Obsidian&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Todoist&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Todo application&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Fantastic application: Easy to use, highly customizeable and cheap. Long term user.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;1Password&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Password management&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Moved to 1Pass from Lastpass a few years ago. Usable, everything I could ask for in a password manager.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Kagi Assistant&lt;/td&gt;
- &lt;td style="text-align: left"&gt;AI assistant&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Used for research.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Claude&lt;/td&gt;
- &lt;td style="text-align: left"&gt;AI assistant&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Used for various tasks, such as organizing my calendar, mail, and automating other administrative tasks. I also use it for some software development.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;MacWhisper Pro&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Transcriptions&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Local meeting transcriptions, and dictation.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Proton Mail, Drive, VPN and SimpleLogin&lt;/td&gt;
- &lt;td style="text-align: left"&gt;E-mail, storage, VPN, email alias&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Recently bought 2 years of Proton Duo (with my wife) to handle mail with a custom domain, and get some long-term storage. In addition, it feels good to support a privacy oriented ethos. Some limitations in usability but it works well enough. Great value.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Ente&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Photo storage&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Encrypted photo storage, with a user experience liking that of Google Photos but with on-device AI features for the moments/on this day thing. Easy to let others add photos to an album, without them having an account.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;&lt;strong&gt;Content&lt;/strong&gt;&lt;/td&gt;
- &lt;td style="text-align: left"&gt;&lt;/td&gt;
- &lt;td style="text-align: left"&gt;&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Readwise Reader&lt;/td&gt;
- &lt;td style="text-align: left"&gt;RSS reader and read it later-app&lt;/td&gt;
- &lt;td style="text-align: left"&gt;In addition to being my RSS reader (replacing Feedly) and read it later app (replacing Pocket) Also used for gathering quotes from various sources, and syncing those into Obsidian&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;PocketCast&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Podcast client&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Long term user, fantastic product. Got in early, so I got a lifetime subscription which is great value.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Snipcast&lt;/td&gt;
- &lt;td style="text-align: left"&gt;AI summary of podcasts&lt;/td&gt;
- &lt;td style="text-align: left"&gt;A colleague of mine made it, and it works really well. I provide it a podcast link, it summarizes it. A email filter forwards the summary into Readwise Reader.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Storygraph&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Book tracking&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Track what I&amp;rsquo;m reading, and share with the few that also has a Storygraph account. I&amp;rsquo;ve subscribed to get even better stats.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;I&amp;rsquo;m still on Goodreads as many of my friends are there. I add books there about once a month.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Last.fm&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Music tracking&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Track what I&amp;rsquo;m listening to across services, just for fun and stats.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Discogs&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Music tracking&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Tracks my collection of vinyl and CDs, and lets me scrobble to last.fm&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;&lt;strong&gt;Communication&lt;/strong&gt;&lt;/td&gt;
- &lt;td style="text-align: left"&gt;&lt;/td&gt;
- &lt;td style="text-align: left"&gt;&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Signal&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Messaging app&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Great app, works well across devices. My goal is to only use this and SMS.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Sadly, there still are social situations that makes Facebook Messenger (and Facebook) necessary.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;&lt;strong&gt;Lifestyle&lt;/strong&gt;&lt;/td&gt;
- &lt;td style="text-align: left"&gt;&lt;/td&gt;
- &lt;td style="text-align: left"&gt;&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Headspace&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Meditation app&lt;/td&gt;
- &lt;td style="text-align: left"&gt;I bought a lifetime subscription over 10 years back, which I still use regularly.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;Hevy&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Workout tracking&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Used for tracking weight lifting workouts. I&amp;rsquo;ve been through a few apps, this covers most of my bases. Only thing missing now is automated weight increased based on a set program, but it seems like they are continuously developing it. Lifetime subscription.&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;App&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;Description&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;Usage/comment&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;Productivity&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Firefox and Kagi&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Web browsing and search&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Kagi is a search engine that values privacy by having no ads. It&amp;rsquo;s supported with a subcription. Paying for search felt a bit weird in the beginning, but after a while I was hooked. Their results are better and much less cluttered than DuckDuckGo, Brave and Google. Talking about Brave, I use their browser when I need a Chromium based one. Firefox for everything else. Love their extensions.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Obsidian&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Notes&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Local and markdown based. Their Sync service works really well across devices. Moved away from Notion for this.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Remarkable&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Notes&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Used with my Remarkable, which is mostly for quick capture and thinking. I send my notes to myself by email, or gather them from the app, and dump them into Obsidian&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Todoist&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Todo application&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Fantastic application: Easy to use, highly customizeable and cheap. Long term user.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;1Password&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Password management&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Moved to 1Pass from Lastpass a few years ago. Usable, everything I could ask for in a password manager.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Kagi Assistant&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;AI assistant&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Used for research.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Claude&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;AI assistant&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Used for various tasks, such as organizing my calendar, mail, and automating other administrative tasks. I also use it for some software development.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;MacWhisper Pro&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Transcriptions&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Local meeting transcriptions, and dictation.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Proton Mail, Drive, VPN and SimpleLogin&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;E-mail, storage, VPN, email alias&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Recently bought 2 years of Proton Duo (with my wife) to handle mail with a custom domain, and get some long-term storage. In addition, it feels good to support a privacy oriented ethos. Some limitations in usability but it works well enough. Great value.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Ente&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Photo storage&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Encrypted photo storage, with a user experience liking that of Google Photos but with on-device AI features for the moments/on this day thing. Easy to let others add photos to an album, without them having an account.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;Content&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Readwise Reader&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;RSS reader and read it later-app&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;In addition to being my RSS reader (replacing Feedly) and read it later app (replacing Pocket) Also used for gathering quotes from various sources, and syncing those into Obsidian&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;PocketCast&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Podcast client&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Long term user, fantastic product. Got in early, so I got a lifetime subscription which is great value.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Snipcast&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;AI summary of podcasts&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;A colleague of mine made it, and it works really well. I provide it a podcast link, it summarizes it. A email filter forwards the summary into Readwise Reader.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Storygraph&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Book tracking&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Track what I&amp;rsquo;m reading, and share with the few that also has a Storygraph account. I&amp;rsquo;ve subscribed to get even better stats.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;I&amp;rsquo;m still on Goodreads as many of my friends are there. I add books there about once a month.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Last.fm&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Music tracking&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Track what I&amp;rsquo;m listening to across services, just for fun and stats.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Discogs&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Music tracking&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Tracks my collection of vinyl and CDs, and lets me scrobble to last.fm&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;Communication&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Signal&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Messaging app&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Great app, works well across devices. My goal is to only use this and SMS.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Sadly, there still are social situations that makes Facebook Messenger (and Facebook) necessary.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;strong&gt;Lifestyle&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Headspace&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Meditation app&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;I bought a lifetime subscription over 10 years back, which I still use regularly.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;Hevy&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Workout tracking&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Used for tracking weight lifting workouts. I&amp;rsquo;ve been through a few apps, this covers most of my bases. Only thing missing now is automated weight increased based on a set program, but it seems like they are continuously developing it. Lifetime subscription.&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;</description><content:encoded><![CDATA[<h2 id="software-i-use">Software I use</h2>
 <p><em>Last updated March 14 2026</em></p>
 <p>I&rsquo;ve recently done a clean-up of licenses that I have, and thought about what software I use. Here&rsquo;s what I&rsquo;m currently using and am subscribed to (and thereby support):</p>
 <table>
-  <thead>
-      <tr>
-          <th style="text-align: left">App</th>
-          <th style="text-align: left">Description</th>
-          <th style="text-align: left">Usage/comment</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td style="text-align: left"><strong>Productivity</strong></td>
-          <td style="text-align: left"></td>
-          <td style="text-align: left"></td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Firefox and Kagi</td>
-          <td style="text-align: left">Web browsing and search</td>
-          <td style="text-align: left">Kagi is a search engine that values privacy by having no ads. It&rsquo;s supported with a subcription. Paying for search felt a bit weird in the beginning, but after a while I was hooked. Their results are better and much less cluttered than DuckDuckGo, Brave and Google. Talking about Brave, I use their browser when I need a Chromium based one. Firefox for everything else. Love their extensions.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Obsidian</td>
-          <td style="text-align: left">Notes</td>
-          <td style="text-align: left">Local and markdown based. Their Sync service works really well across devices. Moved away from Notion for this.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Remarkable</td>
-          <td style="text-align: left">Notes</td>
-          <td style="text-align: left">Used with my Remarkable, which is mostly for quick capture and thinking. I send my notes to myself by email, or gather them from the app, and dump them into Obsidian</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Todoist</td>
-          <td style="text-align: left">Todo application</td>
-          <td style="text-align: left">Fantastic application: Easy to use, highly customizeable and cheap. Long term user.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">1Password</td>
-          <td style="text-align: left">Password management</td>
-          <td style="text-align: left">Moved to 1Pass from Lastpass a few years ago. Usable, everything I could ask for in a password manager.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Kagi Assistant</td>
-          <td style="text-align: left">AI assistant</td>
-          <td style="text-align: left">Used for research.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Claude</td>
-          <td style="text-align: left">AI assistant</td>
-          <td style="text-align: left">Used for various tasks, such as organizing my calendar, mail, and automating other administrative tasks. I also use it for some software development.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">MacWhisper Pro</td>
-          <td style="text-align: left">Transcriptions</td>
-          <td style="text-align: left">Local meeting transcriptions, and dictation.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Proton Mail, Drive, VPN and SimpleLogin</td>
-          <td style="text-align: left">E-mail, storage, VPN, email alias</td>
-          <td style="text-align: left">Recently bought 2 years of Proton Duo (with my wife) to handle mail with a custom domain, and get some long-term storage. In addition, it feels good to support a privacy oriented ethos. Some limitations in usability but it works well enough. Great value.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Ente</td>
-          <td style="text-align: left">Photo storage</td>
-          <td style="text-align: left">Encrypted photo storage, with a user experience liking that of Google Photos but with on-device AI features for the moments/on this day thing. Easy to let others add photos to an album, without them having an account.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left"><strong>Content</strong></td>
-          <td style="text-align: left"></td>
-          <td style="text-align: left"></td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Readwise Reader</td>
-          <td style="text-align: left">RSS reader and read it later-app</td>
-          <td style="text-align: left">In addition to being my RSS reader (replacing Feedly) and read it later app (replacing Pocket) Also used for gathering quotes from various sources, and syncing those into Obsidian</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">PocketCast</td>
-          <td style="text-align: left">Podcast client</td>
-          <td style="text-align: left">Long term user, fantastic product. Got in early, so I got a lifetime subscription which is great value.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Snipcast</td>
-          <td style="text-align: left">AI summary of podcasts</td>
-          <td style="text-align: left">A colleague of mine made it, and it works really well. I provide it a podcast link, it summarizes it. A email filter forwards the summary into Readwise Reader.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Storygraph</td>
-          <td style="text-align: left">Book tracking</td>
-          <td style="text-align: left">Track what I&rsquo;m reading, and share with the few that also has a Storygraph account. I&rsquo;ve subscribed to get even better stats.<!-- raw HTML omitted --><!-- raw HTML omitted -->I&rsquo;m still on Goodreads as many of my friends are there. I add books there about once a month.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Last.fm</td>
-          <td style="text-align: left">Music tracking</td>
-          <td style="text-align: left">Track what I&rsquo;m listening to across services, just for fun and stats.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Discogs</td>
-          <td style="text-align: left">Music tracking</td>
-          <td style="text-align: left">Tracks my collection of vinyl and CDs, and lets me scrobble to last.fm</td>
-      </tr>
-      <tr>
-          <td style="text-align: left"><strong>Communication</strong></td>
-          <td style="text-align: left"></td>
-          <td style="text-align: left"></td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Signal</td>
-          <td style="text-align: left">Messaging app</td>
-          <td style="text-align: left">Great app, works well across devices. My goal is to only use this and SMS.<!-- raw HTML omitted --><!-- raw HTML omitted -->Sadly, there still are social situations that makes Facebook Messenger (and Facebook) necessary.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left"><strong>Lifestyle</strong></td>
-          <td style="text-align: left"></td>
-          <td style="text-align: left"></td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Headspace</td>
-          <td style="text-align: left">Meditation app</td>
-          <td style="text-align: left">I bought a lifetime subscription over 10 years back, which I still use regularly.</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Hevy</td>
-          <td style="text-align: left">Workout tracking</td>
-          <td style="text-align: left">Used for tracking weight lifting workouts. I&rsquo;ve been through a few apps, this covers most of my bases. Only thing missing now is automated weight increased based on a set program, but it seems like they are continuously  developing it. Lifetime subscription.</td>
-      </tr>
-  </tbody>
+	<thead>
+			<tr>
+					<th style="text-align: left">App</th>
+					<th style="text-align: left">Description</th>
+					<th style="text-align: left">Usage/comment</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td style="text-align: left"><strong>Productivity</strong></td>
+					<td style="text-align: left"></td>
+					<td style="text-align: left"></td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Firefox and Kagi</td>
+					<td style="text-align: left">Web browsing and search</td>
+					<td style="text-align: left">Kagi is a search engine that values privacy by having no ads. It&rsquo;s supported with a subcription. Paying for search felt a bit weird in the beginning, but after a while I was hooked. Their results are better and much less cluttered than DuckDuckGo, Brave and Google. Talking about Brave, I use their browser when I need a Chromium based one. Firefox for everything else. Love their extensions.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Obsidian</td>
+					<td style="text-align: left">Notes</td>
+					<td style="text-align: left">Local and markdown based. Their Sync service works really well across devices. Moved away from Notion for this.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Remarkable</td>
+					<td style="text-align: left">Notes</td>
+					<td style="text-align: left">Used with my Remarkable, which is mostly for quick capture and thinking. I send my notes to myself by email, or gather them from the app, and dump them into Obsidian</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Todoist</td>
+					<td style="text-align: left">Todo application</td>
+					<td style="text-align: left">Fantastic application: Easy to use, highly customizeable and cheap. Long term user.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">1Password</td>
+					<td style="text-align: left">Password management</td>
+					<td style="text-align: left">Moved to 1Pass from Lastpass a few years ago. Usable, everything I could ask for in a password manager.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Kagi Assistant</td>
+					<td style="text-align: left">AI assistant</td>
+					<td style="text-align: left">Used for research.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Claude</td>
+					<td style="text-align: left">AI assistant</td>
+					<td style="text-align: left">Used for various tasks, such as organizing my calendar, mail, and automating other administrative tasks. I also use it for some software development.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">MacWhisper Pro</td>
+					<td style="text-align: left">Transcriptions</td>
+					<td style="text-align: left">Local meeting transcriptions, and dictation.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Proton Mail, Drive, VPN and SimpleLogin</td>
+					<td style="text-align: left">E-mail, storage, VPN, email alias</td>
+					<td style="text-align: left">Recently bought 2 years of Proton Duo (with my wife) to handle mail with a custom domain, and get some long-term storage. In addition, it feels good to support a privacy oriented ethos. Some limitations in usability but it works well enough. Great value.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Ente</td>
+					<td style="text-align: left">Photo storage</td>
+					<td style="text-align: left">Encrypted photo storage, with a user experience liking that of Google Photos but with on-device AI features for the moments/on this day thing. Easy to let others add photos to an album, without them having an account.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Content</strong></td>
+					<td style="text-align: left"></td>
+					<td style="text-align: left"></td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Readwise Reader</td>
+					<td style="text-align: left">RSS reader and read it later-app</td>
+					<td style="text-align: left">In addition to being my RSS reader (replacing Feedly) and read it later app (replacing Pocket) Also used for gathering quotes from various sources, and syncing those into Obsidian</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">PocketCast</td>
+					<td style="text-align: left">Podcast client</td>
+					<td style="text-align: left">Long term user, fantastic product. Got in early, so I got a lifetime subscription which is great value.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Snipcast</td>
+					<td style="text-align: left">AI summary of podcasts</td>
+					<td style="text-align: left">A colleague of mine made it, and it works really well. I provide it a podcast link, it summarizes it. A email filter forwards the summary into Readwise Reader.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Storygraph</td>
+					<td style="text-align: left">Book tracking</td>
+					<td style="text-align: left">Track what I&rsquo;m reading, and share with the few that also has a Storygraph account. I&rsquo;ve subscribed to get even better stats.<!-- raw HTML omitted --><!-- raw HTML omitted -->I&rsquo;m still on Goodreads as many of my friends are there. I add books there about once a month.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Last.fm</td>
+					<td style="text-align: left">Music tracking</td>
+					<td style="text-align: left">Track what I&rsquo;m listening to across services, just for fun and stats.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Discogs</td>
+					<td style="text-align: left">Music tracking</td>
+					<td style="text-align: left">Tracks my collection of vinyl and CDs, and lets me scrobble to last.fm</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Communication</strong></td>
+					<td style="text-align: left"></td>
+					<td style="text-align: left"></td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Signal</td>
+					<td style="text-align: left">Messaging app</td>
+					<td style="text-align: left">Great app, works well across devices. My goal is to only use this and SMS.<!-- raw HTML omitted --><!-- raw HTML omitted -->Sadly, there still are social situations that makes Facebook Messenger (and Facebook) necessary.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left"><strong>Lifestyle</strong></td>
+					<td style="text-align: left"></td>
+					<td style="text-align: left"></td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Headspace</td>
+					<td style="text-align: left">Meditation app</td>
+					<td style="text-align: left">I bought a lifetime subscription over 10 years back, which I still use regularly.</td>
+			</tr>
+			<tr>
+					<td style="text-align: left">Hevy</td>
+					<td style="text-align: left">Workout tracking</td>
+					<td style="text-align: left">Used for tracking weight lifting workouts. I&rsquo;ve been through a few apps, this covers most of my bases. Only thing missing now is automated weight increased based on a set program, but it seems like they are continuously  developing it. Lifetime subscription.</td>
+			</tr>
+	</tbody>
 </table>
 ]]></content:encoded></item><item><title>Causes</title><link>https://www.svorstol.com/causes/</link><pubDate>Tue, 15 Apr 2025 10:57:04 +0000</pubDate><author>stein-otto@svorstol.com (Stein-Otto Svorstøl)</author><guid>https://www.svorstol.com/causes/</guid><description>&lt;h2 id="my-causes"&gt;My causes&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Last updated April 17 2025&lt;/em&gt;&lt;/p&gt;
@@ -1183,8 +1228,8 @@ is not a silver bullet. We&rsquo;ll always need to tailor to context.</p>
 <p>The talk is in Norwegian and can be seen below.  Slides may be read <a href="/2021/CC21.pdf">here</a></p>
 <p>Enjoy</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PV7WUHarQhA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-    </div>
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PV7WUHarQhA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
 
 ]]></content:encoded></item><item><title>Solving complex problems as fast as possible</title><link>https://www.svorstol.com/blog/2021/02-27-solving-complex-problems/</link><pubDate>Sat, 27 Feb 2021 21:43:16 +0100</pubDate><author>stein-otto@svorstol.com (Stein-Otto Svorstøl)</author><guid>https://www.svorstol.com/blog/2021/02-27-solving-complex-problems/</guid><description>&lt;p&gt;As agile methods for software development has been quite widely adopted, the fact that hitting the specification on software is hard, also has been generally accepted. It has been hard, but it is now quite widely accepted that smaller iterations and getting user feedback fast, is crucial to building software that covers actual needs. This means better software, and better products. This trend means that we are starting to recognize that both product and software development are in of itself are complex problems &lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt;, where the solution will be emerging over time. It cannot be defined up front. It will also be improved over time, through discovery. This means that it actually not a about the product, nor the software. It is not about business, or earning money. It is about solving complex problems, and doing it faster than anyone else. How?&lt;/p&gt;</description><content:encoded><![CDATA[<p>As agile methods for software development has been quite widely adopted, the fact that hitting the specification on software is hard, also has been generally accepted. It has been hard, but it is now quite widely accepted that smaller iterations and getting user feedback fast, is crucial to building software that covers actual needs. This means better software, and better products. This trend means that we are starting to recognize that both product and software development are in of itself are complex problems <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, where the solution will be emerging over time. It cannot be defined up front. It will also be improved over time, through discovery. This means that it actually not a about the product, nor the software. It is not about business, or earning money. It is about solving complex problems, and doing it faster than anyone else. How?</p>
 <h3 id="what-enables-us-to-solve-complex-problems">What enables us to solve complex problems?</h3>
