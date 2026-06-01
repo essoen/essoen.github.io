@@ -1,6 +1,7 @@
 ---
 title: "GLaDOS: My Always-On AI Assistant"
-description: "How I set up an always-on Claude assistant on a VPS, and what it actually does for me"
+description: How I set up an always-on Claude assistant on a VPS, and what it
+  actually does for me
 draft: false
 tags:
   - ai
@@ -50,7 +51,7 @@ All these integrations makes it an assistant, where I can ask things like "What'
 
 Claude Code supports custom skills, reusable prompts for specific tasks. I have skills for cleaning up transcriptions, editing blog posts, processing Readwise highlights, logging hours in Tripletex, and a dozen other things. The definitions live in a `CLAUDE/` folder in the vault with symlinks into the directory Claude Code expects.
 
-Because they're in the vault, any change I make on my laptop syncs to the server automatically through Obsidian Sync. This means I also can use 
+Because they're in the vault, any change I make on my laptop syncs to the server automatically through Obsidian Sync. This means I also can use Claude Code on my computer directly, with the same agent and skills files.
 
 Cron can run Claude as a **scheduled agent** through `claude -p "prompt" --allowedTools "tools"`. I have a daily morning brief that checks Slack, Gmail, and calendar, and a weekly review that summarizes open Todoist tasks and surfaces what slipped. Output gets piped to my Telegram session, so the briefing shows up like any other message. I've learned that from June 15, 2026, programmatic `claude -p` and Agent SDK usage [draws from a separate monthly credit billed at full API rates](https://support.claude.com/en/articles/15036540-use-the-claude-agent-sdk-with-your-claude-plan), which means I might adjust this approach.
 
