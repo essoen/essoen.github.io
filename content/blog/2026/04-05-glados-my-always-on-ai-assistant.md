@@ -4,7 +4,6 @@ description: "How I set up an always-on Claude assistant on a VPS, and what it a
 draft: false
 tags:
   - ai
-  - tools
   - productivity
 date: 2026-04-05T12:00:00.000Z
 ---
