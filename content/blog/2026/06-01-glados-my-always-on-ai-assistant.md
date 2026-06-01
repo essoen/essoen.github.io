@@ -5,7 +5,7 @@ draft: false
 tags:
   - ai
   - productivity
-date: 2026-06-01T12:00:00.000Z
+date: 2026-06-01T06:00:00.000Z
 ---
 
 First off: I find the AI hype pretty exhausting, the second-order effects of AI jobs and energy and copyright are real, and most companies still report no measurable productivity gains from AI. I'm still a sceptic. But over the last few months something changed for me: The models have gotten better, but in particular I've found the the integrations around them has gotten good enough to be useful in my own daily life.
