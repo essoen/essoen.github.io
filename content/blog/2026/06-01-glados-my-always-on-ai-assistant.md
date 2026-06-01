@@ -13,7 +13,7 @@ First off: I find the AI hype pretty exhausting, the second-order effects of AI 
 
 So I stopped trying to evaluate AI as a category and started steering based on my own quality of life instead. The goal isn't to make Claude do my thinking, but improve my own daily life by [*reducing administration and free up time*](https://www.svorstol.com/blog/2026/hva-betyr-det-for-oss-at-llmer-reduserer-administrasjonskostnaden/). In practice this means that I push the routine, low-judgment work onto an assistant, and keep the thinking for myself. [Cognitive offloading, rather than cognitive surrender.](https://leehanchung.github.io/blogs/2026/05/01/dont-outsource-your-understanding/)
 
-To work towards that, I set up a small, cheap VPS with [Shrp in Norway](https://shrpt.no). It runs an always-on Claude Code instance connected to my productivity tools, accessible from my phone via Telegram and from any browser via Claude Code's remote control feature. I call the assistant [GLaDOS](https://en.wikipedia.org/wiki/GLaDOS).
+To work towards that, I set up a small, cheap VPS with [Shrp in Norway](https://shrp.no). It runs an always-on Claude Code instance connected to my productivity tools, accessible from my phone via Telegram and from any browser via Claude Code's remote control feature. I call the assistant [GLaDOS](https://en.wikipedia.org/wiki/GLaDOS).
 
 ## Why a VPS over Claude.ai and CoWork?
 
@@ -25,23 +25,24 @@ Claude already has a chat interface at claude.ai, MCP integrations for tools lik
 
 ## The architecture
 
-The VPS is the hub. Inputs come in from Telegram, the browser, or scheduled cron jobs. Claude operates on the vault and reaches out through MCP servers to the services I actually use day to day. Everything important is backed up to Backblaze B2 overnight. The follwing services are running:
+The VPS is the hub. Inputs come in from Telegram, the browser, or scheduled cron jobs. Claude operates on the vault and reaches out through MCP servers to the services I actually use day to day. Everything important is backed up to Backblaze B2 overnight. The following services are running:
 
-- **Claude Remote** is the core. It runs `claude remote-control`, which makes the Claude session accessible from claude.ai and the Claude apps. The working directory is my Obsidian vault, so Claude has full context of my notes, meeting logs, and project files.
+- **Claude:** Claude Code with remote control is the core. The VPS has a service that runs `claude remote-control`, which makes the Claude session accessible from claude.ai and the Claude apps. Claude has access to my Obsidian vault, which gives it full context of my notes.
 
-- **Claude Telegram** exposes the same session as a Telegram bot via a Python PTY wrapper. I message the bot, Claude processes it, replies in the chat. Quick questions, calendar checks, task management, drafting messages — all from my phone.
+- **Telegram access:** The Telegram Claude plugin exposes the same session as a Telegram bot via a Python PTY wrapper. I message the bot, Claude processes it, replies in the chat. Quick questions, calendar checks, task management, drafting messages can then be done from my phone.
 
-- **Obsidian Sync** runs the `ob` CLI in continuous mode, keeping the server-side vault in sync with Obsidian's sync servers. This bidirectional sync is what makes the whole thing work: Claude operates on the same vault I use every day.
+- **Obsidian Sync:** To have access to notes everywhere, I use Obsidian sync with the `ob` CLI in continuous mode, keeping the server-side vault in sync with Obsidian's sync servers. This bidirectional sync is what makes the whole thing work: Claude operates on the same vault I use every day.
 
-- **AssemblyAI Watcher** monitors a folder in the vault for audio files. When I record a voice memo on my phone, Obsidian Sync pushes it to the server, the watcher picks it up, sends it to AssemblyAI with speaker diarization and language detection, and writes a structured markdown transcript back into the vault. Original audio is archived automatically. Set it up so the service is independent of the workflow, in case I want to switch to another transcription service later on. For client meetings etc. I do not use this though, but rather MacWhisper with local transcritpion on my Mac. I use the LLM model and harness approved by the client, for cleanup.
+- **Transcription of voice memos with:** A script monitors a folder in the vault for audio files. When I record a voice memo on my phone (I use Quick Draft to quickly add them), Obsidian Sync pushes it to the VPS. The watcher picks it up, sends it to AssemblyAI with speaker diarization and language detection, and writes a structured markdown transcript back into the vault. Original audio is archived automatically. Set it up so the service is independent of the workflow, in case I want to switch to another transcription service later on. For client meetings etc. I do not use this though, but rather MacWhisper with local transcription on my Mac. For cleanup I use the LLM model and harness approved by the client.
 
-- **Meeting Watcher** is the same idea for meeting transcripts dropped into a different folder. It runs the `/meeting-summary` skill automatically and turns raw transcripts into structured notes in the right place.
+- **Meeting transcription:** As mentioned I usually use MacWhisper locally for meeting transcription, but I have a similar setup for cleanup of meeting transcriptions that can be processed by Claude. I drop the transcript into a different folder. It runs the `/meeting-summary` skill automatically and turns raw transcripts into structured notes in the right place.
 
-- **Kopia Backup** runs nightly at 03:00, backing up the server to Backblaze B2 with zstd compression. Retention is 7 daily, 4 weekly, 24 monthly, 3 annual. After each backup it restarts the Claude Remote service so that new skills, agent definitions, or MCP config changes get picked up overnight without manual intervention.
+- **Backup:** Kopia runs nightly at 03:00, backing up the server to Backblaze B2 with zstd compression. Retention is 7 daily, 4 weekly, 24 monthly, 3 annual. After each backup it restarts the Claude Remote service so that new skills, agent definitions, or MCP config changes get picked up overnight without manual intervention.
 
-- **System Monitor** checks CPU, RAM, and disk every 60 seconds and pings me on Telegram if anything looks off. 
+- **System Monitoring:r** A script monitors CPU, RAM, and disk every 60 seconds and pings me on Telegram if anything looks off. 
 
-Other than logging in, all these services was set up by Claude.
+Other than logging in, all these services was set up by Claude and not manually by me.
+
 ## MCP integrations
 
 Claude connects to external services through MCP (Model Context Protocol). Currently: Gmail, Google Calendar, Slack, Notion, Miro, Todoist, Tripletex, LastFM, PocketCasts, NotebookLM, and a self-hosted Open Notebook. Some are cloud-side, others run locally on the VPS.
